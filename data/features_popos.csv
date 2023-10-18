@@ -1,0 +1,17 @@
+Feature,22.04,21.10,21.04,20.10,20.04,19.10,19.04,18.10,18.04,17.10
+Release Date,2022-04-25,2021-12-14,2021-06-29,2020-10-23,2020-04-30,2019-10-19,2019-04-20,2018-10-19,2018-04-30,2017-10-18
+End Of Life,NA,NA,NA,NA,NA,2020-07,2020-01,2019-07,NA,NA
+Price (US$),Free,Free,Free,Free,Free,Free,Free,Free,Free,Free
+Image Size (MB),2500-3200,2500-3000,2400-2900,2200-2700,2100-2500,2100-2400,2100-2400,2000-2300,1800-2100,1700-1800
+Free Download,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop,https://system76.com/pop
+Installation,Graphical,Graphical,Graphical,Graphical,Graphical,Graphical,Graphical,Graphical,Graphical,Graphical
+Default Desktop,GNOME,GNOME,GNOME,GNOME,GNOME,GNOME,GNOME,GNOME,GNOME,GNOME
+Package Management,DEB (apt),DEB (apt),DEB (apt),DEB (apt),DEB (apt),DEB (apt),DEB (apt),DEB (apt),"DEB (apt), Snap","DEB (apt), Snap"
+Release Model,Fixed,Fixed,Fixed,Fixed,Fixed,Fixed,Fixed,Fixed,Fixed,Fixed
+Office Suite,LibreOffice,LibreOffice,LibreOffice,LibreOffice,LibreOffice,LibreOffice,LibreOffice,LibreOffice,LibreOffice,LibreOffice
+Processor Architecture,"ARM64, x86_64","ARM64, x86_64",x86_64,x86_64,x86_64,x86_64,x86_64,x86_64,x86_64,x86_64
+Init Software,systemd,systemd,systemd,systemd,systemd,systemd,systemd,systemd,systemd,systemd
+Journaled File Systems,"Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4","Btrfs, ext4"
+Multilingual,Yes,Yes,Yes,Yes,Yes,Yes,--,--,--,--
+Asian Language Support,--,--,--,--,--,--,--,--,--,--
+Number of Packages,1848,2609,2638,1832,1783,1772,1731,1758,1708,1698

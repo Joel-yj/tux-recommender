@@ -1,0 +1,17 @@
+Feature,20230814,20220713,20210726,20200210,20181004,20170808
+Release Date,2023-08-14,2022-07-17,2021-07-28,2020-02-10,2018-10-04,2017-08-08
+End Of Life,NA,NA,NA,NA,NA,NA
+Price (US$),Free,Free,Free,Free,Free,Free
+Image Size (MB),700-1700,700-1700,600-1400,600-1200,400-900,300-700
+Free Download,https://download.artixlinux.org/isos.php,https://download.artixlinux.org/isos.php,https://download.artixlinux.org/isos.php,https://download.artixlinux.org/isos.php,https://sourceforge.net/projects/artix-linux/files/iso/,https://sourceforge.net/projects/artix-linux/files/iso/
+Installation,Graphical,Graphical,Graphical,Graphical,Graphical,Graphical
+Default Desktop,"Cinnamon, LXDE, LXQt, MATE, KDE Plasma, Xfce","Cinnamon, LXDE, LXQt, MATE, KDE Plasma, Xfce","Cinnamon, LXDE, LXQt, MATE, KDE Plasma, Xfce","Cinnamon, LXDE, LXQt, MATE, KDE Plasma",LXQt,"i3, LXQt"
+Package Management,Pacman,Pacman,Pacman,Pacman,Pacman,Pacman
+Release Model,Rolling,Rolling,Rolling,Rolling,Rolling,Rolling
+Office Suite,--,--,--,--,--,--
+Processor Architecture,x86_64,x86_64,x86_64,x86_64,x86_64,x86_64
+Init Software,"Dinit, OpenRC, runit, S6","Dinit, OpenRC, runit, S6","OpenRC, runit, S6, Suite66","OpenRC, runit, S6","OpenRC, runit",OpenRC
+Journaled File Systems,"ext3, ext4","ext3, ext4","ext3, ext4","ext3, ext4","ext3, ext4","ext3, ext4"
+Multilingual,NA,NA,NA,NA,NA,NA
+Asian Language Support,NA,NA,NA,NA,NA,NA
+Number of Packages,1255,1252,2302,982,644,644
