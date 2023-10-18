@@ -2,3 +2,4 @@ streamlit
 pandas
 streamlit_searchbox
 streamlit_option_menu
+weaviate-client
