@@ -1,58 +1,178 @@
 import weaviate
 import json
-
+from weaviate.util import generate_uuid5
 
 client = weaviate.Client("http://localhost:8080")
 
-# Settings for displaying the import progress
-counter = 0
-interval = 20  # print progress every this many records; should be bigger than the batch_size
+distribution_class_schema = {
+    # name of class
+    "class" : "Distribution",
+    # description
+    "description" : "Distribution and their versions",
+    # class properties
+    "properties": [
+        {
+            "name": "distributionName",
+            "dataType" : ["string"],
+            "description" : "Name of distribution",
+        },
+        {
+            "name" : "versions",
+            "dataType" : ["Versions"],
+            "description" : "Versions of distribution",
+        }
+    ]
+}
 
-def add_debian_release(release_name, release_data):
-    properties = {
-        'Release_Date': release_data['Release Date'],
-        'End_Of_Life': release_data['End Of Life'],
-        'Price': release_data['Price (US$)'],
-        'Image_Size': release_data['Image Size (MB)'],
-        'Free_Download': release_data['Free Download'],
-        'Installation': release_data['Installation'],
-        'Default_Desktop': release_data['Default Desktop'],
-        'Package_Management': release_data['Package Management'],
-        'Release_Model': release_data['Release Model'],
-        'Office_Suite': release_data['Office Suite'],
-        'Processor_Architecture': release_data['Processor Architecture'],
-        'Init_Software': release_data['Init Software'],
-        'Journaled_File_Systems': release_data['Journaled File Systems'],
-        'Multilingual': release_data['Multilingual'],
-        'Asian_Language_Support': release_data['Asian Language Support'],
-        'Number_of_Packages': release_data['Number of Packages'],
+version_class_schema = {
+    "class" : "Versions",
+    "description" : "Versions of distribution",
+    "properties" : [
+        {
+            "name" : "version",
+            "dataType" : ["string"],
+            "description" : "Version of distribution",
+        },
+        {
+            "name" : "releaseDate",
+            "dataType" : ["string"],
+            "description" : "Release date of distribution",
+        },
+        {
+            "name" : "endOfLifeDate",
+            "dataType" : ["string"],
+            "description" : "End of life date of distribution",
+        },
+        {
+            "name" : "price",
+            "dataType" : ["string"],
+            "description" : "Price of distribution",
+        },
+        {
+            "name": "imageSize",
+            "dataType": ["string"],
+            "description": "Image Size in MB"
+        },
+        {
+            "name": "freeDownload",
+            "dataType": ["string"],
+            "description": "Link to Free Download"
+        },
+        {
+            "name": "installation",
+            "dataType": ["string"],
+            "description": "Installation Method"
+        },
+        {
+            "name": "defaultDesktop",
+            "dataType": ["string"],
+            "description": "Default Desktop Environment"
+        },
+        {
+            "name": "packageManagement",
+            "dataType": ["string"],
+            "description": "Package Management System"
+        },
+        {
+            "name": "releaseModel",
+            "dataType": ["string"],
+            "description": "Release Model"
+        },
+        {
+            "name": "officeSuite",
+            "dataType": ["string"],
+            "description": "Office Suite Software"
+        },
+        {
+            "name": "processorArchitecture",
+            "dataType": ["string"],
+            "description": "Processor Architecture"
+        },
+        {
+            "name": "initSoftware",
+            "dataType": ["string"],
+            "description": "Init Software"
+        },
+        {
+            "name": "journaledFileSystems",
+            "dataType": ["string"],
+            "description": "Journaled File Systems"
+        },
+        {
+            "name": "multilingual",
+            "dataType": ["string"],
+            "description": "Multilingual Support"
+        },
+        {
+            "name": "asianLanguageSupport",
+            "dataType": ["string"],
+            "description": "Asian Language Support"
+        },
+        {
+            "name": "numberOfPackages",
+            "dataType": ["string"],
+            "description": "Number of Packages"
+        }
+    ]
+}
+
+client.schema.delete_all()
+client.schema.create_class(version_class_schema)
+client.schema.create_class(distribution_class_schema)
+# print(client.schema.get())
+
+
+def add_distribution(batch, distribution_data):
+    distribution_obj = {
+        'distributionName' : distribution_data['Distribution Name'],
+        'versions' : distribution_data['Versions']
     }
+    distr_id = generate_uuid5(distribution_obj)
+    batch.add_data_object(
+        data_object= distribution_obj,
+        class_name= "Distribution",
+        uuid = distr_id,
+    )
+    return distr_id
 
-    client.batch.configure(batch_size=100)  # Configure batch
-    with client.batch as batch:
-        # Add the object to the batch
-        batch.add_data_object(
-            data_object=properties,
-            class_name='Debian',
-            # If you Bring Your Own Vectors, add the `vector` parameter here
-            # vector=obj.vector
-        )
+def add_version(batch,distr_name,version_data):
+    version_obj = {
+        'version' : version_data['Version'],
+        'releaseDate' : version_data['Release Date'],
+        'endOfLifeDate' : version_data['End of Life Date'],
+        'price' : version_data['Price'],
+        'imageSize' : version_data['Image Size'],
+        'freeDownload' : version_data['Free Download'],
+        'installation' : version_data['Installation'],
+        'defaultDesktop' : version_data['Default Desktop'],
+        'packageManagement' : version_data['Package Management'],
+        'releaseModel' : version_data['Release Model'],
+        'officeSuite' : version_data['Office Suite'],
+        'processorArchitecture' : version_data['Processor Architecture'],
+        'initSoftware' : version_data['Init Software'],
+        'journaledFileSystems' : version_data['Journaled File Systems'],
+        'multilingual' : version_data['Multilingual'],
+        'asianLanguageSupport' : version_data['Asian Language Support'],
+        'numberOfPackages' : version_data['Number of Packages']
+    }
+    batch.add_data_object(
+        data_object= version_obj,
+        class_name= "Versions",
+        uuid = generate_uuid5(version_obj),
+        reference = distr_name
+    )
 
+with open('data/debian_plus_arch.json','rb') as f:
+    data = json.load(f)
 
-with open('data/debian.json', 'r') as json_file:
-    data = json.load(json_file)
-    for release_name, release_data in data.items():
-        add_debian_release(release_name, release_data)
+client.batch.configure(batch_size=100)
 
-print('Importing Debian releases into Weaviate...')
-client.batch.flush()
-print('Finished importing Debian releases.')
-
-
-response = (
-    client.query
-    .get("Debian", ["Release Date"])
-    .with_limit(1)
-    .do()
-)
-print(response)
+with client.batch as batch:
+    for i,d in enumerate(data):
+        distr_id = add_distribution(batch,d)
+        print(distr_id)
+        for v in d['Versions']:
+            add_version(batch,distr_id,v)
+        if i % 100 == 0:
+            print(f'Processed {i} distributions')
+            
