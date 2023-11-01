@@ -44,7 +44,7 @@ version_class_schema = {
             "description" : "Release date of distribution",
         },
         {
-            "name" : "endOfLifeDate",
+            "name" : "endOfLife",
             "dataType" : ["string"],
             "description" : "End of life date of distribution",
         },
@@ -127,57 +127,53 @@ client.schema.create_class(version_class_schema)
 # print(client.schema.get())
 
 
-def add_distribution(batch, distribution_data):
-    distribution_obj = {
-        'distributionName' : distribution_data['Distribution Name'],
-        'versions' : distribution_data['Versions']
-    }
-    distr_id = generate_uuid5(distribution_obj)
-    batch.add_data_object(
-        data_object= distribution_obj,
-        class_name= "Distribution",
-        uuid = distr_id,
-    )
-    return distr_id
+# def add_distribution(batch, distribution_data):
+#     distribution_obj = {
+#         'distributionName' : distribution_data['Distribution Name'],
+#         'versions' : distribution_data['Versions']
+#     }
+#     distr_id = generate_uuid5(distribution_obj)
+#     batch.add_data_object(
+#         data_object= distribution_obj,
+#         class_name= "Distribution",
+#         uuid = distr_id,
+#     )
+#     return distr_id
 
-def add_version(batch,distr_name,version_data):
-    version_obj = {
-        'version' : version_data['Version'],
-        'releaseDate' : version_data['Release Date'],
-        'endOfLifeDate' : version_data['End of Life Date'],
-        'price' : version_data['Price'],
-        'imageSize' : version_data['Image Size'],
-        'freeDownload' : version_data['Free Download'],
-        'installation' : version_data['Installation'],
-        'defaultDesktop' : version_data['Default Desktop'],
-        'packageManagement' : version_data['Package Management'],
-        'releaseModel' : version_data['Release Model'],
-        'officeSuite' : version_data['Office Suite'],
-        'processorArchitecture' : version_data['Processor Architecture'],
-        'initSoftware' : version_data['Init Software'],
-        'journaledFileSystems' : version_data['Journaled File Systems'],
-        'multilingual' : version_data['Multilingual'],
-        'asianLanguageSupport' : version_data['Asian Language Support'],
-        'numberOfPackages' : version_data['Number of Packages']
-    }
-    batch.add_data_object(
-        data_object= version_obj,
-        class_name= "Versions",
-        uuid = generate_uuid5(version_obj),
-        reference = distr_name
-    )
+
 
 with open('data/debian_plus_arch.json','rb') as f:
-    data = json.load(f)
+    version_data = json.load(f)
 
-client.batch.configure(batch_size=100)
+    client.batch.configure(batch_size=100)
 
-with client.batch as batch:
-    for i,d in enumerate(data):
-        distr_id = add_distribution(batch,d)
-        print(distr_id)
-        for v in d['Versions']:
-            add_version(batch,distr_id,v)
+    with client.batch as batch:
+        for i,d in enumerate(version_data):
+            version_obj = {
+            'distributionName' : version_data[i]['Distribution Name'],
+            'version' : version_data[i]['Version'],
+            'releaseDate' : version_data[i]['Release Date'],
+            'endOfLife' : version_data[i]['End Of Life'],
+            'price' : version_data[i]['Price'],
+            'imageSize' : version_data[i]['Image Size'],
+            'freeDownload' : version_data[i]['Free Download'],
+            'installation' : version_data[i]['Installation'],
+            'defaultDesktop' : version_data[i]['Default Desktop'],
+            'packageManagement' : version_data[i]['Package Management'],
+            'releaseModel' : version_data[i]['Release Model'],
+            'officeSuite' : version_data[i]['Office Suite'],
+            'processorArchitecture' : version_data[i]['Processor Architecture'],
+            'initSoftware' : version_data[i]['Init Software'],
+            'journaledFileSystems' : version_data[i]['Journaled File Systems'],
+            'multilingual' : version_data[i]['Multilingual'],
+            'asianLanguageSupport' : version_data[i]['Asian Language Support'],
+            'numberOfPackages' : version_data[i]['Number of Packages']
+            }
+            batch.add_data_object(
+            data_object= version_obj,
+            class_name= "Versions",
+            uuid = generate_uuid5(version_obj),
+            )
         if i % 100 == 0:
             print(f'Processed {i} distributions')
             
