@@ -4,30 +4,35 @@ from weaviate.util import generate_uuid5
 
 client = weaviate.Client("http://localhost:8080")
 
-distribution_class_schema = {
-    # name of class
-    "class" : "Distribution",
-    # description
-    "description" : "Distribution and their versions",
-    # class properties
-    "properties": [
-        {
-            "name": "distributionName",
-            "dataType" : ["string"],
-            "description" : "Name of distribution",
-        },
-        {
-            "name" : "versions",
-            "dataType" : ["Versions"],
-            "description" : "Versions of distribution",
-        }
-    ]
-}
+# distribution_class_schema = {
+#     # name of class
+#     "class" : "Distribution",
+#     # description
+#     "description" : "Distribution and their versions",
+#     # class properties
+#     "properties": [
+#         {
+#             "name": "distributionName",
+#             "dataType" : ["string"],
+#             "description" : "Name of distribution",
+#         },
+#         {
+#             "name" : "versions",
+#             "dataType" : ["Versions"],
+#             "description" : "Versions of distribution",
+#         }
+#     ]
+# }
 
 version_class_schema = {
     "class" : "Versions",
     "description" : "Versions of distribution",
     "properties" : [
+        {
+            "name" : "distributionName",
+            "dataType" : ["string"],
+            "description" : "Name of distribution",
+        },
         {
             "name" : "version",
             "dataType" : ["string"],
@@ -118,7 +123,7 @@ version_class_schema = {
 
 client.schema.delete_all()
 client.schema.create_class(version_class_schema)
-client.schema.create_class(distribution_class_schema)
+# client.schema.create_class(distribution_class_schema)
 # print(client.schema.get())
 
 
