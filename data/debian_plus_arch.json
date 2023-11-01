@@ -3,7 +3,8 @@
     "Distribution Name": "Debian",
     "Versions": [
       {
-        "version": "unstablesid",
+        "Distribution Name": "Debian",
+        "version": "debian_unstablesid",
         "Release Date": "2023-10-07",
         "End Of Life": "NA",
         "Price (US$)": "Free",
