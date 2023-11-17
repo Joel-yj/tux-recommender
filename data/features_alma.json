@@ -1,0 +1,42 @@
+[
+  {
+    "distribution_name": "alma",
+    "version": "9.2",
+    "release_date": "2023-05-10",
+    "end_of_life": "NA",
+    "price": "Free",
+    "image_size": "800-8900",
+    "download_link": "https://repo.almalinux.org/almalinux/",
+    "installation_method": "Graphical",
+    "default_desktop": "GNOME, KDE Plasma, MATE, Xfce",
+    "package_management": "RPM (dnf)",
+    "release_model": "Fixed",
+    "office_suite": "LibreOffice",
+    "processor_architecture": "aarch64, ppc64le, s390x, x86_64",
+    "init_system": "systemd",
+    "file_system": "Btrfs, ext4",
+    "multilingual": "Yes",
+    "asian_language_support": "--",
+    "number_of_packages": "6768"
+  },
+  {
+    "distribution_name": "alma",
+    "version": "8.8",
+    "release_date": "2023-05-18",
+    "end_of_life": "NA",
+    "price": "Free",
+    "image_size": "800-11000",
+    "download_link": "https://repo.almalinux.org/almalinux/",
+    "installation_method": "Graphical",
+    "default_desktop": "GNOME",
+    "package_management": "RPM (dnf)",
+    "release_model": "Fixed",
+    "office_suite": "LibreOffice",
+    "processor_architecture": "aarch64, ppc64le, s390x, x86_64",
+    "init_system": "systemd",
+    "file_system": "Btrfs, ext4",
+    "multilingual": "Yes",
+    "asian_language_support": "--",
+    "number_of_packages": "8627"
+  }
+]
