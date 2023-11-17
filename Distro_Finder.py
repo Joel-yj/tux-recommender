@@ -29,7 +29,10 @@ else:
 
 #TODO Enable user to filter according to package/version from distribution found
 
-st.button("Search", on_click=weaviate_find())
+st.button("weaviate_test", on_click=weaviate_test())
+
+
+
 
 
 

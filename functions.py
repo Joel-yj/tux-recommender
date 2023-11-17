@@ -13,7 +13,7 @@ def search_distro(searchterm:str):
     else:
         return []
     
-def weaviate_find():
+def weaviate_test():
     response = (
     client.query.get('Versions', ['version', 'distribution_name'])
     # .with_near_vector(data_object)  # performs vector-wise semantic search (weaviate does this)
