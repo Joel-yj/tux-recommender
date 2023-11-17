@@ -29,12 +29,11 @@ else:
 
 #TODO Enable user to filter according to package/version from distribution found
 
+# testing the weaviate connection
 st.button("weaviate_test", on_click=weaviate_test())
 
 
+#TODO Enable user to input text to filter the attributes and return the distribution
 
-
-
-
-    
+#TODO UI mockup for the distribution homepage
 

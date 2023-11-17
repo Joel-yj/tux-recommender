@@ -22,4 +22,8 @@ def weaviate_test():
     .do()
     )
     print(json.dumps(response, indent=2))
+
+
+def feature_filter():
+    return 0
     

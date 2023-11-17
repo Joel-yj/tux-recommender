@@ -2,7 +2,6 @@ import weaviate
 import json
 from weaviate.util import generate_uuid5
 import glob
-import os
 
 client = weaviate.Client(
     "http://localhost:8080")

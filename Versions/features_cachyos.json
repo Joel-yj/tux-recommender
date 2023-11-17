@@ -1,1 +1,42 @@
-[{"distribution_name":"cachyos","version":"230806","release_date":"2023-08-06","end_of_life":"NA","price":"Free","image_size":"2400-2500","download_link":"https:\/\/sourceforge.net\/projects\/cachyos-arch\/files\/gui-installer\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma","package_management":"Pacman","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1149"},{"distribution_name":"cachyos","version":"221230","release_date":"2022-12-30","end_of_life":"NA","price":"Free","image_size":"2200-2300","download_link":"https:\/\/sourceforge.net\/projects\/cachyos-arch\/files\/gui-installer\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma","package_management":"Pacman","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1164"}]
+[
+  {
+    "distribution_name": "cachyos",
+    "version": "230806",
+    "release_date": "2023-08-06",
+    "end_of_life": "NA",
+    "price": "Free",
+    "image_size": "2400-2500",
+    "download_link": "https://sourceforge.net/projects/cachyos-arch/files/gui-installer/",
+    "installation_method": "Graphical",
+    "default_desktop": "GNOME, KDE Plasma",
+    "package_management": "Pacman",
+    "release_model": "Rolling",
+    "office_suite": "--",
+    "processor_architecture": "x86_64",
+    "init_system": "systemd",
+    "file_system": "Btrfs, ext4",
+    "multilingual": "Yes",
+    "asian_language_support": "Yes",
+    "number_of_packages": "1149"
+  },
+  {
+    "distribution_name": "cachyos",
+    "version": "221230",
+    "release_date": "2022-12-30",
+    "end_of_life": "NA",
+    "price": "Free",
+    "image_size": "2200-2300",
+    "download_link": "https://sourceforge.net/projects/cachyos-arch/files/gui-installer/",
+    "installation_method": "Graphical",
+    "default_desktop": "GNOME, KDE Plasma",
+    "package_management": "Pacman",
+    "release_model": "Rolling",
+    "office_suite": "--",
+    "processor_architecture": "x86_64",
+    "init_system": "systemd",
+    "file_system": "Btrfs, ext4",
+    "multilingual": "Yes",
+    "asian_language_support": "Yes",
+    "number_of_packages": "1164"
+  }
+]
