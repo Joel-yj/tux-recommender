@@ -24,6 +24,19 @@ def search_distro(searchterm:str):
 #     print(json.dumps(response, indent=2))
 
 
-def feature_filter():
-    return 0
+def feature_filter(search:str, feature:list):
+    outputs = feature + ["distribution_name"]
+    response = (
+    client.query
+    .get("Versions", outputs)
+    .with_where({
+        "path": feature,
+        "operator": "Like",
+        "valueText": f"*{search}*"
+    })
+    .with_limit(3)
+    .do()
+    )
+    
+    return response
     
