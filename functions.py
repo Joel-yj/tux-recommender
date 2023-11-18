@@ -27,15 +27,15 @@ def search_distro(searchterm:str):
 def feature_filter(search:str, feature:list):
     outputs = feature + ["distribution_name"]
     response = (
-    client.query
-    .get("Versions", outputs)
-    .with_where({
-        "path": feature,
-        "operator": "Like",
-        "valueText": f"*{search}*"
-    })
-    .with_limit(3)
-    .do()
+    # client.query
+    # .get("Versions", outputs)
+    # .with_where({
+    #     "path": feature,
+    #     "operator": "Like",
+    #     "valueText": f"*{search}*"
+    # })
+    # .with_limit(3)
+    # .do()
     )
     
     return response
