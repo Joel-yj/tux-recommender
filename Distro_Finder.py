@@ -11,9 +11,11 @@ st.set_page_config(page_title="DistroFinder", page_icon="🏠", layout="wide")
 st.title("🔍 DistroFinder ")
 st.markdown("##")
 
-
+# Sidebars
 st.sidebar.image("assets/tux.png",caption="Find your right LINUX system")
 
+# Main page
+st.subheader("Find your Linux System")
 df = pd.read_csv("Homepage.csv")
 df = df.drop(columns=["Unnamed: 0"])
 # Search Bar and version input
@@ -30,7 +32,7 @@ else:
 #TODO Enable user to filter according to package/version from distribution found
 
 # testing the weaviate connection
-st.button("weaviate_test", on_click=weaviate_test())
+# st.button("weaviate_test", on_click=weaviate_test())
 
 
 #TODO Enable user to input text to filter the attributes and return the distribution
