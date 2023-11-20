@@ -79,7 +79,7 @@ class_obj = {
     ]
 }
 
-data = pd.read_csv('Assignments/Group Project/Homepage.csv')
+data = pd.read_csv('Homepage.csv')
 class_name = "Distributions"
 
 data_objs = []

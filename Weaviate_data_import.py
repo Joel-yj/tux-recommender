@@ -12,7 +12,7 @@ class_obj = {
     "moduleConfig": {}
 }
 
-client.schema.delete_all()
+# client.schema.delete_all()
 client.schema.create_class(class_obj)
 
 class_name = "Versions"
@@ -27,7 +27,7 @@ for json_file in glob.glob("Versions/*.json"):
         with client.batch as batch:
             for data_obj in data_objs:
                 try:
-                    client.batch.add_data_object(
+                    batch.add_data_object(
                         data_obj,
                         class_name,
                         uuid=generate_uuid5(data_obj),

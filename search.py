@@ -12,6 +12,7 @@ def get_object_id(input):
         .do()
     )
     # get distribution id from response
+    print(response)
     distribution_id =  response['data']['Get']['Distributions'][0]['_additional']['id']
 
     return distribution_id
