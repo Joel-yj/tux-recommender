@@ -39,6 +39,13 @@ else:
 #TODO Enable user to filter according to package/version from distribution found
 st.subheader("Filter by Features")
 features = st.multiselect("Features", options=feature_names, default=feature_names[0])
+col1,col2 = st.columns(2)
+for feature in features:
+    with col1:
+        st.write(feature)
+    with col2:
+        st.text_input(f"Search for {feature}:",value=None)
+
 search = st.text_input("Search for feature:",value=None)
 
 if search == None:

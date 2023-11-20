@@ -6,7 +6,7 @@ client = weaviate.Client('http://localhost:8080')
 # to get object id from inputted distribution name
 def get_object_id(input):
     response = (
-        client.query.get('Distributions', ['name', 'description'])
+        client.query.get('Distributions', ['name', 'description', 'ids', 'homepage', 'popularity', 'rating'])
         .with_where({"path": "name", "operator": "Equal", "valueString": input})
         .with_additional(['id'])
         .do()
@@ -18,15 +18,15 @@ def get_object_id(input):
 
 
 data_object = client.data_object.get_by_id(
-            get_object_id('Rocky'),
+            get_object_id('MX'),
             class_name='Distributions',
             with_vector=True
         )
 
 response = (
-    client.query.get('Distributions', ['name', 'description'])
+    client.query.get('Distributions', ['name', 'description', 'ids', 'homepage', 'popularity', 'rating'])
     .with_near_vector(data_object)  # performs vector-wise semantic search (weaviate does this)
-    .with_limit(5)
+    .with_limit(10)
     .with_additional(['distance', 'id'])
     .do()
 

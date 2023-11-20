@@ -6,7 +6,7 @@ from weaviate.util import generate_uuid5
 client = weaviate.Client('http://localhost:8080')
 
 client.schema.delete_class('Distributions')
-client.schema.delete_class('Distribution')
+# client.schema.delete_class('Distribution')
 
 class_obj = {
     "class": "Distributions",
@@ -27,6 +27,16 @@ class_obj = {
         "description": "name of distribution"
     },
     {
+        "dataType": ['string'],
+        "name": "ids",
+        "moduleConfig": {
+            "text2vec-transformers": {
+                "skip": "true"   
+            }
+        },
+        "description": "id of distribution"
+    },
+    {
         "dataType": ["string"],
         "name": "description",
         "moduleConfig": {
@@ -35,16 +45,51 @@ class_obj = {
             }
         },
         "description": "description of distribution"
-    }]
+    },
+    {
+        "dataType": ["string"],
+        "name": "homepage",
+        "moduleConfig": {
+            "text2vec-transformers": {
+                "skip": "true" 
+            }
+        },
+        "description": "homepage link of distribution"
+    },
+    {
+        "dataType": ["string"],
+        "name": "popularity",
+        "moduleConfig": {
+            "text2vec-transformers": {
+                "skip": "true" 
+            }
+        },
+        "description": "popularity of distribution"
+    },
+    {
+        "dataType": ["string"],
+        "name": "rating",
+        "moduleConfig": {
+            "text2vec-transformers": {
+                "skip": "true" 
+            }
+        },
+        "description": "rating of distribution"
+    }
+    ]
 }
 
-data = pd.read_csv('data/Homepage.csv')
+data = pd.read_csv('Assignments/Group Project/Homepage.csv')
 class_name = "Distributions"
 
 data_objs = []
 for i,row in data.iterrows():
     obj = {"name": data['Name'][i],
-     "description": data['Description'][i]}
+    "ids": data['ID'][i],
+    "description": data['Description'][i],
+    "homepage": data['Homepage'][i],
+    "popularity": data['Popularities'][i],
+    "rating": data['Ratings'][i]}
     data_objs.append(obj)
 
 # client.batch.configure(batch_size=100)
