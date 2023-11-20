@@ -1,1 +1,309 @@
-[{"distribution_name":"slackel","version":"7.7","release_date":"2023-10-15","end_of_life":"NA","price":"Free","image_size":"2600-2700","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"955"},{"distribution_name":"slackel","version":"7.6","release_date":"2023-03-25","end_of_life":"NA","price":"Free","image_size":"2400-2500","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"943"},{"distribution_name":"slackel","version":"7.5","release_date":"2022-01-01","end_of_life":"NA","price":"Free","image_size":"2300-2400","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"942"},{"distribution_name":"slackel","version":"7.4","release_date":"2020-12-31","end_of_life":"NA","price":"Free","image_size":"2000-2100","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"923"},{"distribution_name":"slackel","version":"7.1","release_date":"2018-12-30","end_of_life":"NA","price":"Free","image_size":"1500-1600","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"876"},{"distribution_name":"slackel","version":"7.0","release_date":"2017-05-01","end_of_life":"NA","price":"Free","image_size":"1260-1349","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i486, i686, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"847"},{"distribution_name":"slackel","version":"6.0.8","release_date":"2016-11-19","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i486, i686, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"821"},{"distribution_name":"slackel","version":"5.0","release_date":"2013-10-16","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/sourceforge.net\/projects\/slackel\/files\/","installation_method":"Graphical","default_desktop":"Openbox","package_management":"TXZ","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"766"}]
+[
+    {
+        "distribution_name": "slackel",
+        "version": "7.7",
+        "release_date": "2023-10-15",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2600-2700",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "955"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "7.6",
+        "release_date": "2023-03-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2400-2500",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "943"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "7.5",
+        "release_date": "2022-01-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2300-2400",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "942"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "7.4",
+        "release_date": "2020-12-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2000-2100",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "923"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "7.1",
+        "release_date": "2018-12-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1500-1600",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "876"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "7.0",
+        "release_date": "2017-05-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1260-1349",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "847"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "6.0.8",
+        "release_date": "2016-11-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "821"
+    },
+    {
+        "distribution_name": "slackel",
+        "version": "5.0",
+        "release_date": "2013-10-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/slackel/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Openbox"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "766"
+    }
+]

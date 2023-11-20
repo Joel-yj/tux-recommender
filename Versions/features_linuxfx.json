@@ -1,1 +1,268 @@
-[{"distribution_name":"linuxfx","version":"11.4.0","release_date":"2023-07-31","end_of_life":"NA","price":"Free","image_size":"4300-4400","download_link":"https:\/\/sourceforge.net\/projects\/linuxfxdevil\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"--","number_of_packages":"2692"},{"distribution_name":"linuxfx","version":"11.2.22.04.7","release_date":"2023-02-23","end_of_life":"NA","price":"Free","image_size":"4600-4700","download_link":"https:\/\/sourceforge.net\/projects\/linuxfxdevil\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"--","number_of_packages":"2859"},{"distribution_name":"linuxfx","version":"11.1.1109","release_date":"2022-05-05","end_of_life":"NA","price":"Free","image_size":"4300-4400","download_link":"https:\/\/sourceforge.net\/projects\/linuxfxdevil\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"--","number_of_packages":"2763"},{"distribution_name":"linuxfx","version":"10.8.4","release_date":"2021-07-16","end_of_life":"NA","price":"Free","image_size":"4100-4300","download_link":"https:\/\/sourceforge.net\/projects\/linuxfxdevil\/files\/","installation_method":"Graphical","default_desktop":"Cinnamon, KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"--","number_of_packages":"3059"},{"distribution_name":"linuxfx","version":"9.4","release_date":"2018-09-09","end_of_life":"NA","price":"Free","image_size":"3600-3700","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"WPS","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, es, pt","asian_language_support":"--","number_of_packages":"2776"},{"distribution_name":"linuxfx","version":"8.0.2","release_date":"2017-07-06","end_of_life":"NA","price":"Free","image_size":"2600-2700","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"WPS","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, es, pt","asian_language_support":"--","number_of_packages":"2450"},{"distribution_name":"linuxfx","version":"7.4.2","release_date":"2016-05-16","end_of_life":"NA","price":"Free","image_size":"1700-1800","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, es, pt","asian_language_support":"--","number_of_packages":"1911"}]
+[
+    {
+        "distribution_name": "linuxfx",
+        "version": "11.4.0",
+        "release_date": "2023-07-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "4300-4400",
+        "download_link": "https://sourceforge.net/projects/linuxfxdevil/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2692"
+    },
+    {
+        "distribution_name": "linuxfx",
+        "version": "11.2.22.04.7",
+        "release_date": "2023-02-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "4600-4700",
+        "download_link": "https://sourceforge.net/projects/linuxfxdevil/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2859"
+    },
+    {
+        "distribution_name": "linuxfx",
+        "version": "11.1.1109",
+        "release_date": "2022-05-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "4300-4400",
+        "download_link": "https://sourceforge.net/projects/linuxfxdevil/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2763"
+    },
+    {
+        "distribution_name": "linuxfx",
+        "version": "10.8.4",
+        "release_date": "2021-07-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "4100-4300",
+        "download_link": "https://sourceforge.net/projects/linuxfxdevil/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3059"
+    },
+    {
+        "distribution_name": "linuxfx",
+        "version": "9.4",
+        "release_date": "2018-09-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3600-3700",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "WPS"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "pt"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2776"
+    },
+    {
+        "distribution_name": "linuxfx",
+        "version": "8.0.2",
+        "release_date": "2017-07-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2600-2700",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "WPS"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "pt"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2450"
+    },
+    {
+        "distribution_name": "linuxfx",
+        "version": "7.4.2",
+        "release_date": "2016-05-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1700-1800",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "pt"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1911"
+    }
+]

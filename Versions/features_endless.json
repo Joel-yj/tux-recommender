@@ -1,1 +1,163 @@
-[{"distribution_name":"endless","version":"5.0.5","release_date":"2023-07-21","end_of_life":"NA","price":"Free","image_size":"3300-18000","download_link":"https:\/\/support.endlessos.org\/en\/installation\/direct-download","installation_method":"Graphical","default_desktop":"EOS Shell (GNOME)","package_management":"Flatpak","release_model":"Fixed","office_suite":"--","processor_architecture":"arm64, x86_64","init_system":"systemd","file_system":"ext4","multilingual":"yes","asian_language_support":"NA","number_of_packages":"1553"},{"distribution_name":"endless","version":"4.0.10","release_date":"2022-10-12","end_of_life":"NA","price":"Free","image_size":"2600-17000","download_link":"https:\/\/support.endlessos.org\/en\/installation\/direct-download","installation_method":"Graphical","default_desktop":"EOS Shell (GNOME)","package_management":"Flatpak","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"yes","asian_language_support":"NA","number_of_packages":"1547"},{"distribution_name":"endless","version":"3.9.5","release_date":"2021-07-09","end_of_life":"NA","price":"Free","image_size":"2600-17000","download_link":"https:\/\/support.endlessm.com\/hc\/en-us\/articles\/209063006","installation_method":"Graphical","default_desktop":"EOS Shell (GNOME)","package_management":"Flatpak","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"yes","asian_language_support":"NA","number_of_packages":"1596"},{"distribution_name":"endless","version":"3.8.7","release_date":"2020-10-07","end_of_life":"NA","price":"Free","image_size":"2100-17000","download_link":"https:\/\/support.endlessm.com\/hc\/en-us\/articles\/209063006","installation_method":"Graphical","default_desktop":"EOS Shell (GNOME)","package_management":"Flatpak","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"yes","asian_language_support":"NA","number_of_packages":"1598"},{"distribution_name":"endless","version":"3.5.8","release_date":"2019-04-08","end_of_life":"NA","price":"Free","image_size":"1700-17000","download_link":"https:\/\/support.endlessm.com\/hc\/en-us\/articles\/209063006","installation_method":"Graphical","default_desktop":"EOS Shell (GNOME)","package_management":"Flatpak","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"yes","asian_language_support":"NA","number_of_packages":"1514"}]
+[
+    {
+        "distribution_name": "endless",
+        "version": "5.0.5",
+        "release_date": "2023-07-21",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3300-18000",
+        "download_link": "https://support.endlessos.org/en/installation/direct-download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "EOS Shell (GNOME)"
+        ],
+        "package_management": "Flatpak",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "arm64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1553"
+    },
+    {
+        "distribution_name": "endless",
+        "version": "4.0.10",
+        "release_date": "2022-10-12",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2600-17000",
+        "download_link": "https://support.endlessos.org/en/installation/direct-download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "EOS Shell (GNOME)"
+        ],
+        "package_management": "Flatpak",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1547"
+    },
+    {
+        "distribution_name": "endless",
+        "version": "3.9.5",
+        "release_date": "2021-07-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2600-17000",
+        "download_link": "https://support.endlessm.com/hc/en-us/articles/209063006",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "EOS Shell (GNOME)"
+        ],
+        "package_management": "Flatpak",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1596"
+    },
+    {
+        "distribution_name": "endless",
+        "version": "3.8.7",
+        "release_date": "2020-10-07",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2100-17000",
+        "download_link": "https://support.endlessm.com/hc/en-us/articles/209063006",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "EOS Shell (GNOME)"
+        ],
+        "package_management": "Flatpak",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1598"
+    },
+    {
+        "distribution_name": "endless",
+        "version": "3.5.8",
+        "release_date": "2019-04-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1700-17000",
+        "download_link": "https://support.endlessm.com/hc/en-us/articles/209063006",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "EOS Shell (GNOME)"
+        ],
+        "package_management": "Flatpak",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1514"
+    }
+]

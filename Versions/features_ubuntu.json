@@ -1,1 +1,1574 @@
-[{"distribution_name":"ubuntu","version":"snapshot-noble","release_date":"2023-11-09","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/daily-live\/current\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS, ZFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2578"},{"distribution_name":"ubuntu","version":"23.10-mantic","release_date":"2023-10-12","end_of_life":"2024-07","price":"Free","image_size":"2500-4800","download_link":"http:\/\/releases.ubuntu.com\/23.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS, ZFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1841"},{"distribution_name":"ubuntu","version":"23.04-lunar","release_date":"2023-04-20","end_of_life":"2024-01","price":"Free","image_size":"2500-4800","download_link":"http:\/\/releases.ubuntu.com\/23.04\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS, ZFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1985"},{"distribution_name":"ubuntu","version":"22.10-kinetic","release_date":"2022-10-20","end_of_life":"2023-07","price":"Free","image_size":"1500-3900","download_link":"http:\/\/releases.ubuntu.com\/22.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS, ZFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1958"},{"distribution_name":"ubuntu","version":"22.04 LTS-jammy","release_date":"2022-04-21","end_of_life":"2027-04","price":"Free","image_size":"1300-3500","download_link":"http:\/\/releases.ubuntu.com\/22.04\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS, ZFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2034"},{"distribution_name":"ubuntu","version":"21.10-impish","release_date":"2021-10-14","end_of_life":"2022-07","price":"Free","image_size":"900-3000","download_link":"http:\/\/releases.ubuntu.com\/21.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS, ZFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2128"},{"distribution_name":"ubuntu","version":"21.04-hirsute","release_date":"2021-04-22","end_of_life":"2022-01","price":"Free","image_size":"900-2900","download_link":"http:\/\/releases.ubuntu.com\/21.04\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, riscv, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2135"},{"distribution_name":"ubuntu","version":"20.10-groovy","release_date":"2020-10-22","end_of_life":"2021-07","price":"Free","image_size":"900-2900","download_link":"http:\/\/releases.ubuntu.com\/20.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2130"},{"distribution_name":"ubuntu","version":"20.04 LTS-focal","release_date":"2020-04-23","end_of_life":"2025-04","price":"Free","image_size":"800-2400","download_link":"http:\/\/releases.ubuntu.com\/20.04\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2977"},{"distribution_name":"ubuntu","version":"19.10-eoan","release_date":"2019-10-17","end_of_life":"2020-07","price":"Free","image_size":"700-2000","download_link":"http:\/\/releases.ubuntu.com\/19.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2960"},{"distribution_name":"ubuntu","version":"19.04-disco","release_date":"2019-04-18","end_of_life":"2020-01","price":"Free","image_size":"800-1900","download_link":"http:\/\/releases.ubuntu.com\/19.04\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2931"},{"distribution_name":"ubuntu","version":"18.10-cosmic","release_date":"2018-10-18","end_of_life":"2019-07","price":"Free","image_size":"800-1900","download_link":"http:\/\/releases.ubuntu.com\/18.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2935"},{"distribution_name":"ubuntu","version":"18.04 LTS-bionic","release_date":"2018-04-26","end_of_life":"2023-04","price":"Free","image_size":"800-1900","download_link":"http:\/\/releases.ubuntu.com\/18.04\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, arm64, ppc64el, s390x","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2548"},{"distribution_name":"ubuntu","version":"17.10-artful","release_date":"2017-10-19","end_of_life":"2018-07","price":"Free","image_size":"743-1432","download_link":"http:\/\/releases.ubuntu.com\/17.10\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc, ppc64el","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2630"},{"distribution_name":"ubuntu","version":"17.04-zesty","release_date":"2017-04-13","end_of_life":"2018-01","price":"Free","image_size":"682-1557","download_link":"http:\/\/releases.ubuntu.com\/17.04\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc, ppc64el","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3192"},{"distribution_name":"ubuntu","version":"16.10-yakkety","release_date":"2016-10-13","end_of_life":"2017-07","price":"Free","image_size":"553-1536","download_link":"http:\/\/releases.ubuntu.com\/16.10\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc, ppc64el","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3564"},{"distribution_name":"ubuntu","version":"16.04 LTS-xenial","release_date":"2016-04-21","end_of_life":"2021-04","price":"Free","image_size":"796-1533","download_link":"http:\/\/releases.ubuntu.com\/16.04\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB (apt), snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc, ppc64el","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2731"},{"distribution_name":"ubuntu","version":"15.10-wily","release_date":"2015-10-22","end_of_life":"2016-07","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/15.10\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc, ppc64el","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2951"},{"distribution_name":"ubuntu","version":"15.04-vivid","release_date":"2015-04-23","end_of_life":"2016-01","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/15.04\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc, ppc64el","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2926"},{"distribution_name":"ubuntu","version":"14.10-utopic","release_date":"2014-10-23","end_of_life":"2015-07","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/14.10\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3406"},{"distribution_name":"ubuntu","version":"14.04 LTS-trusty","release_date":"2014-04-17","end_of_life":"2019-04","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/14.04\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, armhf, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3130"},{"distribution_name":"ubuntu","version":"13.10-saucy","release_date":"2013-10-17","end_of_life":"2014-07","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/13.10\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, armhf, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3118"},{"distribution_name":"ubuntu","version":"13.04-raring","release_date":"2013-04-25","end_of_life":"2014-01","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/13.04\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, armhf, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2499"},{"distribution_name":"ubuntu","version":"12.10-quantal","release_date":"2012-10-18","end_of_life":"2014-05","price":"Free","image_size":"NA","download_link":"http:\/\/releases.ubuntu.com\/12.10\/","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, armhf, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2884"},{"distribution_name":"ubuntu","version":"12.04 LTS-precise","release_date":"2012-04-26","end_of_life":"2017-04","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, armhf, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3097"},{"distribution_name":"ubuntu","version":"11.10-oneiric","release_date":"2011-10-13","end_of_life":"2013-05","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, armel, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2306"},{"distribution_name":"ubuntu","version":"11.04-natty","release_date":"2011-04-28","end_of_life":"2012-10","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"Unity","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"amd64, i686","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4305"},{"distribution_name":"ubuntu","version":"10.10-maverick","release_date":"2010-10-10","end_of_life":"2012-04","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i686, powerpc","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"5138"},{"distribution_name":"ubuntu","version":"10.04 LTS-lucid","release_date":"2010-04-29","end_of_life":"2013-05","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice, OO.o","processor_architecture":"amd64, i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3937"},{"distribution_name":"ubuntu","version":"9.10-karmic","release_date":"2009-10-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"5115"},{"distribution_name":"ubuntu","version":"9.04-jaunty","release_date":"2009-04-23","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1499"},{"distribution_name":"ubuntu","version":"8.10-intrepid","release_date":"2008-10-30","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2456"},{"distribution_name":"ubuntu","version":"8.04 LTS-hardy","release_date":"2008-04-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2394"},{"distribution_name":"ubuntu","version":"7.10-gutsy","release_date":"2007-10-18","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1147"},{"distribution_name":"ubuntu","version":"7.04-feisty","release_date":"2007-04-19","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386, sparc","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1111"},{"distribution_name":"ubuntu","version":"6.10-edgy","release_date":"2006-10-26","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386, powerpc","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"1252"},{"distribution_name":"ubuntu","version":"6.06 LTS-dapper","release_date":"2006-06-01","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386, powerpc, sparc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"1212"},{"distribution_name":"ubuntu","version":"5.10-breezy","release_date":"2005-10-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Text mode","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386, powerpc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"1044"},{"distribution_name":"ubuntu","version":"5.04-hoary","release_date":"2005-04-08","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Text mode","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386, powerpc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"876"},{"distribution_name":"ubuntu","version":"4.10-warty","release_date":"2004-10-20","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.ubuntu.com\/download\/ubuntu\/download","installation_method":"Text mode","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"amd64, i386, powerpc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"2225"}]
+[
+    {
+        "distribution_name": "ubuntu",
+        "version": "snapshot-noble",
+        "release_date": "2023-11-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/daily-live/current/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS",
+            "ZFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2578"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "23.10-mantic",
+        "release_date": "2023-10-12",
+        "end_of_life": "2024-07",
+        "price": "Free",
+        "image_size": "2500-4800",
+        "download_link": "http://releases.ubuntu.com/23.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS",
+            "ZFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1841"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "23.04-lunar",
+        "release_date": "2023-04-20",
+        "end_of_life": "2024-01",
+        "price": "Free",
+        "image_size": "2500-4800",
+        "download_link": "http://releases.ubuntu.com/23.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS",
+            "ZFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1985"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "22.10-kinetic",
+        "release_date": "2022-10-20",
+        "end_of_life": "2023-07",
+        "price": "Free",
+        "image_size": "1500-3900",
+        "download_link": "http://releases.ubuntu.com/22.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS",
+            "ZFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1958"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "22.04 LTS-jammy",
+        "release_date": "2022-04-21",
+        "end_of_life": "2027-04",
+        "price": "Free",
+        "image_size": "1300-3500",
+        "download_link": "http://releases.ubuntu.com/22.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS",
+            "ZFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2034"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "21.10-impish",
+        "release_date": "2021-10-14",
+        "end_of_life": "2022-07",
+        "price": "Free",
+        "image_size": "900-3000",
+        "download_link": "http://releases.ubuntu.com/21.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS",
+            "ZFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2128"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "21.04-hirsute",
+        "release_date": "2021-04-22",
+        "end_of_life": "2022-01",
+        "price": "Free",
+        "image_size": "900-2900",
+        "download_link": "http://releases.ubuntu.com/21.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "riscv",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2135"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "20.10-groovy",
+        "release_date": "2020-10-22",
+        "end_of_life": "2021-07",
+        "price": "Free",
+        "image_size": "900-2900",
+        "download_link": "http://releases.ubuntu.com/20.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2130"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "20.04 LTS-focal",
+        "release_date": "2020-04-23",
+        "end_of_life": "2025-04",
+        "price": "Free",
+        "image_size": "800-2400",
+        "download_link": "http://releases.ubuntu.com/20.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2977"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "19.10-eoan",
+        "release_date": "2019-10-17",
+        "end_of_life": "2020-07",
+        "price": "Free",
+        "image_size": "700-2000",
+        "download_link": "http://releases.ubuntu.com/19.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2960"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "19.04-disco",
+        "release_date": "2019-04-18",
+        "end_of_life": "2020-01",
+        "price": "Free",
+        "image_size": "800-1900",
+        "download_link": "http://releases.ubuntu.com/19.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2931"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "18.10-cosmic",
+        "release_date": "2018-10-18",
+        "end_of_life": "2019-07",
+        "price": "Free",
+        "image_size": "800-1900",
+        "download_link": "http://releases.ubuntu.com/18.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2935"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "18.04 LTS-bionic",
+        "release_date": "2018-04-26",
+        "end_of_life": "2023-04",
+        "price": "Free",
+        "image_size": "800-1900",
+        "download_link": "http://releases.ubuntu.com/18.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "arm64",
+            "ppc64el",
+            "s390x"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2548"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "17.10-artful",
+        "release_date": "2017-10-19",
+        "end_of_life": "2018-07",
+        "price": "Free",
+        "image_size": "743-1432",
+        "download_link": "http://releases.ubuntu.com/17.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc",
+            "ppc64el"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2630"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "17.04-zesty",
+        "release_date": "2017-04-13",
+        "end_of_life": "2018-01",
+        "price": "Free",
+        "image_size": "682-1557",
+        "download_link": "http://releases.ubuntu.com/17.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc",
+            "ppc64el"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3192"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "16.10-yakkety",
+        "release_date": "2016-10-13",
+        "end_of_life": "2017-07",
+        "price": "Free",
+        "image_size": "553-1536",
+        "download_link": "http://releases.ubuntu.com/16.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc",
+            "ppc64el"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3564"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "16.04 LTS-xenial",
+        "release_date": "2016-04-21",
+        "end_of_life": "2021-04",
+        "price": "Free",
+        "image_size": "796-1533",
+        "download_link": "http://releases.ubuntu.com/16.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc",
+            "ppc64el"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2731"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "15.10-wily",
+        "release_date": "2015-10-22",
+        "end_of_life": "2016-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/15.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc",
+            "ppc64el"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2951"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "15.04-vivid",
+        "release_date": "2015-04-23",
+        "end_of_life": "2016-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/15.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc",
+            "ppc64el"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2926"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "14.10-utopic",
+        "release_date": "2014-10-23",
+        "end_of_life": "2015-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/14.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3406"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "14.04 LTS-trusty",
+        "release_date": "2014-04-17",
+        "end_of_life": "2019-04",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/14.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "armhf",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3130"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "13.10-saucy",
+        "release_date": "2013-10-17",
+        "end_of_life": "2014-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/13.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "armhf",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3118"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "13.04-raring",
+        "release_date": "2013-04-25",
+        "end_of_life": "2014-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/13.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "armhf",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2499"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "12.10-quantal",
+        "release_date": "2012-10-18",
+        "end_of_life": "2014-05",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://releases.ubuntu.com/12.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "armhf",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2884"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "12.04 LTS-precise",
+        "release_date": "2012-04-26",
+        "end_of_life": "2017-04",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "armhf",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3097"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "11.10-oneiric",
+        "release_date": "2011-10-13",
+        "end_of_life": "2013-05",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "armel",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2306"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "11.04-natty",
+        "release_date": "2011-04-28",
+        "end_of_life": "2012-10",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Unity"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4305"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "10.10-maverick",
+        "release_date": "2010-10-10",
+        "end_of_life": "2012-04",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i686",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "5138"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "10.04 LTS-lucid",
+        "release_date": "2010-04-29",
+        "end_of_life": "2013-05",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3937"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "9.10-karmic",
+        "release_date": "2009-10-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "5115"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "9.04-jaunty",
+        "release_date": "2009-04-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1499"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "8.10-intrepid",
+        "release_date": "2008-10-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2456"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "8.04 LTS-hardy",
+        "release_date": "2008-04-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2394"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "7.10-gutsy",
+        "release_date": "2007-10-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1147"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "7.04-feisty",
+        "release_date": "2007-04-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386",
+            "sparc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1111"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "6.10-edgy",
+        "release_date": "2006-10-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386",
+            "powerpc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1252"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "6.06 LTS-dapper",
+        "release_date": "2006-06-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386",
+            "powerpc",
+            "sparc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1212"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "5.10-breezy",
+        "release_date": "2005-10-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386",
+            "powerpc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1044"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "5.04-hoary",
+        "release_date": "2005-04-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386",
+            "powerpc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "876"
+    },
+    {
+        "distribution_name": "ubuntu",
+        "version": "4.10-warty",
+        "release_date": "2004-10-20",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.ubuntu.com/download/ubuntu/download",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "amd64",
+            "i386",
+            "powerpc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2225"
+    }
+]

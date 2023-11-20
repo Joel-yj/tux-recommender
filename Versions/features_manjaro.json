@@ -1,1 +1,495 @@
-[{"distribution_name":"manjaro","version":"stable","release_date":"2023-11-09","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/manjaro.org\/download\/","installation_method":"Graphical","default_desktop":"NA","package_management":"Flatpak, Pacman, snap","release_model":"Rolling","office_suite":"LibreOffice, OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"14410"},{"distribution_name":"manjaro","version":"23.0.3","release_date":"2023-10-09","end_of_life":"NA","price":"Free","image_size":"3500-3800","download_link":"https:\/\/osdn.net\/projects\/manjaro\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Flatpak, Pacman, snap","release_model":"Rolling","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1577"},{"distribution_name":"manjaro","version":"22.1.3","release_date":"2023-05-26","end_of_life":"NA","price":"Free","image_size":"3800-4000","download_link":"https:\/\/osdn.net\/projects\/manjaro\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Flatpak, Pacman, snap","release_model":"Rolling","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1571"},{"distribution_name":"manjaro","version":"21.3.0","release_date":"2022-06-18","end_of_life":"NA","price":"Free","image_size":"2700-3700","download_link":"https:\/\/osdn.net\/projects\/manjaro\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Flatpak, Pacman, snap","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1643"},{"distribution_name":"manjaro","version":"20.2.1","release_date":"2021-01-03","end_of_life":"NA","price":"Free","image_size":"2600-3000","download_link":"https:\/\/osdn.net\/projects\/manjaro\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Flatpak, Pacman, snap","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1620"},{"distribution_name":"manjaro","version":"19.0","release_date":"2020-02-25","end_of_life":"NA","price":"Free","image_size":"2500-2900","download_link":"https:\/\/osdn.net\/projects\/manjaro\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Pacman, snap","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1526"},{"distribution_name":"manjaro","version":"18.1.0","release_date":"2019-09-12","end_of_life":"NA","price":"Free","image_size":"1800-2100","download_link":"https:\/\/osdn.net\/projects\/manjaro\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Pacman, snap","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1471"},{"distribution_name":"manjaro","version":"17.1.12","release_date":"2018-08-19","end_of_life":"NA","price":"Free","image_size":"1600-2100","download_link":"http:\/\/sourceforge.net\/projects\/manjarolinux\/files\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"Pacman, snap","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1396"},{"distribution_name":"manjaro","version":"16.10.3","release_date":"2016-11-27","end_of_life":"NA","price":"Free","image_size":"1533-2116","download_link":"http:\/\/sourceforge.net\/projects\/manjarolinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, Openbox, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1363"},{"distribution_name":"manjaro","version":"15.12","release_date":"2015-12-23","end_of_life":"NA","price":"Free","image_size":"589-1856","download_link":"http:\/\/sourceforge.net\/projects\/manjarolinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, Openbox, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1383"},{"distribution_name":"manjaro","version":"0.8.11","release_date":"2014-12-01","end_of_life":"NA","price":"Free","image_size":"472-1481","download_link":"http:\/\/sourceforge.net\/projects\/manjarolinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, Openbox, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"1317"},{"distribution_name":"manjaro","version":"0.8.8","release_date":"2013-11-26","end_of_life":"NA","price":"Free","image_size":"582-1861","download_link":"http:\/\/sourceforge.net\/projects\/manjarolinux\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"de, en, fr","asian_language_support":"--","number_of_packages":"895"}]
+[
+    {
+        "distribution_name": "manjaro",
+        "version": "stable",
+        "release_date": "2023-11-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://manjaro.org/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "Flatpak, Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice",
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "14410"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "23.0.3",
+        "release_date": "2023-10-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3500-3800",
+        "download_link": "https://osdn.net/projects/manjaro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Flatpak, Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1577"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "22.1.3",
+        "release_date": "2023-05-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3800-4000",
+        "download_link": "https://osdn.net/projects/manjaro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Flatpak, Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1571"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "21.3.0",
+        "release_date": "2022-06-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2700-3700",
+        "download_link": "https://osdn.net/projects/manjaro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Flatpak, Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1643"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "20.2.1",
+        "release_date": "2021-01-03",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2600-3000",
+        "download_link": "https://osdn.net/projects/manjaro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Flatpak, Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1620"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "19.0",
+        "release_date": "2020-02-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2500-2900",
+        "download_link": "https://osdn.net/projects/manjaro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1526"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "18.1.0",
+        "release_date": "2019-09-12",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1800-2100",
+        "download_link": "https://osdn.net/projects/manjaro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1471"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "17.1.12",
+        "release_date": "2018-08-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1600-2100",
+        "download_link": "http://sourceforge.net/projects/manjarolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "Pacman, snap",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1396"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "16.10.3",
+        "release_date": "2016-11-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1533-2116",
+        "download_link": "http://sourceforge.net/projects/manjarolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "Openbox",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1363"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "15.12",
+        "release_date": "2015-12-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "589-1856",
+        "download_link": "http://sourceforge.net/projects/manjarolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "Openbox",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1383"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "0.8.11",
+        "release_date": "2014-12-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "472-1481",
+        "download_link": "http://sourceforge.net/projects/manjarolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "Openbox",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1317"
+    },
+    {
+        "distribution_name": "manjaro",
+        "version": "0.8.8",
+        "release_date": "2013-11-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "582-1861",
+        "download_link": "http://sourceforge.net/projects/manjarolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "895"
+    }
+]

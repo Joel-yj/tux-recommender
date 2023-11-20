@@ -1,1 +1,168 @@
-[{"distribution_name":"garuda","version":"231029","release_date":"2023-10-29","end_of_life":"NA","price":"Free","image_size":"1600-5000","download_link":"https:\/\/sourceforge.net\/projects\/garuda-linux\/files\/","installation_method":"Graphical","default_desktop":"Cinnamon, GNOME, i3, KDE Plasma, Qtile, Sway, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"761"},{"distribution_name":"garuda","version":"221019","release_date":"2022-10-19","end_of_life":"NA","price":"Free","image_size":"1600-5000","download_link":"https:\/\/sourceforge.net\/projects\/garuda-linux\/files\/","installation_method":"Graphical","default_desktop":"bspwm, Cinnamon, GNOME, i3, KDE Plasma, LXQt, Qtile, Sway, Wayfire, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"2500"},{"distribution_name":"garuda","version":"211128","release_date":"2021-11-28","end_of_life":"NA","price":"Free","image_size":"1600-5000","download_link":"https:\/\/osdn.net\/projects\/garuda-linux\/storage\/","installation_method":"Graphical","default_desktop":"bspwm, GNOME, i3, KDE Plasma, LXQt, Qtile, Sway, Wayfire, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"2641"},{"distribution_name":"garuda","version":"201205","release_date":"2020-12-06","end_of_life":"NA","price":"Free","image_size":"1600-5000","download_link":"https:\/\/osdn.net\/projects\/garuda-linux\/storage\/","installation_method":"Graphical","default_desktop":"bspwm, Cinnamon, Deepin, GNOME, i3, KDE Plasma, LXQt, MATE, RecBox, UKUI, Wayfire, Xfce","package_management":"Pacman","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"2614"}]
+[
+    {
+        "distribution_name": "garuda",
+        "version": "231029",
+        "release_date": "2023-10-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1600-5000",
+        "download_link": "https://sourceforge.net/projects/garuda-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "GNOME",
+            "i3",
+            "KDE Plasma",
+            "Qtile",
+            "Sway",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "761"
+    },
+    {
+        "distribution_name": "garuda",
+        "version": "221019",
+        "release_date": "2022-10-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1600-5000",
+        "download_link": "https://sourceforge.net/projects/garuda-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "bspwm",
+            "Cinnamon",
+            "GNOME",
+            "i3",
+            "KDE Plasma",
+            "LXQt",
+            "Qtile",
+            "Sway",
+            "Wayfire",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2500"
+    },
+    {
+        "distribution_name": "garuda",
+        "version": "211128",
+        "release_date": "2021-11-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1600-5000",
+        "download_link": "https://osdn.net/projects/garuda-linux/storage/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "bspwm",
+            "GNOME",
+            "i3",
+            "KDE Plasma",
+            "LXQt",
+            "Qtile",
+            "Sway",
+            "Wayfire",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2641"
+    },
+    {
+        "distribution_name": "garuda",
+        "version": "201205",
+        "release_date": "2020-12-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1600-5000",
+        "download_link": "https://osdn.net/projects/garuda-linux/storage/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "bspwm",
+            "Cinnamon",
+            "Deepin",
+            "GNOME",
+            "i3",
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "RecBox",
+            "UKUI",
+            "Wayfire",
+            "Xfce"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2614"
+    }
+]

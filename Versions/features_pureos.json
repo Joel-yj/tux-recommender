@@ -1,1 +1,363 @@
-[{"distribution_name":"pureos","version":"10.3","release_date":"2023-06-14","end_of_life":"NA","price":"Free","image_size":"1700-1800","download_link":"https:\/\/pureos.net\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1891"},{"distribution_name":"pureos","version":"9.0","release_date":"2019-09-26","end_of_life":"NA","price":"Free","image_size":"1400-1500","download_link":"https:\/\/pureos.net\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1828"},{"distribution_name":"pureos","version":"8.0","release_date":"2019-08-30","end_of_life":"NA","price":"Free","image_size":"1400-1500","download_link":"https:\/\/pureos.net\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1827"},{"distribution_name":"pureos","version":"7.0","release_date":"2013-03-03","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1198"},{"distribution_name":"pureos","version":"6.0","release_date":"2012-09-09","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1138"},{"distribution_name":"pureos","version":"5.0","release_date":"2012-06-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1531"},{"distribution_name":"pureos","version":"4.0","release_date":"2011-08-04","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1197"},{"distribution_name":"pureos","version":"3.0","release_date":"2011-02-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, fr","asian_language_support":"--","number_of_packages":"1091"},{"distribution_name":"pureos","version":"2.0","release_date":"2010-03-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"en, fr","asian_language_support":"--","number_of_packages":"923"},{"distribution_name":"pureos","version":"1.1","release_date":"2009-01-15","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"en, fr","asian_language_support":"--","number_of_packages":"852"}]
+[
+    {
+        "distribution_name": "pureos",
+        "version": "10.3",
+        "release_date": "2023-06-14",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1700-1800",
+        "download_link": "https://pureos.net/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1891"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "9.0",
+        "release_date": "2019-09-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1400-1500",
+        "download_link": "https://pureos.net/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1828"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "8.0",
+        "release_date": "2019-08-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1400-1500",
+        "download_link": "https://pureos.net/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1827"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "7.0",
+        "release_date": "2013-03-03",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1198"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "6.0",
+        "release_date": "2012-09-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1138"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "5.0",
+        "release_date": "2012-06-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1531"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "4.0",
+        "release_date": "2011-08-04",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1197"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "3.0",
+        "release_date": "2011-02-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1091"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "2.0",
+        "release_date": "2010-03-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "923"
+    },
+    {
+        "distribution_name": "pureos",
+        "version": "1.1",
+        "release_date": "2009-01-15",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "fr"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "852"
+    }
+]

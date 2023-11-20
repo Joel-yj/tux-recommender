@@ -1,342 +1,675 @@
 [
-  {
-    "distribution_name": "alt",
-    "version": "Sisyphus",
-    "release_date": "2023-11-09",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://packages.altlinux.org/en/",
-    "installation_method": "Graphical",
-    "default_desktop": "NA",
-    "package_management": "RPM (APT)",
-    "release_model": "Rolling",
-    "office_suite": "Calligra, GOffice, KOffice, LibreOffice",
-    "processor_architecture": "aarch64, armhf, i586, mipsel, ppc64el, riscv64, x86_64",
-    "init_system": "systemd, SysV",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "18763"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "10.1",
-    "release_date": "2022-11-16",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "2900-8000",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, i586, mipsel, ppc64el, x86_64",
-    "init_system": "systemd",
-    "file_system": "ext3, ext4, XFS",
-    "multilingual": "en, es, kk, pt, ru, tt, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "2636"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "9.1",
-    "release_date": "2020-08-02",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "2900-8000",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, i586, mipsel, ppc64el, x86_64",
-    "init_system": "systemd",
-    "file_system": "ext3, ext4, XFS",
-    "multilingual": "en, es, kk, pt, ru, tt, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "4973"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "9.0",
-    "release_date": "2019-10-28",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "2900-7100",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, i586, mipsel, ppc64el, x86_64",
-    "init_system": "systemd",
-    "file_system": "ext3, ext4, XFS",
-    "multilingual": "en, es, kk, pt, ru, tt, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "4690"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "8.2",
-    "release_date": "2017-12-31",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "2300-4900",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE, KDE Plasma, Xfce",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i586, x86_64",
-    "init_system": "systemd",
-    "file_system": "ext3, ext4, XFS",
-    "multilingual": "en, es, kk, pt, ru, tt, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "5051"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "8.1",
-    "release_date": "2016-11-24",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "800-4500",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE, KDE Plasma, Xfce",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i586, x86_64",
-    "init_system": "systemd",
-    "file_system": "ext3, ext4, XFS",
-    "multilingual": "en, es, kk, pt, ru, tt, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "3282"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "7.0.0",
-    "release_date": "2013-07-01",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE, Xfce",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i586, x86_64",
-    "init_system": "systemd",
-    "file_system": "ext3, ext4, XFS",
-    "multilingual": "en, es, kk, pt, ru, tt, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "2729"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "6.0.0",
-    "release_date": "2011-08-30",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE, Xfce",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "KOffice, LibreOffice",
-    "processor_architecture": "i586, x86_64",
-    "init_system": "SysV",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "en, es, pt, ru, uk",
-    "asian_language_support": "--",
-    "number_of_packages": "3145"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "5.0.0",
-    "release_date": "2009-10-29",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "GOffice, KOffice, OO.o",
-    "processor_architecture": "i586, x86_64",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "2587"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "4.1.1",
-    "release_date": "2009-01-14",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "GOffice, KOffice, OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "3909"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "4.0",
-    "release_date": "2007-08-27",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "GOffice, KOffice, OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "4061"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "3.0",
-    "release_date": "2005-12-08",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "KOffice, OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "8381"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "2.4",
-    "release_date": "2004-09-19",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "KOffice, OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "981"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "2.3",
-    "release_date": "2004-03-25",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "904"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "2.2",
-    "release_date": "2003-03-04",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "KOffice, OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "3372"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "2.0",
-    "release_date": "2002-04-17",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "KOffice, OO.o",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "3234"
-  },
-  {
-    "distribution_name": "alt",
-    "version": "1.1",
-    "release_date": "2001-09-12",
-    "end_of_life": "NA",
-    "price": "NA",
-    "image_size": "NA",
-    "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
-    "installation_method": "Graphical",
-    "default_desktop": "KDE",
-    "package_management": "RPM (APT)",
-    "release_model": "Fixed",
-    "office_suite": "KOffice",
-    "processor_architecture": "i586",
-    "init_system": "SysV",
-    "file_system": "NA",
-    "multilingual": "Yes",
-    "asian_language_support": "--",
-    "number_of_packages": "662"
-  }
+    {
+        "distribution_name": "alt",
+        "version": "Sisyphus",
+        "release_date": "2023-11-09",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://packages.altlinux.org/en/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Rolling",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "KOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhf",
+            "i586",
+            "mipsel",
+            "ppc64el",
+            "riscv64",
+            "x86_64"
+        ],
+        "init_system": "systemd, SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "18763"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "10.1",
+        "release_date": "2022-11-16",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "2900-8000",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "i586",
+            "mipsel",
+            "ppc64el",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "kk",
+            "pt",
+            "ru",
+            "tt",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2636"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "9.1",
+        "release_date": "2020-08-02",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "2900-8000",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "i586",
+            "mipsel",
+            "ppc64el",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "kk",
+            "pt",
+            "ru",
+            "tt",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "4973"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "9.0",
+        "release_date": "2019-10-28",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "2900-7100",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "i586",
+            "mipsel",
+            "ppc64el",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "kk",
+            "pt",
+            "ru",
+            "tt",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "4690"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "8.2",
+        "release_date": "2017-12-31",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "2300-4900",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "kk",
+            "pt",
+            "ru",
+            "tt",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "5051"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "8.1",
+        "release_date": "2016-11-24",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "800-4500",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "kk",
+            "pt",
+            "ru",
+            "tt",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3282"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "7.0.0",
+        "release_date": "2013-07-01",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "kk",
+            "pt",
+            "ru",
+            "tt",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2729"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "6.0.0",
+        "release_date": "2011-08-30",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE",
+            "Xfce"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "es",
+            "pt",
+            "ru",
+            "uk"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3145"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "5.0.0",
+        "release_date": "2009-10-29",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2587"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "4.1.1",
+        "release_date": "2009-01-14",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3909"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "4.0",
+        "release_date": "2007-08-27",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "4061"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "3.0",
+        "release_date": "2005-12-08",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "8381"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "2.4",
+        "release_date": "2004-09-19",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "981"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "2.3",
+        "release_date": "2004-03-25",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "904"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "2.2",
+        "release_date": "2003-03-04",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3372"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "2.0",
+        "release_date": "2002-04-17",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3234"
+    },
+    {
+        "distribution_name": "alt",
+        "version": "1.1",
+        "release_date": "2001-09-12",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://ftp.altlinux.org/pub/distributions/ALTLinux/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "662"
+    }
 ]

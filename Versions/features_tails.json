@@ -1,1 +1,286 @@
-[{"distribution_name":"tails","version":"5.19","release_date":"2023-11-01","end_of_life":"NA","price":"Free","image_size":"1200-1300","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, fa, kr, vn, zh_CN","number_of_packages":"1844"},{"distribution_name":"tails","version":"4.29","release_date":"2022-04-05","end_of_life":"NA","price":"Free","image_size":"1100-1200","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, fa, kr, vn, zh_CN","number_of_packages":"1713"},{"distribution_name":"tails","version":"3.16","release_date":"2019-09-04","end_of_life":"NA","price":"Free","image_size":"1100-1200","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, fa, kr, vn, zh_CN","number_of_packages":"1679"},{"distribution_name":"tails","version":"2.12","release_date":"2017-04-19","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"systemd","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, fa, kr, vn, zh_CN","number_of_packages":"1876"},{"distribution_name":"tails","version":"1.8.2","release_date":"2016-01-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"systemd","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, fa, kr, vn, zh_CN","number_of_packages":"1609"},{"distribution_name":"tails","version":"1.0.1","release_date":"2014-06-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, fa, kr, vn, zh_CN","number_of_packages":"1421"},{"distribution_name":"tails","version":"0.6","release_date":"2010-10-22","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/download.tails.net\/tails\/stable\/","installation_method":"--","default_desktop":"GNOME","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"--","multilingual":"de, en, es, fr, it, pt","asian_language_support":"ar, zh_CN","number_of_packages":"899"}]
+[
+    {
+        "distribution_name": "tails",
+        "version": "5.19",
+        "release_date": "2023-11-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1200-1300",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "fa",
+            "kr",
+            "vn",
+            "zh_CN"
+        ],
+        "number_of_packages": "1844"
+    },
+    {
+        "distribution_name": "tails",
+        "version": "4.29",
+        "release_date": "2022-04-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1100-1200",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "fa",
+            "kr",
+            "vn",
+            "zh_CN"
+        ],
+        "number_of_packages": "1713"
+    },
+    {
+        "distribution_name": "tails",
+        "version": "3.16",
+        "release_date": "2019-09-04",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1100-1200",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "fa",
+            "kr",
+            "vn",
+            "zh_CN"
+        ],
+        "number_of_packages": "1679"
+    },
+    {
+        "distribution_name": "tails",
+        "version": "2.12",
+        "release_date": "2017-04-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "fa",
+            "kr",
+            "vn",
+            "zh_CN"
+        ],
+        "number_of_packages": "1876"
+    },
+    {
+        "distribution_name": "tails",
+        "version": "1.8.2",
+        "release_date": "2016-01-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "fa",
+            "kr",
+            "vn",
+            "zh_CN"
+        ],
+        "number_of_packages": "1609"
+    },
+    {
+        "distribution_name": "tails",
+        "version": "1.0.1",
+        "release_date": "2014-06-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "fa",
+            "kr",
+            "vn",
+            "zh_CN"
+        ],
+        "number_of_packages": "1421"
+    },
+    {
+        "distribution_name": "tails",
+        "version": "0.6",
+        "release_date": "2010-10-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://download.tails.net/tails/stable/",
+        "installation_method": "--",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt"
+        ],
+        "asian_language_support": [
+            "ar",
+            "zh_CN"
+        ],
+        "number_of_packages": "899"
+    }
+]

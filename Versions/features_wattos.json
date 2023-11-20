@@ -1,1 +1,404 @@
-[{"distribution_name":"wattos","version":"R12","release_date":"2022-11-17","end_of_life":"NA","price":"Free","image_size":"1200-1300","download_link":"https:\/\/www.planetwatt.com\/r12-downloads\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1460"},{"distribution_name":"wattos","version":"R10","release_date":"2016-09-01","end_of_life":"NA","price":"Free","image_size":"600-800","download_link":"NA","installation_method":"Graphical","default_desktop":"i3, LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"NA","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1211"},{"distribution_name":"wattos","version":"R9","release_date":"2015-05-31","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE, Openbox","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"NA","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1246"},{"distribution_name":"wattos","version":"R8","release_date":"2014-05-11","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE, MATE, Openbox","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1615"},{"distribution_name":"wattos","version":"R7.5","release_date":"2013-10-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE, MATE, pekwm","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1257"},{"distribution_name":"wattos","version":"R7","release_date":"2013-05-28","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1095"},{"distribution_name":"wattos","version":"R6","release_date":"2012-08-26","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1164"},{"distribution_name":"wattos","version":"R5","release_date":"2012-02-27","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i386","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1131"},{"distribution_name":"wattos","version":"R4","release_date":"2011-08-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i386","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"955"},{"distribution_name":"wattos","version":"R3","release_date":"2011-01-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1027"},{"distribution_name":"wattos","version":"R2","release_date":"2010-06-23","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1124"}]
+[
+    {
+        "distribution_name": "wattos",
+        "version": "R12",
+        "release_date": "2022-11-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1200-1300",
+        "download_link": "https://www.planetwatt.com/r12-downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1460"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R10",
+        "release_date": "2016-09-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "600-800",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "i3",
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1211"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R9",
+        "release_date": "2015-05-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE",
+            "Openbox"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1246"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R8",
+        "release_date": "2014-05-11",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE",
+            "MATE",
+            "Openbox"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1615"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R7.5",
+        "release_date": "2013-10-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE",
+            "MATE",
+            "pekwm"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1257"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R7",
+        "release_date": "2013-05-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1095"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R6",
+        "release_date": "2012-08-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1164"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R5",
+        "release_date": "2012-02-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1131"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R4",
+        "release_date": "2011-08-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "955"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R3",
+        "release_date": "2011-01-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1027"
+    },
+    {
+        "distribution_name": "wattos",
+        "version": "R2",
+        "release_date": "2010-06-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1124"
+    }
+]

@@ -27,10 +27,20 @@ st.subheader("Find your Linux System")
 
 
 # Search Bar for distribution
-results = st_searchbox(placeholder="Search for your distribution:", key="searchbox", search_function=search_distro,)
+results = st_searchbox(
+    placeholder="Search for your distribution:", 
+    key="searchbox", 
+    search_function=search_distro,
+    default_options=df["Name"].values.tolist()
+    ,)
 
 # Filter by features
+#TODO Enable user to filter according to package/version from distribution found
+#TODO Enable user to input text to filter the attributes and return the distribution
 advanced_search = st.checkbox("Advanced Search")
+version_search = st.checkbox("Search by Version")
+package_search = st.checkbox("Search by Package")
+
 if advanced_search:
     st.subheader("Filter by Features")
     features = st.multiselect("Features", options=feature_names, default=feature_names[0])
@@ -49,20 +59,31 @@ if advanced_search:
         response = feature_filter(search, features)
         st.write(response)
 
-# Can show all the features of the distribution
-if results == None:
-    st.write("No results found")
-else: 
+if version_search:
+    st.subheader("Search by Version")
+    version = st.text_input("Search for version:",value=None)
+    if version == None:
+        st.write("No results found")
     
+if package_search:
+    st.subheader("Search by Package")
+    package = st.text_input("Search for package:",value=None)
+    if package == None:
+        st.write("No results found")
+
+# Choosing a Distribution
+if results != None:
     filtered_df = df[df["Name"].str.contains(results, case=False)]
+    st.write(filtered_df)
     st.title(filtered_df["Name"].values[0])
     st.markdown("###")
-    image_path = "assets/logos/" + filtered_df["ID"] + ".png"
-    st.image(image_path.to_string(index=False), width=200)
+    image_path = "assets/logos/" + filtered_df["ID"].values[0] + ".png"
+    st.image(image_path, width=200)
     st.write("**Popularity Rank**: " + filtered_df["Popularities"].values[0][2])
     st.write("**Ratings**: " + filtered_df["Ratings"].values[0][2:6])
     description = filtered_df["Description"].values[0]
     st.write(f'<div style="text-align: justify;">{description}</div>', unsafe_allow_html=True)
+    st.markdown("###")
     homepage = filtered_df["Homepage"].to_string(index=False)
     st.write("**Homepage**: "+homepage.strip("[]").strip("'"))
     st.write("**Architectures**: "+filtered_df["Architectures"].values[0].strip("[]"))
@@ -71,13 +92,11 @@ else:
     
 
 
-# Filter by features
-#TODO Enable user to filter according to package/version from distribution found
 
 
-#TODO Enable user to input text to filter the attributes and return the distribution
 
-#TODO UI mockup for the distribution homepage
+
+
 
 
 # testing the weaviate connection

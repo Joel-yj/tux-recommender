@@ -6,7 +6,6 @@ import json
 client = weaviate.Client('http://localhost:8080')
 
 def search_distro(searchterm:str):
-    df = pd.read_csv("Homepage.csv")
     if searchterm:
         df = df[df['Name'].str.contains(searchterm,case=False)]
         return df["Name"]

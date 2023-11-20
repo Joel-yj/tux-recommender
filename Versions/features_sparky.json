@@ -1,1 +1,369 @@
-[{"distribution_name":"sparky","version":"2023.10","release_date":"2023-10-11","end_of_life":"NA","price":"Free","image_size":"600-1800","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXQt, MATE, Xfce","package_management":"DEB (APT)","release_model":"Semi-Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"4372"},{"distribution_name":"sparky","version":"7.1","release_date":"2023-09-13","end_of_life":"NA","price":"Free","image_size":"600-1800","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXQt, Xfce","package_management":"DEB (APT)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"2830"},{"distribution_name":"sparky","version":"6.6","release_date":"2023-02-05","end_of_life":"NA","price":"Free","image_size":"600-1800","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXQt, Xfce","package_management":"DEB (APT)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"2502"},{"distribution_name":"sparky","version":"5.16","release_date":"2022-01-14","end_of_life":"NA","price":"Free","image_size":"500-1400","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"LXQt, Xfce","package_management":"DEB (APT)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"2651"},{"distribution_name":"sparky","version":"4.13","release_date":"2020-10-04","end_of_life":"NA","price":"Free","image_size":"400-1400","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB (APT)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"1832"},{"distribution_name":"sparky","version":"4.5.2","release_date":"2016-12-23","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXDE, LXQt, MATE, Xfce","package_management":"DEB (APT)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"2730"},{"distribution_name":"sparky","version":"3.5","release_date":"2014-09-06","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"Enlightenment, LXDE, Razor-qt","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"systemd","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"2237"},{"distribution_name":"sparky","version":"3.1","release_date":"2013-09-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"NA","multilingual":"de, en, fr, pl","asian_language_support":"--","number_of_packages":"1762"},{"distribution_name":"sparky","version":"2.1","release_date":"2013-03-19","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"NA","multilingual":"en","asian_language_support":"--","number_of_packages":"1498"},{"distribution_name":"sparky","version":"2.0.1","release_date":"2012-12-18","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/sparkylinux\/files\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"--","processor_architecture":"i486","init_system":"SysV","file_system":"NA","multilingual":"en","asian_language_support":"--","number_of_packages":"1616"}]
+[
+    {
+        "distribution_name": "sparky",
+        "version": "2023.10",
+        "release_date": "2023-10-11",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "600-1800",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Semi-Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "4372"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "7.1",
+        "release_date": "2023-09-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "600-1800",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2830"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "6.6",
+        "release_date": "2023-02-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "600-1800",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2502"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "5.16",
+        "release_date": "2022-01-14",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "500-1400",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2651"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "4.13",
+        "release_date": "2020-10-04",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "400-1400",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1832"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "4.5.2",
+        "release_date": "2016-12-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXDE",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2730"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "3.5",
+        "release_date": "2014-09-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Enlightenment",
+            "LXDE",
+            "Razor-qt"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2237"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "3.1",
+        "release_date": "2013-09-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "de",
+            "en",
+            "fr",
+            "pl"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1762"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "2.1",
+        "release_date": "2013-03-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1498"
+    },
+    {
+        "distribution_name": "sparky",
+        "version": "2.0.1",
+        "release_date": "2012-12-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/sparkylinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1616"
+    }
+]

@@ -1,1 +1,35 @@
-[{"distribution_name":"vanilla","version":"22.10-r7","release_date":"2023-02-09","end_of_life":"2023-06","price":"Free","image_size":"1700-1800","download_link":"https:\/\/github.com\/Vanilla-OS\/os\/releases\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB (APT)","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1536"}]
+[
+    {
+        "distribution_name": "vanilla",
+        "version": "22.10-r7",
+        "release_date": "2023-02-09",
+        "end_of_life": "2023-06",
+        "price": "Free",
+        "image_size": "1700-1800",
+        "download_link": "https://github.com/Vanilla-OS/os/releases/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB (APT)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1536"
+    }
+]

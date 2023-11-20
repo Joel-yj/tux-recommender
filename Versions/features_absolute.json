@@ -1,302 +1,530 @@
 [
-  {
-    "distribution_name": "absolute",
-    "version": "20230816",
-    "release_date": "2023-08-16",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "2700-2800",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "SysV",
-    "file_system": "Brtfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "1275"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "15.0",
-    "release_date": "2022-02-06",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "2400-2500",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "SysV",
-    "file_system": "Brtfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "1274"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "14.2.2",
-    "release_date": "2016-12-07",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "900-1200",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686, x86_64",
-    "init_system": "SysV",
-    "file_system": "Brtfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "1063"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "14.12",
-    "release_date": "2015-09-22",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "Brtfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "1026"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "14.11",
-    "release_date": "2014-09-08",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "Brtfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "1035"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "14.04",
-    "release_date": "2013-01-14",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "Brtfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "955"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "13.50",
-    "release_date": "2012-03-11",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ext4, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "917"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "13.38",
-    "release_date": "2011-06-19",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ext4, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "929"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "13.2.2",
-    "release_date": "2011-04-27",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ext4, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "930"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "13.1.6",
-    "release_date": "2010-10-09",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ext4, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "939"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "13.0.9",
-    "release_date": "2010-02-07",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TXZ",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ext4, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "911"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "12.2.5",
-    "release_date": "2009-06-06",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TGZ",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ext4, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "869"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "12.1.13",
-    "release_date": "2008-11-11",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TGZ",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ReiserFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "887"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "12.0.7",
-    "release_date": "2007-10-12",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TGZ",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "721"
-  },
-  {
-    "distribution_name": "absolute",
-    "version": "11.0.92",
-    "release_date": "2007-03-29",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "IceWM",
-    "package_management": "TGZ",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i686",
-    "init_system": "SysV",
-    "file_system": "ext3, ReiserFS, XFS",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "397"
-  }
+    {
+        "distribution_name": "absolute",
+        "version": "20230816",
+        "release_date": "2023-08-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2700-2800",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Brtfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1275"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "15.0",
+        "release_date": "2022-02-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2400-2500",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Brtfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1274"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "14.2.2",
+        "release_date": "2016-12-07",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "900-1200",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Brtfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1063"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "14.12",
+        "release_date": "2015-09-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Brtfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1026"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "14.11",
+        "release_date": "2014-09-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Brtfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1035"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "14.04",
+        "release_date": "2013-01-14",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Brtfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "955"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "13.50",
+        "release_date": "2012-03-11",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "917"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "13.38",
+        "release_date": "2011-06-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "929"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "13.2.2",
+        "release_date": "2011-04-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "930"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "13.1.6",
+        "release_date": "2010-10-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "939"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "13.0.9",
+        "release_date": "2010-02-07",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "911"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "12.2.5",
+        "release_date": "2009-06-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "869"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "12.1.13",
+        "release_date": "2008-11-11",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "887"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "12.0.7",
+        "release_date": "2007-10-12",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "721"
+    },
+    {
+        "distribution_name": "absolute",
+        "version": "11.0.92",
+        "release_date": "2007-03-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/absolute-linux/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "397"
+    }
 ]

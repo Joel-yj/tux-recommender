@@ -1,222 +1,358 @@
 [
-  {
-    "distribution_name": "truenas",
-    "version": "23.10.0-SCALE",
-    "release_date": "2023-10-24",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "1500-1600",
-    "download_link": "https://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "x86_64",
-    "init_system": "RC",
-    "file_system": "zfs",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "22.12.1-SCALE",
-    "release_date": "2023-02-22",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "1600-1700",
-    "download_link": "https://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "x86_64",
-    "init_system": "RC",
-    "file_system": "zfs",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "22.02.2-SCALE",
-    "release_date": "2022-06-21",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "1500-1600",
-    "download_link": "https://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "x86_64",
-    "init_system": "RC",
-    "file_system": "zfs",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "13.0-U4-CORE",
-    "release_date": "2023-03-03",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "900-1000",
-    "download_link": "https://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "12.0-U81-CORE",
-    "release_date": "2022-04-13",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "890-900",
-    "download_link": "https://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "11.3",
-    "release_date": "2020-01-28",
-    "end_of_life": "2021-09",
-    "price": "Free",
-    "image_size": "700-800",
-    "download_link": "https://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "9.10",
-    "release_date": "2016-03-22",
-    "end_of_life": "2016-12",
-    "price": "Free",
-    "image_size": "900-1000",
-    "download_link": "http://download.freenas.org/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "8.3.1",
-    "release_date": "2013-03-20",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://sourceforge.net/projects/freenas/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "0.7.2",
-    "release_date": "2010-11-06",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://sourceforge.net/projects/freenas/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "0.69.2",
-    "release_date": "2009-06-11",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://sourceforge.net/projects/freenas/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  },
-  {
-    "distribution_name": "truenas",
-    "version": "0.686.4",
-    "release_date": "2008-05-23",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://sourceforge.net/projects/freenas/files/",
-    "installation_method": "Text mode",
-    "default_desktop": "--",
-    "package_management": "--",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386",
-    "init_system": "RC",
-    "file_system": "NA",
-    "multilingual": "--",
-    "asian_language_support": "--",
-    "number_of_packages": "NA"
-  }
+    {
+        "distribution_name": "truenas",
+        "version": "23.10.0-SCALE",
+        "release_date": "2023-10-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1500-1600",
+        "download_link": "https://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "zfs"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "22.12.1-SCALE",
+        "release_date": "2023-02-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1600-1700",
+        "download_link": "https://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "zfs"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "22.02.2-SCALE",
+        "release_date": "2022-06-21",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1500-1600",
+        "download_link": "https://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "zfs"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "13.0-U4-CORE",
+        "release_date": "2023-03-03",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "900-1000",
+        "download_link": "https://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "12.0-U81-CORE",
+        "release_date": "2022-04-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "890-900",
+        "download_link": "https://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "11.3",
+        "release_date": "2020-01-28",
+        "end_of_life": "2021-09",
+        "price": "Free",
+        "image_size": "700-800",
+        "download_link": "https://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "9.10",
+        "release_date": "2016-03-22",
+        "end_of_life": "2016-12",
+        "price": "Free",
+        "image_size": "900-1000",
+        "download_link": "http://download.freenas.org/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "8.3.1",
+        "release_date": "2013-03-20",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/freenas/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "0.7.2",
+        "release_date": "2010-11-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/freenas/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "0.69.2",
+        "release_date": "2009-06-11",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/freenas/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "truenas",
+        "version": "0.686.4",
+        "release_date": "2008-05-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/freenas/files/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "--"
+        ],
+        "package_management": "--",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "RC",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    }
 ]

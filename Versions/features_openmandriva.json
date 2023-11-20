@@ -1,1 +1,334 @@
-[{"distribution_name":"openmandriva","version":"23.08-ROME","release_date":"2023-08-24","end_of_life":"NA","price":"Free","image_size":"1000-2800","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma","package_management":"RPM","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"3143"},{"distribution_name":"openmandriva","version":"5.0-candidate","release_date":"2022-09-04","end_of_life":"NA","price":"Free","image_size":"2400-2500","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"2305"},{"distribution_name":"openmandriva","version":"4.3","release_date":"2022-02-06","end_of_life":"NA","price":"Free","image_size":"2400-2500","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"2355"},{"distribution_name":"openmandriva","version":"4.2","release_date":"2021-02-13","end_of_life":"NA","price":"Free","image_size":"2200-2400","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"2319"},{"distribution_name":"openmandriva","version":"4.1","release_date":"2020-02-01","end_of_life":"NA","price":"Free","image_size":"2600-2700","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"2268"},{"distribution_name":"openmandriva","version":"4.0","release_date":"2019-06-16","end_of_life":"NA","price":"Free","image_size":"2500-2600","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"2228"},{"distribution_name":"openmandriva","version":"3.03","release_date":"2017-11-21","end_of_life":"NA","price":"Free","image_size":"2100-2200","download_link":"https:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM5","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn,jp","number_of_packages":"2502"},{"distribution_name":"openmandriva","version":"2014.2","release_date":"2015-06-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM5","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"2164"},{"distribution_name":"openmandriva","version":"2013.0","release_date":"2013-11-22","end_of_life":"2014-08","price":"Free","image_size":"NA","download_link":"http:\/\/sourceforge.net\/projects\/openmandriva\/files\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM5","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"2118"}]
+[
+    {
+        "distribution_name": "openmandriva",
+        "version": "23.08-ROME",
+        "release_date": "2023-08-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1000-2800",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma"
+        ],
+        "package_management": "RPM",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "3143"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "5.0-candidate",
+        "release_date": "2022-09-04",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2400-2500",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "2305"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "4.3",
+        "release_date": "2022-02-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2400-2500",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "2355"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "4.2",
+        "release_date": "2021-02-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2200-2400",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "2319"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "4.1",
+        "release_date": "2020-02-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2600-2700",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "2268"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "4.0",
+        "release_date": "2019-06-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2500-2600",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "2228"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "3.03",
+        "release_date": "2017-11-21",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2100-2200",
+        "download_link": "https://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM5",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn,jp"
+        ],
+        "number_of_packages": "2502"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "2014.2",
+        "release_date": "2015-06-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM5",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2164"
+    },
+    {
+        "distribution_name": "openmandriva",
+        "version": "2013.0",
+        "release_date": "2013-11-22",
+        "end_of_life": "2014-08",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/openmandriva/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM5",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2118"
+    }
+]

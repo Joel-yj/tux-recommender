@@ -1,1 +1,190 @@
-[{"distribution_name":"lxle","version":"Focal","release_date":"2022-05-27","end_of_life":"NA","price":"Free","image_size":"1700-1800","download_link":"https:\/\/sourceforge.net\/projects\/lxle\/files\/Final\/OS\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"2168"},{"distribution_name":"lxle","version":"18.04.3","release_date":"2019-09-09","end_of_life":"NA","price":"Free","image_size":"1200-1400","download_link":"https:\/\/sourceforge.net\/projects\/lxle\/files\/Final\/OS\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"GOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"2036"},{"distribution_name":"lxle","version":"16.04.4","release_date":"2018-05-16","end_of_life":"NA","price":"Free","image_size":"1400-1500","download_link":"https:\/\/sourceforge.net\/projects\/lxle\/files\/Final\/OS\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"1968"},{"distribution_name":"lxle","version":"14.04.4","release_date":"2016-03-25","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/lxle\/files\/Final\/OS\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"1907"},{"distribution_name":"lxle","version":"12.04.5","release_date":"2014-10-23","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/lxle\/files\/Final\/OS\/","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"1714"}]
+[
+    {
+        "distribution_name": "lxle",
+        "version": "Focal",
+        "release_date": "2022-05-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1700-1800",
+        "download_link": "https://sourceforge.net/projects/lxle/files/Final/OS/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2168"
+    },
+    {
+        "distribution_name": "lxle",
+        "version": "18.04.3",
+        "release_date": "2019-09-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1200-1400",
+        "download_link": "https://sourceforge.net/projects/lxle/files/Final/OS/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2036"
+    },
+    {
+        "distribution_name": "lxle",
+        "version": "16.04.4",
+        "release_date": "2018-05-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1400-1500",
+        "download_link": "https://sourceforge.net/projects/lxle/files/Final/OS/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1968"
+    },
+    {
+        "distribution_name": "lxle",
+        "version": "14.04.4",
+        "release_date": "2016-03-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/lxle/files/Final/OS/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1907"
+    },
+    {
+        "distribution_name": "lxle",
+        "version": "12.04.5",
+        "release_date": "2014-10-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/lxle/files/Final/OS/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1714"
+    }
+]

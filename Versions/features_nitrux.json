@@ -1,1 +1,194 @@
-[{"distribution_name":"nitrux","version":"d5-c7-cdff","release_date":"2023-01-03","end_of_life":"NA","price":"Free","image_size":"2900-3000","download_link":"https:\/\/sourceforge.net\/projects\/nitruxos\/files\/","installation_method":"Graphical","default_desktop":"NX Desktop (KDE Plasma)","package_management":"DEB (apt), AppImage","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"OpenRC","file_system":"ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"1792"},{"distribution_name":"nitrux","version":"20221101","release_date":"2022-11-01","end_of_life":"NA","price":"Free","image_size":"2200-2300","download_link":"https:\/\/sourceforge.net\/projects\/nitruxos\/files\/","installation_method":"Graphical","default_desktop":"NX Desktop (KDE Plasma)","package_management":"DEB (apt), AppImage","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"OpenRC","file_system":"ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"860"},{"distribution_name":"nitrux","version":"2021.12.27","release_date":"2021-12-28","end_of_life":"NA","price":"Free","image_size":"2900-3000","download_link":"https:\/\/sourceforge.net\/projects\/nitruxos\/files\/","installation_method":"Graphical","default_desktop":"NX Desktop (KDE Plasma)","package_management":"DEB (apt), AppImage","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"OpenRC","file_system":"ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"1605"},{"distribution_name":"nitrux","version":"2020.11.29","release_date":"2020-11-29","end_of_life":"NA","price":"Free","image_size":"2000-2100","download_link":"https:\/\/sourceforge.net\/projects\/nitruxos\/files\/","installation_method":"Graphical","default_desktop":"NX Desktop (KDE Plasma)","package_management":"DEB (apt), AppImage","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"OpenRC","file_system":"ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"1522"},{"distribution_name":"nitrux","version":"1.1.7","release_date":"2019-06-01","end_of_life":"NA","price":"Free","image_size":"1500-1600","download_link":"https:\/\/sourceforge.net\/projects\/nitruxos\/files\/","installation_method":"Graphical","default_desktop":"NX Desktop (KDE Plasma)","package_management":"DEB (apt), AppImage","release_model":"Fixed","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"1513"},{"distribution_name":"nitrux","version":"1.0.16-1","release_date":"2018-09-29","end_of_life":"NA","price":"Free","image_size":"1400-1500","download_link":"https:\/\/sourceforge.net\/projects\/nitruxos\/files\/","installation_method":"Graphical","default_desktop":"NX Desktop (KDE Plasma)","package_management":"DEB (apt), AppImage","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext4","multilingual":"--","asian_language_support":"--","number_of_packages":"1533"}]
+[
+    {
+        "distribution_name": "nitrux",
+        "version": "d5-c7-cdff",
+        "release_date": "2023-01-03",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2900-3000",
+        "download_link": "https://sourceforge.net/projects/nitruxos/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NX Desktop (KDE Plasma)"
+        ],
+        "package_management": "DEB (apt), AppImage",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "OpenRC",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1792"
+    },
+    {
+        "distribution_name": "nitrux",
+        "version": "20221101",
+        "release_date": "2022-11-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2200-2300",
+        "download_link": "https://sourceforge.net/projects/nitruxos/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NX Desktop (KDE Plasma)"
+        ],
+        "package_management": "DEB (apt), AppImage",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "OpenRC",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "860"
+    },
+    {
+        "distribution_name": "nitrux",
+        "version": "2021.12.27",
+        "release_date": "2021-12-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2900-3000",
+        "download_link": "https://sourceforge.net/projects/nitruxos/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NX Desktop (KDE Plasma)"
+        ],
+        "package_management": "DEB (apt), AppImage",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "OpenRC",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1605"
+    },
+    {
+        "distribution_name": "nitrux",
+        "version": "2020.11.29",
+        "release_date": "2020-11-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2000-2100",
+        "download_link": "https://sourceforge.net/projects/nitruxos/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NX Desktop (KDE Plasma)"
+        ],
+        "package_management": "DEB (apt), AppImage",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "OpenRC",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1522"
+    },
+    {
+        "distribution_name": "nitrux",
+        "version": "1.1.7",
+        "release_date": "2019-06-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1500-1600",
+        "download_link": "https://sourceforge.net/projects/nitruxos/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NX Desktop (KDE Plasma)"
+        ],
+        "package_management": "DEB (apt), AppImage",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1513"
+    },
+    {
+        "distribution_name": "nitrux",
+        "version": "1.0.16-1",
+        "release_date": "2018-09-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1400-1500",
+        "download_link": "https://sourceforge.net/projects/nitruxos/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "NX Desktop (KDE Plasma)"
+        ],
+        "package_management": "DEB (apt), AppImage",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1533"
+    }
+]

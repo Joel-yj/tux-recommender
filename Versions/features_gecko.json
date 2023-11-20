@@ -1,1 +1,240 @@
-[{"distribution_name":"gecko","version":"999.220820.0","release_date":"2022-08-20","end_of_life":"NA","price":"Free","image_size":"1000-1500","download_link":"https:\/\/sourceforge.net\/projects\/geckolinux\/files\/","installation_method":"Graphical","default_desktop":"Budgie, Cinnamon, GNOME, IceWM, KDE Plasma, LXQt, MATE, Pantheon, Xfce","package_management":"RPM (zypper)","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"3847"},{"distribution_name":"gecko","version":"154.220822.0","release_date":"2022-08-22","end_of_life":"NA","price":"Free","image_size":"900-1400","download_link":"https:\/\/sourceforge.net\/projects\/geckolinux\/files\/","installation_method":"Graphical","default_desktop":"Budgie, Cinnamon, GNOME, KDE Plasma, LXQt, MATE, Xfce","package_management":"RPM (zypper)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"2211"},{"distribution_name":"gecko","version":"152.210223.0","release_date":"2021-02-23","end_of_life":"NA","price":"Free","image_size":"900-1400","download_link":"https:\/\/sourceforge.net\/projects\/geckolinux\/files\/","installation_method":"Graphical","default_desktop":"Budgie, Cinnamon, GNOME, KDE Plasma, LXQt, MATE, Xfce","package_management":"RPM (zypper)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"2196"},{"distribution_name":"gecko","version":"150","release_date":"2018-06-08","end_of_life":"NA","price":"Free","image_size":"900-1200","download_link":"https:\/\/sourceforge.net\/projects\/geckolinux\/files\/","installation_method":"Graphical","default_desktop":"Cinnamon, GNOME, KDE Plasma, LXQt, MATE, Xfce","package_management":"RPM (zypper)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"2067"},{"distribution_name":"gecko","version":"423","release_date":"2018-01-05","end_of_life":"NA","price":"Free","image_size":"700-1100","download_link":"https:\/\/sourceforge.net\/projects\/geckolinux\/files\/","installation_method":"Graphical","default_desktop":"Cinnamon, GNOME, KDE Plasma, LXQt, MATE, Openbox, Xfce","package_management":"RPM (zypper)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"2048"},{"distribution_name":"gecko","version":"422","release_date":"2016-12-13","end_of_life":"NA","price":"Free","image_size":"900-1100","download_link":"https:\/\/sourceforge.net\/projects\/geckolinux\/files\/","installation_method":"Graphical","default_desktop":"Cinnamon, GNOME, KDE Plasma, MATE","package_management":"RPM (zypper)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1844"}]
+[
+    {
+        "distribution_name": "gecko",
+        "version": "999.220820.0",
+        "release_date": "2022-08-20",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1000-1500",
+        "download_link": "https://sourceforge.net/projects/geckolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Budgie",
+            "Cinnamon",
+            "GNOME",
+            "IceWM",
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "Pantheon",
+            "Xfce"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "3847"
+    },
+    {
+        "distribution_name": "gecko",
+        "version": "154.220822.0",
+        "release_date": "2022-08-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "900-1400",
+        "download_link": "https://sourceforge.net/projects/geckolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Budgie",
+            "Cinnamon",
+            "GNOME",
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2211"
+    },
+    {
+        "distribution_name": "gecko",
+        "version": "152.210223.0",
+        "release_date": "2021-02-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "900-1400",
+        "download_link": "https://sourceforge.net/projects/geckolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Budgie",
+            "Cinnamon",
+            "GNOME",
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2196"
+    },
+    {
+        "distribution_name": "gecko",
+        "version": "150",
+        "release_date": "2018-06-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "900-1200",
+        "download_link": "https://sourceforge.net/projects/geckolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "GNOME",
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2067"
+    },
+    {
+        "distribution_name": "gecko",
+        "version": "423",
+        "release_date": "2018-01-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "700-1100",
+        "download_link": "https://sourceforge.net/projects/geckolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "GNOME",
+            "KDE Plasma",
+            "LXQt",
+            "MATE",
+            "Openbox",
+            "Xfce"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2048"
+    },
+    {
+        "distribution_name": "gecko",
+        "version": "422",
+        "release_date": "2016-12-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "900-1100",
+        "download_link": "https://sourceforge.net/projects/geckolinux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "GNOME",
+            "KDE Plasma",
+            "MATE"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1844"
+    }
+]

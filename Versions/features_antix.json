@@ -1,1 +1,490 @@
-[{"distribution_name":"antix","version":"23","release_date":"2023-08-27","end_of_life":"NA","price":"Free","image_size":"200-1700","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"runit, SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1675"},{"distribution_name":"antix","version":"22","release_date":"2022-10-19","end_of_life":"NA","price":"Free","image_size":"100-1500","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"runit, SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1569"},{"distribution_name":"antix","version":"21","release_date":"2021-10-31","end_of_life":"NA","price":"Free","image_size":"100-1400","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"runit, SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1572"},{"distribution_name":"antix","version":"19.5","release_date":"2022-01-25","end_of_life":"NA","price":"Free","image_size":"100-1300","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"runit, SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1621"},{"distribution_name":"antix","version":"17.5","release_date":"2022-01-09","end_of_life":"NA","price":"Free","image_size":"100-1000","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1526"},{"distribution_name":"antix","version":"16.3","release_date":"2017-12-21","end_of_life":"2020-06","price":"Free","image_size":"700-800","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1373"},{"distribution_name":"antix","version":"15","release_date":"2015-06-30","end_of_life":"2020-06","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1372"},{"distribution_name":"antix","version":"13.2","release_date":"2013-11-05","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1281"},{"distribution_name":"antix","version":"12","release_date":"2012-08-07","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/antix-linux\/files\/","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"LibreOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, ext4, ReiserFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1294"},{"distribution_name":"antix","version":"11","release_date":"2011-05-02","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/antix.mepis.com\/index.php\/Main_Page#Downloads","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"GOffice","processor_architecture":"i486, i686","init_system":"SysV","file_system":"ext3, ext4, ReiserFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt_br","asian_language_support":"--","number_of_packages":"1218"},{"distribution_name":"antix","version":"8.5","release_date":"2010-04-12","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/antix.mepis.com\/index.php\/Main_Page#Downloads","installation_method":"Graphical","default_desktop":"IceWM","package_management":"DEB","release_model":"Fixed, Semi, Rolling","office_suite":"GOffice","processor_architecture":"i486, i686","init_system":"SysV","file_system":"ext3, ext4, ReiserFS","multilingual":"en, ca, cs, de, es, fr, hu, nl, pt, pt_br","asian_language_support":"--","number_of_packages":"1077"}]
+[
+    {
+        "distribution_name": "antix",
+        "version": "23",
+        "release_date": "2023-08-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "200-1700",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "runit, SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1675"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "22",
+        "release_date": "2022-10-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "100-1500",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "runit, SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1569"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "21",
+        "release_date": "2021-10-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "100-1400",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "runit, SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1572"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "19.5",
+        "release_date": "2022-01-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "100-1300",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "runit, SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1621"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "17.5",
+        "release_date": "2022-01-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "100-1000",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1526"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "16.3",
+        "release_date": "2017-12-21",
+        "end_of_life": "2020-06",
+        "price": "Free",
+        "image_size": "700-800",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1373"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "15",
+        "release_date": "2015-06-30",
+        "end_of_life": "2020-06",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1372"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "13.2",
+        "release_date": "2013-11-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1281"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "12",
+        "release_date": "2012-08-07",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/antix-linux/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1294"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "11",
+        "release_date": "2011-05-02",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://antix.mepis.com/index.php/Main_Page#Downloads",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1218"
+    },
+    {
+        "distribution_name": "antix",
+        "version": "8.5",
+        "release_date": "2010-04-12",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://antix.mepis.com/index.php/Main_Page#Downloads",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "IceWM"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed, Semi, Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "i686"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "en",
+            "ca",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "hu",
+            "nl",
+            "pt",
+            "pt_br"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1077"
+    }
+]

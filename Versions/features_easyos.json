@@ -1,1 +1,162 @@
-[{"distribution_name":"easyos","version":"5.4-kirkstone","release_date":"2023-06-10","end_of_life":"NA","price":"Free","image_size":"800-900","download_link":"http:\/\/distro.ibiblio.org\/easyos\/amd64\/releases\/dunfell\/","installation_method":"Graphical","default_desktop":"JWM-ROX","package_management":"PET","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"SysV","file_system":"ext4","multilingual":"Yes","asian_language_support":"--","number_of_packages":"880"},{"distribution_name":"easyos","version":"4.5-dunfell","release_date":"2022-11-12","end_of_life":"NA","price":"Free","image_size":"800-900","download_link":"http:\/\/distro.ibiblio.org\/easyos\/amd64\/releases\/dunfell\/","installation_method":"Graphical","default_desktop":"JWM-ROX","package_management":"PET","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"SysV","file_system":"ext4","multilingual":"Yes","asian_language_support":"--","number_of_packages":"860"},{"distribution_name":"easyos","version":"3.4.7-dunfell","release_date":"2022-04-27","end_of_life":"NA","price":"Free","image_size":"600-700","download_link":"http:\/\/distro.ibiblio.org\/easyos\/amd64\/releases\/dunfell\/","installation_method":"Graphical","default_desktop":"JWM-ROX","package_management":"PET","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"SysV","file_system":"ext4","multilingual":"Yes","asian_language_support":"--","number_of_packages":"883"},{"distribution_name":"easyos","version":"2.6.2-buster","release_date":"2021-06-29","end_of_life":"NA","price":"Free","image_size":"500-600","download_link":"http:\/\/distro.ibiblio.org\/easyos\/amd64\/releases\/buster\/","installation_method":"Graphical","default_desktop":"JWM-ROX","package_management":"PET","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"BusyBox","file_system":"ext4","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2033"},{"distribution_name":"easyos","version":"1.2.8-pyro","release_date":"2019-11-06","end_of_life":"NA","price":"Free","image_size":"400-500","download_link":"http:\/\/distro.ibiblio.org\/easyos\/amd64\/releases\/pyro\/","installation_method":"Graphical","default_desktop":"JWM-ROX","package_management":"PET","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"SysV","file_system":"ext4","multilingual":"Yes","asian_language_support":"--","number_of_packages":"716"}]
+[
+    {
+        "distribution_name": "easyos",
+        "version": "5.4-kirkstone",
+        "release_date": "2023-06-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "800-900",
+        "download_link": "http://distro.ibiblio.org/easyos/amd64/releases/dunfell/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "JWM-ROX"
+        ],
+        "package_management": "PET",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "880"
+    },
+    {
+        "distribution_name": "easyos",
+        "version": "4.5-dunfell",
+        "release_date": "2022-11-12",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "800-900",
+        "download_link": "http://distro.ibiblio.org/easyos/amd64/releases/dunfell/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "JWM-ROX"
+        ],
+        "package_management": "PET",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "860"
+    },
+    {
+        "distribution_name": "easyos",
+        "version": "3.4.7-dunfell",
+        "release_date": "2022-04-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "600-700",
+        "download_link": "http://distro.ibiblio.org/easyos/amd64/releases/dunfell/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "JWM-ROX"
+        ],
+        "package_management": "PET",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "883"
+    },
+    {
+        "distribution_name": "easyos",
+        "version": "2.6.2-buster",
+        "release_date": "2021-06-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "500-600",
+        "download_link": "http://distro.ibiblio.org/easyos/amd64/releases/buster/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "JWM-ROX"
+        ],
+        "package_management": "PET",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "BusyBox",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2033"
+    },
+    {
+        "distribution_name": "easyos",
+        "version": "1.2.8-pyro",
+        "release_date": "2019-11-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "400-500",
+        "download_link": "http://distro.ibiblio.org/easyos/amd64/releases/pyro/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "JWM-ROX"
+        ],
+        "package_management": "PET",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "716"
+    }
+]

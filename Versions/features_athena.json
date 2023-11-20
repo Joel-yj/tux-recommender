@@ -1,1 +1,34 @@
-[{"distribution_name":"athena","version":"2023.06.23","release_date":"2023-06-23","end_of_life":"NA","price":"Free","image_size":"2500-2600","download_link":"https:\/\/sourceforge.net\/projects\/athena-iso\/files\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"Pacman","release_model":"Rolling","office_suite":"--","processor_architecture":"x86_64","init_system":"systemd","file_system":"NA","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1040"}]
+[
+    {
+        "distribution_name": "athena",
+        "version": "2023.06.23",
+        "release_date": "2023-06-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2500-2600",
+        "download_link": "https://sourceforge.net/projects/athena-iso/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "Pacman",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1040"
+    }
+]

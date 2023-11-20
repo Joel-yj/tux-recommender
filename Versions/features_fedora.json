@@ -1,1 +1,1523 @@
-[{"distribution_name":"fedora","version":"rawhide","release_date":"2023-11-09","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/fedoraproject.org\/wiki\/Releases\/Rawhide?rd=Rawhide","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Rolling","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"aarch64, ppc64le, s390x, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"72353"},{"distribution_name":"fedora","version":"39","release_date":"2023-11-07","end_of_life":"NA","price":"Free","image_size":"500-2000","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1927"},{"distribution_name":"fedora","version":"38","release_date":"2023-04-18","end_of_life":"NA","price":"Free","image_size":"500-2000","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1853"},{"distribution_name":"fedora","version":"37","release_date":"2022-11-15","end_of_life":"NA","price":"Free","image_size":"500-2000","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"aarch64, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1782"},{"distribution_name":"fedora","version":"36","release_date":"2022-05-10","end_of_life":"NA","price":"Free","image_size":"500-2300","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1743"},{"distribution_name":"fedora","version":"35","release_date":"2021-11-02","end_of_life":"2022-12","price":"Free","image_size":"500-2100","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2755"},{"distribution_name":"fedora","version":"34","release_date":"2021-04-27","end_of_life":"2022-06","price":"Free","image_size":"500-2100","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1694"},{"distribution_name":"fedora","version":"33","release_date":"2020-10-27","end_of_life":"2021-11","price":"Free","image_size":"500-2000","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1705"},{"distribution_name":"fedora","version":"32","release_date":"2020-04-28","end_of_life":"2021-05","price":"Free","image_size":"500-2000","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1658"},{"distribution_name":"fedora","version":"31","release_date":"2019-10-29","end_of_life":"2020-11","price":"Free","image_size":"500-1900","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2518"},{"distribution_name":"fedora","version":"30","release_date":"2019-04-30","end_of_life":"2020-05","price":"Free","image_size":"500-1900","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1620"},{"distribution_name":"fedora","version":"29","release_date":"2018-10-30","end_of_life":"2019-11","price":"Free","image_size":"500-1900","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1613"},{"distribution_name":"fedora","version":"28","release_date":"2018-05-01","end_of_life":"2019-05","price":"Free","image_size":"500-1900","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1597"},{"distribution_name":"fedora","version":"27","release_date":"2017-11-14","end_of_life":"2018-12","price":"Free","image_size":"500-2400","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1569"},{"distribution_name":"fedora","version":"26","release_date":"2017-07-11","end_of_life":"2018-06","price":"Free","image_size":"500-2300","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1533"},{"distribution_name":"fedora","version":"25","release_date":"2016-11-22","end_of_life":"2017-12","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1486"},{"distribution_name":"fedora","version":"24","release_date":"2016-06-21","end_of_life":"2017-08","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1453"},{"distribution_name":"fedora","version":"23","release_date":"2015-11-03","end_of_life":"2016-12","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1451"},{"distribution_name":"fedora","version":"22","release_date":"2015-05-26","end_of_life":"2016-07","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1458"},{"distribution_name":"fedora","version":"21","release_date":"2014-12-09","end_of_life":"2015-12","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhfp, i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3020"},{"distribution_name":"fedora","version":"20-heisenbug","release_date":"2013-12-17","end_of_life":"2015-06","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"armhfp, i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4075"},{"distribution_name":"fedora","version":"19-schrodingers","release_date":"2013-07-02","end_of_life":"2015-01","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"i686, ppc, ppc64, s390x, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3957"},{"distribution_name":"fedora","version":"18-spherical","release_date":"2013-01-15","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"arm, i686, ppc, ppc64, s390x, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4174"},{"distribution_name":"fedora","version":"17-beefy","release_date":"2012-05-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"arm, i686, powerpc, s390x, ppc64, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3357"},{"distribution_name":"fedora","version":"16-verne","release_date":"2011-11-08","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3118"},{"distribution_name":"fedora","version":"15-lovelock","release_date":"2011-05-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2944"},{"distribution_name":"fedora","version":"14-laughlin","release_date":"2010-11-02","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i686, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2769"},{"distribution_name":"fedora","version":"13-goddard","release_date":"2010-05-25","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i686, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2451"},{"distribution_name":"fedora","version":"12-constantine","release_date":"2009-11-17","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i686, ppc, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2400"},{"distribution_name":"fedora","version":"11-leonidas","release_date":"2009-06-09","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"Upstart","file_system":"ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"2253"},{"distribution_name":"fedora","version":"10-cambridge","release_date":"2008-11-25","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"Upstart","file_system":"ext3, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"2221"},{"distribution_name":"fedora","version":"9-sulphur","release_date":"2008-05-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"Upstart","file_system":"ext3, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"2072"},{"distribution_name":"fedora","version":"8-werewolf","release_date":"2007-11-08","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"SysV","file_system":"ext3, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"1983"},{"distribution_name":"fedora","version":"7-moonshine","release_date":"2007-05-31","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"1629"},{"distribution_name":"fedora","version":"6-zod","release_date":"2006-10-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"2243"},{"distribution_name":"fedora","version":"5-bordeaux","release_date":"2006-03-20","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"2208"},{"distribution_name":"fedora","version":"4-stentz","release_date":"2005-06-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ppc, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in, jp, kr, zh_TW","number_of_packages":"1807"},{"distribution_name":"fedora","version":"3-heidelberg","release_date":"2004-11-08","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i386, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, in jp, kr, zh_TW","number_of_packages":"1656"},{"distribution_name":"fedora","version":"2-tettnang","release_date":"2004-05-18","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i386, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, jp, kr, zh_TW","number_of_packages":"1623"},{"distribution_name":"fedora","version":"1-yarrow","release_date":"2003-11-05","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/getfedora.org\/en\/workstation\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"KOffice, OO.o","processor_architecture":"i386, x86_64","init_system":"SysV","file_system":"ext3 (supported), JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"zh_CN, jp, kr, zh_TW","number_of_packages":"1466"}]
+[
+    {
+        "distribution_name": "fedora",
+        "version": "rawhide",
+        "release_date": "2023-11-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://fedoraproject.org/wiki/Releases/Rawhide?rd=Rawhide",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Rolling",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "ppc64le",
+            "s390x",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "72353"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "39",
+        "release_date": "2023-11-07",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "500-2000",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1927"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "38",
+        "release_date": "2023-04-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "500-2000",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1853"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "37",
+        "release_date": "2022-11-15",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "500-2000",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1782"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "36",
+        "release_date": "2022-05-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "500-2300",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1743"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "35",
+        "release_date": "2021-11-02",
+        "end_of_life": "2022-12",
+        "price": "Free",
+        "image_size": "500-2100",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2755"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "34",
+        "release_date": "2021-04-27",
+        "end_of_life": "2022-06",
+        "price": "Free",
+        "image_size": "500-2100",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1694"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "33",
+        "release_date": "2020-10-27",
+        "end_of_life": "2021-11",
+        "price": "Free",
+        "image_size": "500-2000",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1705"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "32",
+        "release_date": "2020-04-28",
+        "end_of_life": "2021-05",
+        "price": "Free",
+        "image_size": "500-2000",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1658"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "31",
+        "release_date": "2019-10-29",
+        "end_of_life": "2020-11",
+        "price": "Free",
+        "image_size": "500-1900",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2518"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "30",
+        "release_date": "2019-04-30",
+        "end_of_life": "2020-05",
+        "price": "Free",
+        "image_size": "500-1900",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1620"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "29",
+        "release_date": "2018-10-30",
+        "end_of_life": "2019-11",
+        "price": "Free",
+        "image_size": "500-1900",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1613"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "28",
+        "release_date": "2018-05-01",
+        "end_of_life": "2019-05",
+        "price": "Free",
+        "image_size": "500-1900",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1597"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "27",
+        "release_date": "2017-11-14",
+        "end_of_life": "2018-12",
+        "price": "Free",
+        "image_size": "500-2400",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1569"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "26",
+        "release_date": "2017-07-11",
+        "end_of_life": "2018-06",
+        "price": "Free",
+        "image_size": "500-2300",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1533"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "25",
+        "release_date": "2016-11-22",
+        "end_of_life": "2017-12",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1486"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "24",
+        "release_date": "2016-06-21",
+        "end_of_life": "2017-08",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1453"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "23",
+        "release_date": "2015-11-03",
+        "end_of_life": "2016-12",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1451"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "22",
+        "release_date": "2015-05-26",
+        "end_of_life": "2016-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1458"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "21",
+        "release_date": "2014-12-09",
+        "end_of_life": "2015-12",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3020"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "20-heisenbug",
+        "release_date": "2013-12-17",
+        "end_of_life": "2015-06",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhfp",
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4075"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "19-schrodingers",
+        "release_date": "2013-07-02",
+        "end_of_life": "2015-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "ppc",
+            "ppc64",
+            "s390x",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3957"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "18-spherical",
+        "release_date": "2013-01-15",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "arm",
+            "i686",
+            "ppc",
+            "ppc64",
+            "s390x",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4174"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "17-beefy",
+        "release_date": "2012-05-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "arm",
+            "i686",
+            "powerpc",
+            "s390x",
+            "ppc64",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3357"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "16-verne",
+        "release_date": "2011-11-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3118"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "15-lovelock",
+        "release_date": "2011-05-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2944"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "14-laughlin",
+        "release_date": "2010-11-02",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2769"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "13-goddard",
+        "release_date": "2010-05-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2451"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "12-constantine",
+        "release_date": "2009-11-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i686",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2400"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "11-leonidas",
+        "release_date": "2009-06-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "2253"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "10-cambridge",
+        "release_date": "2008-11-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "2221"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "9-sulphur",
+        "release_date": "2008-05-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "2072"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "8-werewolf",
+        "release_date": "2007-11-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "1983"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "7-moonshine",
+        "release_date": "2007-05-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "1629"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "6-zod",
+        "release_date": "2006-10-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "2243"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "5-bordeaux",
+        "release_date": "2006-03-20",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "2208"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "4-stentz",
+        "release_date": "2005-06-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "1807"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "3-heidelberg",
+        "release_date": "2004-11-08",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "in jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "1656"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "2-tettnang",
+        "release_date": "2004-05-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "1623"
+    },
+    {
+        "distribution_name": "fedora",
+        "version": "1-yarrow",
+        "release_date": "2003-11-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://getfedora.org/en/workstation/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3 (supported)",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "jp",
+            "kr",
+            "zh_TW"
+        ],
+        "number_of_packages": "1466"
+    }
+]

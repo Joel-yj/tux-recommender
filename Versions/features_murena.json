@@ -1,1 +1,34 @@
-[{"distribution_name":"murena","version":"1.15","release_date":"2023-09-28","end_of_life":"NA","price":"Free","image_size":"1300-1400","download_link":"https:\/\/doc.e.foundation\/devices","installation_method":"Graphical","default_desktop":"BlissLauncher","package_management":"APK","release_model":"Fixed","office_suite":"--","processor_architecture":"arm64","init_system":"Other","file_system":"ext4","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"}]
+[
+    {
+        "distribution_name": "murena",
+        "version": "1.15",
+        "release_date": "2023-09-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1300-1400",
+        "download_link": "https://doc.e.foundation/devices",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "BlissLauncher"
+        ],
+        "package_management": "APK",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "arm64"
+        ],
+        "init_system": "Other",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    }
+]

@@ -1,1 +1,1424 @@
-[{"distribution_name":"kubuntu","version":"23.10-mantic","release_date":"2023-10-12","end_of_life":"2024-07","price":"Free","image_size":"3700-3800","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/23.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt), Snap","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1951"},{"distribution_name":"kubuntu","version":"23.04-lunar","release_date":"2023-04-20","end_of_life":"2024-01","price":"Free","image_size":"4700-4800","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/23.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2003"},{"distribution_name":"kubuntu","version":"22.10-kinetic","release_date":"2022-10-20","end_of_life":"2023-07","price":"Free","image_size":"4000-4100","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/22.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1994"},{"distribution_name":"kubuntu","version":"22.04-jammy","release_date":"2022-04-21","end_of_life":"2025-04","price":"Free","image_size":"3500-3600","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/22.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1962"},{"distribution_name":"kubuntu","version":"21.10-impish","release_date":"2021-10-14","end_of_life":"2022-07","price":"Free","image_size":"3200-3300","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/21.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1968"},{"distribution_name":"kubuntu","version":"21.04-hirsute","release_date":"2021-04-22","end_of_life":"2022-01","price":"Free","image_size":"2800-2900","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/21.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1973"},{"distribution_name":"kubuntu","version":"20.10-groovy","release_date":"2020-10-22","end_of_life":"2021-07","price":"Free","image_size":"2600-2700","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/20.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1948"},{"distribution_name":"kubuntu","version":"20.04-focal","release_date":"2020-04-23","end_of_life":"2023-04","price":"Free","image_size":"2200-2300","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/20.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1915"},{"distribution_name":"kubuntu","version":"19.10-eoan","release_date":"2019-10-17","end_of_life":"2020-07","price":"Free","image_size":"2100-2200","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/19.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2081"},{"distribution_name":"kubuntu","version":"19.04-disco","release_date":"2019-04-18","end_of_life":"2020-01","price":"Free","image_size":"1800-1900","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/19.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2164"},{"distribution_name":"kubuntu","version":"18.10-cosmic","release_date":"2018-10-18","end_of_life":"2019-07","price":"Free","image_size":"1800-1900","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/18.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2112"},{"distribution_name":"kubuntu","version":"18.04-bionic","release_date":"2018-04-26","end_of_life":"2021-04","price":"Free","image_size":"1700-1800","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/18.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2145"},{"distribution_name":"kubuntu","version":"17.10-artful","release_date":"2017-10-19","end_of_life":"2018-07","price":"Free","image_size":"1677-1705","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/17.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2087"},{"distribution_name":"kubuntu","version":"17.04-zesty","release_date":"2017-04-13","end_of_life":"2018-01","price":"Free","image_size":"1653-1678","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/17.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2060"},{"distribution_name":"kubuntu","version":"16.10-yakkety","release_date":"2016-10-13","end_of_life":"2017-07","price":"Free","image_size":"","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/16.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2002"},{"distribution_name":"kubuntu","version":"16.04-xenial","release_date":"2016-04-21","end_of_life":"2019-04","price":"Free","image_size":"1450-1469","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/16.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB (apt)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2007"},{"distribution_name":"kubuntu","version":"15.10-wily","release_date":"2015-10-22","end_of_life":"2016-07","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/15.10\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2041"},{"distribution_name":"kubuntu","version":"15.04-vivid","release_date":"2015-04-27","end_of_life":"2016-01","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/15.04\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1941"},{"distribution_name":"kubuntu","version":"14.10-utopic","release_date":"2014-10-23","end_of_life":"2015-07","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/14.10\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1618"},{"distribution_name":"kubuntu","version":"14.04-trusty","release_date":"2014-04-17","end_of_life":"2019-04","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/14.04\/release\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1595"},{"distribution_name":"kubuntu","version":"13.10-saucy","release_date":"2013-10-17","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/13.10\/release\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64, powerpc","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1538"},{"distribution_name":"kubuntu","version":"13.04-raring","release_date":"2013-04-25","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/13.04\/release\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"armhf, i386, powerpc, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1439"},{"distribution_name":"kubuntu","version":"12.10-quantal","release_date":"2012-10-18","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/12.10\/release\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1404"},{"distribution_name":"kubuntu","version":"12.04-precise","release_date":"2012-04-26","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/cdimage.ubuntu.com\/kubuntu\/releases\/12.04\/release\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, powerpc, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1440"},{"distribution_name":"kubuntu","version":"11.10-oneiric","release_date":"2011-10-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1428"},{"distribution_name":"kubuntu","version":"11.04-natty","release_date":"2011-04-28","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1518"},{"distribution_name":"kubuntu","version":"10.10-maverick","release_date":"2010-10-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1456"},{"distribution_name":"kubuntu","version":"10.04-lucid","release_date":"2010-04-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1385"},{"distribution_name":"kubuntu","version":"9.10-karmic","release_date":"2009-10-29","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1288"},{"distribution_name":"kubuntu","version":"9.04-jaunty","release_date":"2009-04-23","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1246"},{"distribution_name":"kubuntu","version":"8.10-intrepid","release_date":"2008-10-30","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1132"},{"distribution_name":"kubuntu","version":"8.04-hardy","release_date":"2008-04-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1037"},{"distribution_name":"kubuntu","version":"7.10-gutsy","release_date":"2007-10-18","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1065"},{"distribution_name":"kubuntu","version":"7.04-feisty","release_date":"2007-04-19","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1032"},{"distribution_name":"kubuntu","version":"6.10-edgy","release_date":"2006-10-26","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64, ppc","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1024"},{"distribution_name":"kubuntu","version":"6.06-dapper","release_date":"2006-06-01","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64, ppc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1156"},{"distribution_name":"kubuntu","version":"5.10-breezy","release_date":"2005-10-13","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64, ppc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1275"},{"distribution_name":"kubuntu","version":"5.04-hoary","release_date":"2005-03-30","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/old-releases.ubuntu.com\/releases\/kubuntu\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"DEB","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, x86_64, ppc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1009"}]
+[
+    {
+        "distribution_name": "kubuntu",
+        "version": "23.10-mantic",
+        "release_date": "2023-10-12",
+        "end_of_life": "2024-07",
+        "price": "Free",
+        "image_size": "3700-3800",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/23.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt), Snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1951"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "23.04-lunar",
+        "release_date": "2023-04-20",
+        "end_of_life": "2024-01",
+        "price": "Free",
+        "image_size": "4700-4800",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/23.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2003"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "22.10-kinetic",
+        "release_date": "2022-10-20",
+        "end_of_life": "2023-07",
+        "price": "Free",
+        "image_size": "4000-4100",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/22.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1994"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "22.04-jammy",
+        "release_date": "2022-04-21",
+        "end_of_life": "2025-04",
+        "price": "Free",
+        "image_size": "3500-3600",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/22.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1962"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "21.10-impish",
+        "release_date": "2021-10-14",
+        "end_of_life": "2022-07",
+        "price": "Free",
+        "image_size": "3200-3300",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/21.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1968"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "21.04-hirsute",
+        "release_date": "2021-04-22",
+        "end_of_life": "2022-01",
+        "price": "Free",
+        "image_size": "2800-2900",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/21.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1973"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "20.10-groovy",
+        "release_date": "2020-10-22",
+        "end_of_life": "2021-07",
+        "price": "Free",
+        "image_size": "2600-2700",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/20.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1948"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "20.04-focal",
+        "release_date": "2020-04-23",
+        "end_of_life": "2023-04",
+        "price": "Free",
+        "image_size": "2200-2300",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/20.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1915"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "19.10-eoan",
+        "release_date": "2019-10-17",
+        "end_of_life": "2020-07",
+        "price": "Free",
+        "image_size": "2100-2200",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/19.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2081"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "19.04-disco",
+        "release_date": "2019-04-18",
+        "end_of_life": "2020-01",
+        "price": "Free",
+        "image_size": "1800-1900",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/19.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2164"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "18.10-cosmic",
+        "release_date": "2018-10-18",
+        "end_of_life": "2019-07",
+        "price": "Free",
+        "image_size": "1800-1900",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/18.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2112"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "18.04-bionic",
+        "release_date": "2018-04-26",
+        "end_of_life": "2021-04",
+        "price": "Free",
+        "image_size": "1700-1800",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/18.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2145"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "17.10-artful",
+        "release_date": "2017-10-19",
+        "end_of_life": "2018-07",
+        "price": "Free",
+        "image_size": "1677-1705",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/17.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2087"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "17.04-zesty",
+        "release_date": "2017-04-13",
+        "end_of_life": "2018-01",
+        "price": "Free",
+        "image_size": "1653-1678",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/17.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2060"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "16.10-yakkety",
+        "release_date": "2016-10-13",
+        "end_of_life": "2017-07",
+        "price": "Free",
+        "image_size": "",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/16.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2002"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "16.04-xenial",
+        "release_date": "2016-04-21",
+        "end_of_life": "2019-04",
+        "price": "Free",
+        "image_size": "1450-1469",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/16.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB (apt)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2007"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "15.10-wily",
+        "release_date": "2015-10-22",
+        "end_of_life": "2016-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/15.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2041"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "15.04-vivid",
+        "release_date": "2015-04-27",
+        "end_of_life": "2016-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/15.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1941"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "14.10-utopic",
+        "release_date": "2014-10-23",
+        "end_of_life": "2015-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/14.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1618"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "14.04-trusty",
+        "release_date": "2014-04-17",
+        "end_of_life": "2019-04",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/14.04/release/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1595"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "13.10-saucy",
+        "release_date": "2013-10-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/13.10/release/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64",
+            "powerpc"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1538"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "13.04-raring",
+        "release_date": "2013-04-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/13.04/release/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhf",
+            "i386",
+            "powerpc",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1439"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "12.10-quantal",
+        "release_date": "2012-10-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/12.10/release/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1404"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "12.04-precise",
+        "release_date": "2012-04-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/kubuntu/releases/12.04/release/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "powerpc",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1440"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "11.10-oneiric",
+        "release_date": "2011-10-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1428"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "11.04-natty",
+        "release_date": "2011-04-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1518"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "10.10-maverick",
+        "release_date": "2010-10-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1456"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "10.04-lucid",
+        "release_date": "2010-04-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1385"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "9.10-karmic",
+        "release_date": "2009-10-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1288"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "9.04-jaunty",
+        "release_date": "2009-04-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1246"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "8.10-intrepid",
+        "release_date": "2008-10-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1132"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "8.04-hardy",
+        "release_date": "2008-04-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1037"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "7.10-gutsy",
+        "release_date": "2007-10-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1065"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "7.04-feisty",
+        "release_date": "2007-04-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1032"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "6.10-edgy",
+        "release_date": "2006-10-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64",
+            "ppc"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1024"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "6.06-dapper",
+        "release_date": "2006-06-01",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64",
+            "ppc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1156"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "5.10-breezy",
+        "release_date": "2005-10-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64",
+            "ppc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1275"
+    },
+    {
+        "distribution_name": "kubuntu",
+        "version": "5.04-hoary",
+        "release_date": "2005-03-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://old-releases.ubuntu.com/releases/kubuntu/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64",
+            "ppc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1009"
+    }
+]

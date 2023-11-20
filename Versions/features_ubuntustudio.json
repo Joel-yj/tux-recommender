@@ -1,682 +1,1272 @@
 [
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "23.10-mantic",
-    "release_date": "2023-10-12",
-    "end_of_life": "2024-07",
-    "price": "Free",
-    "image_size": "5400-5500",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/23.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB, Snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "3015"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "23.04-lunar",
-    "release_date": "2023-04-20",
-    "end_of_life": "2024-01",
-    "price": "Free",
-    "image_size": "5400-5500",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/23.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "3043"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "22.10-kinetic",
-    "release_date": "2022-10-20",
-    "end_of_life": "2023-07",
-    "price": "Free",
-    "image_size": "4200-4300",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/22.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2954"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "22.04-jammy",
-    "release_date": "2022-04-21",
-    "end_of_life": "2025-04",
-    "price": "Free",
-    "image_size": "4200-4300",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/22.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2822"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "21.10-impish",
-    "release_date": "2021-10-14",
-    "end_of_life": "2022-07",
-    "price": "Free",
-    "image_size": "4100-4200",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/21.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2961"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "21.04-hirsute",
-    "release_date": "2021-04-22",
-    "end_of_life": "2022-01",
-    "price": "Free",
-    "image_size": "3600-3700",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/20.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2985"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "20.10-groovy",
-    "release_date": "2020-10-22",
-    "end_of_life": "2021-07",
-    "price": "Free",
-    "image_size": "3600-3700",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/20.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "KDE Plasma",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2851"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "20.04-focal",
-    "release_date": "2020-04-23",
-    "end_of_life": "2023-04",
-    "price": "Free",
-    "image_size": "3400-3500",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/20.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2828"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "19.10-eoan",
-    "release_date": "2019-10-17",
-    "end_of_life": "2020-07",
-    "price": "Free",
-    "image_size": "3200-3300",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/19.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2791"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "19.04-disco",
-    "release_date": "2019-04-18",
-    "end_of_life": "2020-01",
-    "price": "Free",
-    "image_size": "3000-3100",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/19.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2785"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "18.10-cosmic",
-    "release_date": "2018-10-18",
-    "end_of_life": "2019-07",
-    "price": "Free",
-    "image_size": "3000-3100",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/18.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2692"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "18.04-bionic",
-    "release_date": "2018-04-26",
-    "end_of_life": "2019-01",
-    "price": "Free",
-    "image_size": "2800-2900",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/18.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2669"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "17.10-artful",
-    "release_date": "2017-10-19",
-    "end_of_life": "2018-07",
-    "price": "Free",
-    "image_size": "2700-2800",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/17.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2672"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "17.04-zesty",
-    "release_date": "2017-04-13",
-    "end_of_life": "2018-01",
-    "price": "Free",
-    "image_size": "2900-3100",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/17.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2516"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "16.10-yakkety",
-    "release_date": "2016-10-13",
-    "end_of_life": "2017-07",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/16.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2484"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "16.04-xenial",
-    "release_date": "2016-04-21",
-    "end_of_life": "2019-04",
-    "price": "Free",
-    "image_size": "2600-2700",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/16.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2510"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "15.10-wily",
-    "release_date": "2015-10-22",
-    "end_of_life": "2016-01",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/15.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2561"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "15.04-vivid",
-    "release_date": "2015-04-23",
-    "end_of_life": "2015-07",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/15.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2501"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "14.10-utopic",
-    "release_date": "2014-10-23",
-    "end_of_life": "2015-07",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/14.10/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2303"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "14.04-trusty",
-    "release_date": "2014-04-17",
-    "end_of_life": "2017-04",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/14.04/",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2265"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "13.10-saucy",
-    "release_date": "2013-10-17",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2136"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "13.04-raring",
-    "release_date": "2013-04-25",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2084"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "12.10-quantal",
-    "release_date": "2012-10-18",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "1868"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "12.04-precise",
-    "release_date": "2012-04-26",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2344"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "11.10-oneiric",
-    "release_date": "2011-10-13",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "Xfce",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2396"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "11.04-natty",
-    "release_date": "2011-04-28",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2410"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "10.10-maverick",
-    "release_date": "2010-10-10",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2427"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "10.04-lucid",
-    "release_date": "2010-04-29",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2371"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "9.10-karmic",
-    "release_date": "2009-10-29",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2299"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "9.04-jaunty",
-    "release_date": "2009-04-23",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2189"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "8.10-intrepid",
-    "release_date": "2008-10-30",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2100"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "8.04-hardy",
-    "release_date": "2008-04-24",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "--",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "2151"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "7.10-gutsy",
-    "release_date": "2007-10-20",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "Upstart",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "1409"
-  },
-  {
-    "distribution_name": "ubuntustudio",
-    "version": "7.04-feisty",
-    "release_date": "2007-05-10",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://ubuntustudio.org/downloads",
-    "installation_method": "Text mode",
-    "default_desktop": "GNOME",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "OO.o",
-    "processor_architecture": "i386",
-    "init_system": "Upstart",
-    "file_system": "ext3, JFS, ReiserFS, XFS",
-    "multilingual": "NA",
-    "asian_language_support": "NA",
-    "number_of_packages": "1515"
-  }
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "23.10-mantic",
+        "release_date": "2023-10-12",
+        "end_of_life": "2024-07",
+        "price": "Free",
+        "image_size": "5400-5500",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/23.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB, Snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "3015"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "23.04-lunar",
+        "release_date": "2023-04-20",
+        "end_of_life": "2024-01",
+        "price": "Free",
+        "image_size": "5400-5500",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/23.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "3043"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "22.10-kinetic",
+        "release_date": "2022-10-20",
+        "end_of_life": "2023-07",
+        "price": "Free",
+        "image_size": "4200-4300",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/22.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2954"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "22.04-jammy",
+        "release_date": "2022-04-21",
+        "end_of_life": "2025-04",
+        "price": "Free",
+        "image_size": "4200-4300",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/22.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2822"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "21.10-impish",
+        "release_date": "2021-10-14",
+        "end_of_life": "2022-07",
+        "price": "Free",
+        "image_size": "4100-4200",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/21.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2961"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "21.04-hirsute",
+        "release_date": "2021-04-22",
+        "end_of_life": "2022-01",
+        "price": "Free",
+        "image_size": "3600-3700",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/20.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2985"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "20.10-groovy",
+        "release_date": "2020-10-22",
+        "end_of_life": "2021-07",
+        "price": "Free",
+        "image_size": "3600-3700",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/20.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2851"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "20.04-focal",
+        "release_date": "2020-04-23",
+        "end_of_life": "2023-04",
+        "price": "Free",
+        "image_size": "3400-3500",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/20.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2828"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "19.10-eoan",
+        "release_date": "2019-10-17",
+        "end_of_life": "2020-07",
+        "price": "Free",
+        "image_size": "3200-3300",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/19.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2791"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "19.04-disco",
+        "release_date": "2019-04-18",
+        "end_of_life": "2020-01",
+        "price": "Free",
+        "image_size": "3000-3100",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/19.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2785"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "18.10-cosmic",
+        "release_date": "2018-10-18",
+        "end_of_life": "2019-07",
+        "price": "Free",
+        "image_size": "3000-3100",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/18.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2692"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "18.04-bionic",
+        "release_date": "2018-04-26",
+        "end_of_life": "2019-01",
+        "price": "Free",
+        "image_size": "2800-2900",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/18.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2669"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "17.10-artful",
+        "release_date": "2017-10-19",
+        "end_of_life": "2018-07",
+        "price": "Free",
+        "image_size": "2700-2800",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/17.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2672"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "17.04-zesty",
+        "release_date": "2017-04-13",
+        "end_of_life": "2018-01",
+        "price": "Free",
+        "image_size": "2900-3100",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/17.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2516"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "16.10-yakkety",
+        "release_date": "2016-10-13",
+        "end_of_life": "2017-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/16.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2484"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "16.04-xenial",
+        "release_date": "2016-04-21",
+        "end_of_life": "2019-04",
+        "price": "Free",
+        "image_size": "2600-2700",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/16.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2510"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "15.10-wily",
+        "release_date": "2015-10-22",
+        "end_of_life": "2016-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/15.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2561"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "15.04-vivid",
+        "release_date": "2015-04-23",
+        "end_of_life": "2015-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/15.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2501"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "14.10-utopic",
+        "release_date": "2014-10-23",
+        "end_of_life": "2015-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/14.10/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2303"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "14.04-trusty",
+        "release_date": "2014-04-17",
+        "end_of_life": "2017-04",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntustudio/releases/14.04/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2265"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "13.10-saucy",
+        "release_date": "2013-10-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2136"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "13.04-raring",
+        "release_date": "2013-04-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2084"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "12.10-quantal",
+        "release_date": "2012-10-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1868"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "12.04-precise",
+        "release_date": "2012-04-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2344"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "11.10-oneiric",
+        "release_date": "2011-10-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2396"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "11.04-natty",
+        "release_date": "2011-04-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2410"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "10.10-maverick",
+        "release_date": "2010-10-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2427"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "10.04-lucid",
+        "release_date": "2010-04-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2371"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "9.10-karmic",
+        "release_date": "2009-10-29",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2299"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "9.04-jaunty",
+        "release_date": "2009-04-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2189"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "8.10-intrepid",
+        "release_date": "2008-10-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2100"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "8.04-hardy",
+        "release_date": "2008-04-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2151"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "7.10-gutsy",
+        "release_date": "2007-10-20",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1409"
+    },
+    {
+        "distribution_name": "ubuntustudio",
+        "version": "7.04-feisty",
+        "release_date": "2007-05-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://ubuntustudio.org/downloads",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1515"
+    }
 ]

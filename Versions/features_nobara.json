@@ -1,1 +1,101 @@
-[{"distribution_name":"nobara","version":"38","release_date":"2023-06-25","end_of_life":"NA","price":"Free","image_size":"3000-3400","download_link":"https:\/\/nobaraproject.org\/download-nobara\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2765"},{"distribution_name":"nobara","version":"37","release_date":"2023-01-07","end_of_life":"NA","price":"Free","image_size":"2800-3200","download_link":"https:\/\/nobaraproject.org\/wp-content\/uploads\/Nobara-37-Official-2023-01-06.iso","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2609"},{"distribution_name":"nobara","version":"36","release_date":"2022-12-05","end_of_life":"NA","price":"Free","image_size":"3500-3900","download_link":"https:\/\/nobaraproject.org\/wp-content\/uploads\/Nobara-36-Official-2022-12-05.iso","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (dnf)","release_model":"Fixed","office_suite":"OnlyOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"2630"}]
+[
+    {
+        "distribution_name": "nobara",
+        "version": "38",
+        "release_date": "2023-06-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3000-3400",
+        "download_link": "https://nobaraproject.org/download-nobara/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2765"
+    },
+    {
+        "distribution_name": "nobara",
+        "version": "37",
+        "release_date": "2023-01-07",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2800-3200",
+        "download_link": "https://nobaraproject.org/wp-content/uploads/Nobara-37-Official-2023-01-06.iso",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2609"
+    },
+    {
+        "distribution_name": "nobara",
+        "version": "36",
+        "release_date": "2022-12-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3500-3900",
+        "download_link": "https://nobaraproject.org/wp-content/uploads/Nobara-36-Official-2022-12-05.iso",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OnlyOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "2630"
+    }
+]

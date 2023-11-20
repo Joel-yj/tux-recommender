@@ -1,402 +1,767 @@
 [
-  {
-    "distribution_name": "ubuntumate",
-    "version": "23.10-mantic",
-    "release_date": "2023-10-12",
-    "end_of_life": "2024-07",
-    "price": "Free",
-    "image_size": "3300-3400",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/23.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, armhf, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2275"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "23.04-lunar",
-    "release_date": "2023-04-20",
-    "end_of_life": "2024-01",
-    "price": "Free",
-    "image_size": "3300-3400",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/23.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, armhf, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2279"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "22.10-kinetic",
-    "release_date": "2022-10-20",
-    "end_of_life": "2023-07",
-    "price": "Free",
-    "image_size": "3000-3100",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/22.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, armhf, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2230"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "22.04-jammy",
-    "release_date": "2022-04-21",
-    "end_of_life": "2025-04",
-    "price": "Free",
-    "image_size": "2800-2900",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, armhf, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2175"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "21.10-impish",
-    "release_date": "2021-10-14",
-    "end_of_life": "2022-07",
-    "price": "Free",
-    "image_size": "3200-3300",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/21.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "aarch64, armhf, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2122"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "21.04-hirsute",
-    "release_date": "2021-04-22",
-    "end_of_life": "2022-01",
-    "price": "Free",
-    "image_size": "2800-2900",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/21.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2097"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "20.10-groovy",
-    "release_date": "2020-10-22",
-    "end_of_life": "2021-07",
-    "price": "Free",
-    "image_size": "2500-2600",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/20.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2078"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "20.04-focal",
-    "release_date": "2020-04-23",
-    "end_of_life": "2023-04",
-    "price": "Free",
-    "image_size": "2200-2300",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/20.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1989"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "19.10-eoan",
-    "release_date": "2019-10-17",
-    "end_of_life": "2020-07",
-    "price": "Free",
-    "image_size": "2100-2200",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/19.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1969"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "19.04-disco",
-    "release_date": "2019-04-18",
-    "end_of_life": "2020-01",
-    "price": "Free",
-    "image_size": "2000-2100",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/19.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2041"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "18.10-cosmic",
-    "release_date": "2018-10-18",
-    "end_of_life": "2019-07",
-    "price": "Free",
-    "image_size": "2000-2100",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/18.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "2008"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "18.04-bionic",
-    "release_date": "2018-04-26",
-    "end_of_life": "2021-04",
-    "price": "Free",
-    "image_size": "1900-2000",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1984"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "17.10-artful",
-    "release_date": "2017-10-19",
-    "end_of_life": "2018-07",
-    "price": "Free",
-    "image_size": "1707-1716",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/17.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i686, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1947"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "17.04-zesty",
-    "release_date": "2017-04-13",
-    "end_of_life": "2018-01",
-    "price": "Free",
-    "image_size": "1614-1630",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/17.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1912"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "16.10-yakkety",
-    "release_date": "2016-10-13",
-    "end_of_life": "2017-07",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/16.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1954"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "16.04-xenial",
-    "release_date": "2016-04-21",
-    "end_of_life": "2019-04",
-    "price": "Free",
-    "image_size": "1560-1647",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/16.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB (apt), snap",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "armhf, i386, powerpc, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1860"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "15.10-wily",
-    "release_date": "2015-10-22",
-    "end_of_life": "2016-07",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/15.10/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "armhf, i386, powerpc, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1699"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "15.04-vivid",
-    "release_date": "2015-04-23",
-    "end_of_life": "2016-01",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/15.04/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "armhf, i386, powerpc, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1651"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "14.10",
-    "release_date": "2014-10-23",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://ubuntu-mate.org/utopic/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1433"
-  },
-  {
-    "distribution_name": "ubuntumate",
-    "version": "14.04.2",
-    "release_date": "2015-03-23",
-    "end_of_life": "NA",
-    "price": "Free",
-    "image_size": "NA",
-    "download_link": "https://ubuntu-mate.org/trusty/",
-    "installation_method": "Graphical",
-    "default_desktop": "MATE",
-    "package_management": "DEB",
-    "release_model": "Fixed",
-    "office_suite": "LibreOffice",
-    "processor_architecture": "i386, x86_64",
-    "init_system": "systemd",
-    "file_system": "Btrfs, ext3, ext4, JFS, ReiserFS, XFS",
-    "multilingual": "Yes",
-    "asian_language_support": "NA",
-    "number_of_packages": "1547"
-  }
+    {
+        "distribution_name": "ubuntumate",
+        "version": "23.10-mantic",
+        "release_date": "2023-10-12",
+        "end_of_life": "2024-07",
+        "price": "Free",
+        "image_size": "3300-3400",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/23.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhf",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2275"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "23.04-lunar",
+        "release_date": "2023-04-20",
+        "end_of_life": "2024-01",
+        "price": "Free",
+        "image_size": "3300-3400",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/23.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhf",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2279"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "22.10-kinetic",
+        "release_date": "2022-10-20",
+        "end_of_life": "2023-07",
+        "price": "Free",
+        "image_size": "3000-3100",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/22.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhf",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2230"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "22.04-jammy",
+        "release_date": "2022-04-21",
+        "end_of_life": "2025-04",
+        "price": "Free",
+        "image_size": "2800-2900",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhf",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2175"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "21.10-impish",
+        "release_date": "2021-10-14",
+        "end_of_life": "2022-07",
+        "price": "Free",
+        "image_size": "3200-3300",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/21.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "armhf",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2122"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "21.04-hirsute",
+        "release_date": "2021-04-22",
+        "end_of_life": "2022-01",
+        "price": "Free",
+        "image_size": "2800-2900",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/21.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2097"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "20.10-groovy",
+        "release_date": "2020-10-22",
+        "end_of_life": "2021-07",
+        "price": "Free",
+        "image_size": "2500-2600",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/20.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2078"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "20.04-focal",
+        "release_date": "2020-04-23",
+        "end_of_life": "2023-04",
+        "price": "Free",
+        "image_size": "2200-2300",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/20.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1989"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "19.10-eoan",
+        "release_date": "2019-10-17",
+        "end_of_life": "2020-07",
+        "price": "Free",
+        "image_size": "2100-2200",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/19.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1969"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "19.04-disco",
+        "release_date": "2019-04-18",
+        "end_of_life": "2020-01",
+        "price": "Free",
+        "image_size": "2000-2100",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/19.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2041"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "18.10-cosmic",
+        "release_date": "2018-10-18",
+        "end_of_life": "2019-07",
+        "price": "Free",
+        "image_size": "2000-2100",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/18.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2008"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "18.04-bionic",
+        "release_date": "2018-04-26",
+        "end_of_life": "2021-04",
+        "price": "Free",
+        "image_size": "1900-2000",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1984"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "17.10-artful",
+        "release_date": "2017-10-19",
+        "end_of_life": "2018-07",
+        "price": "Free",
+        "image_size": "1707-1716",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/17.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1947"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "17.04-zesty",
+        "release_date": "2017-04-13",
+        "end_of_life": "2018-01",
+        "price": "Free",
+        "image_size": "1614-1630",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/17.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1912"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "16.10-yakkety",
+        "release_date": "2016-10-13",
+        "end_of_life": "2017-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/16.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1954"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "16.04-xenial",
+        "release_date": "2016-04-21",
+        "end_of_life": "2019-04",
+        "price": "Free",
+        "image_size": "1560-1647",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/16.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB (apt), snap",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhf",
+            "i386",
+            "powerpc",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1860"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "15.10-wily",
+        "release_date": "2015-10-22",
+        "end_of_life": "2016-07",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/15.10/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhf",
+            "i386",
+            "powerpc",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1699"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "15.04-vivid",
+        "release_date": "2015-04-23",
+        "end_of_life": "2016-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://cdimage.ubuntu.com/ubuntu-mate/releases/15.04/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "armhf",
+            "i386",
+            "powerpc",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1651"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "14.10",
+        "release_date": "2014-10-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://ubuntu-mate.org/utopic/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1433"
+    },
+    {
+        "distribution_name": "ubuntumate",
+        "version": "14.04.2",
+        "release_date": "2015-03-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://ubuntu-mate.org/trusty/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "MATE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1547"
+    }
 ]

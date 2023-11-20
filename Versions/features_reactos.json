@@ -1,1 +1,68 @@
-[{"distribution_name":"reactos","version":"0.4.14","release_date":"2021-12-18","end_of_life":"NA","price":"Free","image_size":"78-110","download_link":"https:\/\/sourceforge.net\/projects\/reactos\/files\/ReactOS\/0.4.14\/","installation_method":"NA","default_desktop":"ReactOS Explorer","package_management":"NA","release_model":"Fixed","office_suite":"--","processor_architecture":"i386, x86_64","init_system":"other","file_system":"--","multilingual":"en","asian_language_support":"--","number_of_packages":"NA"},{"distribution_name":"reactos","version":"0.3.17","release_date":"2014-11-05","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/sourceforge.net\/projects\/reactos\/files\/ReactOS\/0.3.17\/","installation_method":"NA","default_desktop":"ReactOS Explorer","package_management":"NA","release_model":"Fixed","office_suite":"--","processor_architecture":"i386, x86_64","init_system":"other","file_system":"--","multilingual":"en","asian_language_support":"--","number_of_packages":"NA"}]
+[
+    {
+        "distribution_name": "reactos",
+        "version": "0.4.14",
+        "release_date": "2021-12-18",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "78-110",
+        "download_link": "https://sourceforge.net/projects/reactos/files/ReactOS/0.4.14/",
+        "installation_method": "NA",
+        "default_desktop": [
+            "ReactOS Explorer"
+        ],
+        "package_management": "NA",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "other",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "reactos",
+        "version": "0.3.17",
+        "release_date": "2014-11-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://sourceforge.net/projects/reactos/files/ReactOS/0.3.17/",
+        "installation_method": "NA",
+        "default_desktop": [
+            "ReactOS Explorer"
+        ],
+        "package_management": "NA",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "other",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    }
+]

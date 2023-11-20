@@ -1,1 +1,283 @@
-[{"distribution_name":"centos","version":"9","release_date":"2021-12-03","end_of_life":"2021-12","price":"Free","image_size":"7800-8000","download_link":"https:\/\/www.centos.org\/centos-stream\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"Flatpak, RPM (dnf)","release_model":"Semi-Rolling","office_suite":"LibreOffice","processor_architecture":"aarch64, ppc64le, x86_64","init_system":"systemd","file_system":"xfs","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"8107"},{"distribution_name":"centos","version":"8.5.2111","release_date":"2021-11-16","end_of_life":"2021-12","price":"Free","image_size":"700-10300","download_link":"http:\/\/isoredirect.centos.org\/centos\/8\/isos\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"Flatpak, RPM (dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"aarch64, ppc64le, x86_64","init_system":"systemd","file_system":"xfs","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"7874"},{"distribution_name":"centos","version":"7.8.2003","release_date":"2020-04-27","end_of_life":"2024-06","price":"Free","image_size":"500-10000","download_link":"http:\/\/isoredirect.centos.org\/centos\/7\/isos\/x86_64\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM (yum)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"xfs","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4071"},{"distribution_name":"centos","version":"6.10","release_date":"2018-07-03","end_of_life":"2020-11","price":"Free","image_size":"NA","download_link":"http:\/\/isoredirect.centos.org\/centos\/6\/isos\/x86_64\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"ext3, ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3243"},{"distribution_name":"centos","version":"5.11","release_date":"2014-09-30","end_of_life":"2017-03","price":"Free","image_size":"NA","download_link":"http:\/\/isoredirect.centos.org\/centos\/5\/isos\/x86_64\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"OO.o*","processor_architecture":"i386, x86_64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3667"},{"distribution_name":"centos","version":"4.8","release_date":"2009-08-22","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.centos.org\/download\/mirrors\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"OO.o*","processor_architecture":"i386, ia64, ppc, s390, s390x, x86_64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1598"},{"distribution_name":"centos","version":"3.9","release_date":"2007-07-27","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.centos.org\/download\/mirrors\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"OO.o*","processor_architecture":"i386, ia64, s390, s390x, x86_64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1170"},{"distribution_name":"centos","version":"2.0","release_date":"2004-05-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/www.centos.org\/download\/mirrors\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1231"}]
+[
+    {
+        "distribution_name": "centos",
+        "version": "9",
+        "release_date": "2021-12-03",
+        "end_of_life": "2021-12",
+        "price": "Free",
+        "image_size": "7800-8000",
+        "download_link": "https://www.centos.org/centos-stream/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "Flatpak, RPM (dnf)",
+        "release_model": "Semi-Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "ppc64le",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "xfs"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "8107"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "8.5.2111",
+        "release_date": "2021-11-16",
+        "end_of_life": "2021-12",
+        "price": "Free",
+        "image_size": "700-10300",
+        "download_link": "http://isoredirect.centos.org/centos/8/isos/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "Flatpak, RPM (dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "ppc64le",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "xfs"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "7874"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "7.8.2003",
+        "release_date": "2020-04-27",
+        "end_of_life": "2024-06",
+        "price": "Free",
+        "image_size": "500-10000",
+        "download_link": "http://isoredirect.centos.org/centos/7/isos/x86_64/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM (yum)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "xfs"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4071"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "6.10",
+        "release_date": "2018-07-03",
+        "end_of_life": "2020-11",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://isoredirect.centos.org/centos/6/isos/x86_64/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3243"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "5.11",
+        "release_date": "2014-09-30",
+        "end_of_life": "2017-03",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://isoredirect.centos.org/centos/5/isos/x86_64/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o*"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3667"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "4.8",
+        "release_date": "2009-08-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.centos.org/download/mirrors/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o*"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ia64",
+            "ppc",
+            "s390",
+            "s390x",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1598"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "3.9",
+        "release_date": "2007-07-27",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.centos.org/download/mirrors/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o*"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ia64",
+            "s390",
+            "s390x",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1170"
+    },
+    {
+        "distribution_name": "centos",
+        "version": "2.0",
+        "release_date": "2004-05-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://www.centos.org/download/mirrors/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1231"
+    }
+]

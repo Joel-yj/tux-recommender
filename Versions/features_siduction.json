@@ -1,1 +1,529 @@
-[{"distribution_name":"siduction","version":"2023.1.0-standing","release_date":"2023-08-16","end_of_life":"NA","price":"Free","image_size":"1100-3200","download_link":"https:\/\/mirrors.dotsrc.org\/siduction\/iso\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXQt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"3135"},{"distribution_name":"siduction","version":"22.1.2-mastersofwar","release_date":"2023-03-15","end_of_life":"NA","price":"Free","image_size":"1200-3200","download_link":"https:\/\/mirrors.dotsrc.org\/siduction\/iso\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXQt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2981"},{"distribution_name":"siduction","version":"21.3.0-wintersky","release_date":"2021-12-23","end_of_life":"NA","price":"Free","image_size":"800-3000","download_link":"http:\/\/ftp.spline.de\/mirrors\/siduction\/iso\/","installation_method":"Graphical","default_desktop":"KDE Plasma, LXQt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2897"},{"distribution_name":"siduction","version":"18.3.0-patience","release_date":"2018-05-14","end_of_life":"NA","price":"Free","image_size":"600-2300","download_link":"http:\/\/ftp.spline.de\/mirrors\/siduction\/iso\/","installation_method":"Graphical","default_desktop":"Cinnamon, Fluxbox, GNOME, KDE Plasma, LXDE, LXQt, MATE, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"3687"},{"distribution_name":"siduction","version":"17.1.0-patience","release_date":"2017-03-06","end_of_life":"NA","price":"Free","image_size":"1100-1600","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Cinnamon, Fluxbox, GNOME, KDE Plasma, LXDE, LXQt, MATE, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"3062"},{"distribution_name":"siduction","version":"16.1.0-patience","release_date":"2016-12-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"KDE Plasma, LXDE, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2381"},{"distribution_name":"siduction","version":"15.1.0-dev-paintitblack","release_date":"2015-12-31","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Cinnamon, Fluxbox, LXDE, MATE, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1961"},{"distribution_name":"siduction","version":"14.1.0-indiansummer","release_date":"2014-11-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Cinnamon, Fluxbox, GNOME, KDE, LXDE, LXQt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice, LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2539"},{"distribution_name":"siduction","version":"13.2.0-december","release_date":"2013-12-31","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Fluxbox, GNOME, KDE, LXDE, Razor-qt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice, LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2166"},{"distribution_name":"siduction","version":"13.1.0-firestarter","release_date":"2013-05-22","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"GNOME, KDE, LXDE, Razor-qt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice, LibreOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"2194"},{"distribution_name":"siduction","version":"12.2.0-riders","release_date":"2012-12-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Fluxbox, KDE, LXDE, Razor-qt, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1674"},{"distribution_name":"siduction","version":"12.1.1-desperado","release_date":"2012-06-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Fluxbox, KDE, LXDE, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1550"},{"distribution_name":"siduction","version":"11.1-onestep","release_date":"2011-12-30","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/forum.siduction.org\/index.php?page=8","installation_method":"Graphical","default_desktop":"Fluxbox, KDE, LXDE, Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"GOffice","processor_architecture":"i686, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"--","number_of_packages":"1549"}]
+[
+    {
+        "distribution_name": "siduction",
+        "version": "2023.1.0-standing",
+        "release_date": "2023-08-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1100-3200",
+        "download_link": "https://mirrors.dotsrc.org/siduction/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3135"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "22.1.2-mastersofwar",
+        "release_date": "2023-03-15",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1200-3200",
+        "download_link": "https://mirrors.dotsrc.org/siduction/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2981"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "21.3.0-wintersky",
+        "release_date": "2021-12-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "800-3000",
+        "download_link": "http://ftp.spline.de/mirrors/siduction/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2897"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "18.3.0-patience",
+        "release_date": "2018-05-14",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "600-2300",
+        "download_link": "http://ftp.spline.de/mirrors/siduction/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "Fluxbox",
+            "GNOME",
+            "KDE Plasma",
+            "LXDE",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3687"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "17.1.0-patience",
+        "release_date": "2017-03-06",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1100-1600",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "Fluxbox",
+            "GNOME",
+            "KDE Plasma",
+            "LXDE",
+            "LXQt",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "3062"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "16.1.0-patience",
+        "release_date": "2016-12-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma",
+            "LXDE",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2381"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "15.1.0-dev-paintitblack",
+        "release_date": "2015-12-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "Fluxbox",
+            "LXDE",
+            "MATE",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1961"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "14.1.0-indiansummer",
+        "release_date": "2014-11-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Cinnamon",
+            "Fluxbox",
+            "GNOME",
+            "KDE",
+            "LXDE",
+            "LXQt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2539"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "13.2.0-december",
+        "release_date": "2013-12-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Fluxbox",
+            "GNOME",
+            "KDE",
+            "LXDE",
+            "Razor-qt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2166"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "13.1.0-firestarter",
+        "release_date": "2013-05-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE",
+            "LXDE",
+            "Razor-qt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "2194"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "12.2.0-riders",
+        "release_date": "2012-12-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Fluxbox",
+            "KDE",
+            "LXDE",
+            "Razor-qt",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1674"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "12.1.1-desperado",
+        "release_date": "2012-06-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Fluxbox",
+            "KDE",
+            "LXDE",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1550"
+    },
+    {
+        "distribution_name": "siduction",
+        "version": "11.1-onestep",
+        "release_date": "2011-12-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://forum.siduction.org/index.php?page=8",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Fluxbox",
+            "KDE",
+            "LXDE",
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "GOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1549"
+    }
+]

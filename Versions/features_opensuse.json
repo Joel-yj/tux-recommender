@@ -1,1 +1,1412 @@
-[{"distribution_name":"opensuse","version":"tumbleweed","release_date":"2023-11-09","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical, Text","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"RPM (zypper)","release_model":"Rolling","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"i686, ppc64, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"15404"},{"distribution_name":"opensuse","version":"15.5","release_date":"2023-06-07","end_of_life":"2024-12","price":"Free","image_size":"140-4300","download_link":"http:\/\/download.opensuse.org\/distribution\/leap\/","installation_method":"Graphical, Text","default_desktop":"GNOME, KDE Plasma","package_management":"RPM (zypper)","release_model":"Fixed, Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4058"},{"distribution_name":"opensuse","version":"15.0","release_date":"2018-05-25","end_of_life":"2019-11","price":"Free","image_size":"100-3800","download_link":"http:\/\/download.opensuse.org\/distribution\/leap\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma","package_management":"RPM (zypper)","release_model":"Fixed, Rolling","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3906"},{"distribution_name":"opensuse","version":"42.3","release_date":"2017-07-26","end_of_life":"2019-06","price":"Free","image_size":"100-4500","download_link":"http:\/\/download.opensuse.org\/distribution\/leap\/42.3\/iso\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM (zypper)","release_model":"Fixed, Rolling","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"6198"},{"distribution_name":"opensuse","version":"42.2","release_date":"2016-11-16","end_of_life":"2018-01","price":"Free","image_size":"NA","download_link":"http:\/\/download.opensuse.org\/distribution\/leap\/42.2\/iso\/","installation_method":"Graphical","default_desktop":"KDE Plasma","package_management":"RPM (zypper)","release_model":"Fixed, Rolling","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"5959"},{"distribution_name":"opensuse","version":"42.1","release_date":"2015-11-04","end_of_life":"2017-05","price":"Free","image_size":"NA","download_link":"http:\/\/download.opensuse.org\/distribution\/leap\/42.1\/iso\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM (zypper)","release_model":"Fixed, Rolling","office_suite":"Calligra, GOffice, LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"5748"},{"distribution_name":"opensuse","version":"13.2","release_date":"2014-11-04","end_of_life":"2017-01","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"Calligra, LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"5395"},{"distribution_name":"opensuse","version":"13.1","release_date":"2013-11-19","end_of_life":"2016-01","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"5001"},{"distribution_name":"opensuse","version":"12.3","release_date":"2013-03-13","end_of_life":"2015-01","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4946"},{"distribution_name":"opensuse","version":"12.2","release_date":"2012-09-05","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4845"},{"distribution_name":"opensuse","version":"12.1","release_date":"2011-11-16","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4289"},{"distribution_name":"opensuse","version":"11.4","release_date":"2011-03-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3894"},{"distribution_name":"opensuse","version":"11.3","release_date":"2010-07-15","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3679"},{"distribution_name":"opensuse","version":"11.2","release_date":"2009-11-12","end_of_life":"NA","price":"60","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, ext4, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3477"},{"distribution_name":"opensuse","version":"11.1","release_date":"2008-12-18","end_of_life":"NA","price":"60","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"GNOME, KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, ppc, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3353"},{"distribution_name":"opensuse","version":"11.0","release_date":"2008-06-19","end_of_life":"NA","price":"60","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"GNOME, KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, ppc, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3309"},{"distribution_name":"opensuse","version":"10.3","release_date":"2007-10-04","end_of_life":"NA","price":"60","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"GNOME, KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, ppc, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"3505"},{"distribution_name":"opensuse","version":"10.2","release_date":"2006-12-07","end_of_life":"NA","price":"60","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"GNOME, KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, ppc, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"2844"},{"distribution_name":"opensuse","version":"10.1","release_date":"2006-05-11","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"GNOME, KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, ppc, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"6724"},{"distribution_name":"opensuse","version":"10.0","release_date":"2005-10-06","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/software.opensuse.org\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, ppc, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"5959"},{"distribution_name":"opensuse","version":"9.3","release_date":"2005-04-15","end_of_life":"NA","price":"100","image_size":"NA","download_link":"http:\/\/www.novell.com\/products\/linuxprofessional\/downloads\/ftp\/int_mirrors.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, tw","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"9.2","release_date":"2004-10-25","end_of_life":"NA","price":"90","image_size":"NA","download_link":"http:\/\/www.novell.com\/products\/linuxprofessional\/downloads\/ftp\/int_mirrors.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, tw","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"9.1","release_date":"2004-04-23","end_of_life":"NA","price":"30 - 90","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"GOffice, KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"cn, jp, tw","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"9.0","release_date":"2003-10-15","end_of_life":"NA","price":"40 - 80","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"8.2","release_date":"2003-04-07","end_of_life":"NA","price":"40 - 80","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, OO.o","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"8.1","release_date":"2002-09-30","end_of_life":"NA","price":"40 - 80","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, OO.o","processor_architecture":"i586","init_system":"SysV","file_system":"ext3, JFS, ReiserFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"8.0","release_date":"2002-04-22","end_of_life":"NA","price":"40 - 80","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, OO.o, StarOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"7.3","release_date":"2001-10-13","end_of_life":"NA","price":"40 - 80","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, StarOffice","processor_architecture":"i386, ppc","init_system":"SysV","file_system":"ext3, JFS, ReiserFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"7.2","release_date":"2001-06-15","end_of_life":"NA","price":"30 - 70","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, StarOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"7.1","release_date":"2001-01-24","end_of_life":"NA","price":"30 - 70","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"KOffice, StarOffice","processor_architecture":"i386, ppc","init_system":"SysV","file_system":"ReiserFS","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"7.0","release_date":"2000-09-27","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.suse.com\/us\/private\/download\/index.html","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"StarOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ReiserFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"6.4","release_date":"2000-03-09","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"StarOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ReiserFS","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"6.3","release_date":"1999-11-05","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"StarOffice","processor_architecture":"i386","init_system":"SysV","file_system":"NA","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"6.2","release_date":"1999-08-12","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"NA","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"NA","processor_architecture":"i386","init_system":"SysV","file_system":"NA","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"6.1","release_date":"1999-04-07","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"NA","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"NA","processor_architecture":"i386","init_system":"SysV","file_system":"NA","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"6.0","release_date":"1998-12-21","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"NA","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"NA","processor_architecture":"i386","init_system":"SysV","file_system":"NA","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"5.3","release_date":"1998-09-10","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"NA","default_desktop":"KDE","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"NA","processor_architecture":"i386","init_system":"SysV","file_system":"NA","multilingual":"NA","asian_language_support":"NA","number_of_packages":"NA"},{"distribution_name":"opensuse","version":"5.2","release_date":"1998-03-23","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"NA","installation_method":"NA","default_desktop":"NA","package_management":"RPM","release_model":"Fixed, Rolling","office_suite":"NA","processor_architecture":"i386","init_system":"SysV","file_system":"NA","multilingual":"NA","asian_language_support":"NA","number_of_packages":"NA"}]
+[
+    {
+        "distribution_name": "opensuse",
+        "version": "tumbleweed",
+        "release_date": "2023-11-09",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical, Text",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Rolling",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "ppc64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "15404"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "15.5",
+        "release_date": "2023-06-07",
+        "end_of_life": "2024-12",
+        "price": "Free",
+        "image_size": "140-4300",
+        "download_link": "http://download.opensuse.org/distribution/leap/",
+        "installation_method": "Graphical, Text",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4058"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "15.0",
+        "release_date": "2018-05-25",
+        "end_of_life": "2019-11",
+        "price": "Free",
+        "image_size": "100-3800",
+        "download_link": "http://download.opensuse.org/distribution/leap/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3906"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "42.3",
+        "release_date": "2017-07-26",
+        "end_of_life": "2019-06",
+        "price": "Free",
+        "image_size": "100-4500",
+        "download_link": "http://download.opensuse.org/distribution/leap/42.3/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "6198"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "42.2",
+        "release_date": "2016-11-16",
+        "end_of_life": "2018-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://download.opensuse.org/distribution/leap/42.2/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE Plasma"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "5959"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "42.1",
+        "release_date": "2015-11-04",
+        "end_of_life": "2017-05",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://download.opensuse.org/distribution/leap/42.1/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (zypper)",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "Calligra",
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "5748"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "13.2",
+        "release_date": "2014-11-04",
+        "end_of_life": "2017-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "Calligra",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "5395"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "13.1",
+        "release_date": "2013-11-19",
+        "end_of_life": "2016-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "5001"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "12.3",
+        "release_date": "2013-03-13",
+        "end_of_life": "2015-01",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4946"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "12.2",
+        "release_date": "2012-09-05",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4845"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "12.1",
+        "release_date": "2011-11-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4289"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "11.4",
+        "release_date": "2011-03-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3894"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "11.3",
+        "release_date": "2010-07-15",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3679"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "11.2",
+        "release_date": "2009-11-12",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3477"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "11.1",
+        "release_date": "2008-12-18",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3353"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "11.0",
+        "release_date": "2008-06-19",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3309"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "10.3",
+        "release_date": "2007-10-04",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "3505"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "10.2",
+        "release_date": "2006-12-07",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "2844"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "10.1",
+        "release_date": "2006-05-11",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "6724"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "10.0",
+        "release_date": "2005-10-06",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://software.opensuse.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "5959"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "9.3",
+        "release_date": "2005-04-15",
+        "end_of_life": "NA",
+        "price": "100",
+        "image_size": "NA",
+        "download_link": "http://www.novell.com/products/linuxprofessional/downloads/ftp/int_mirrors.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "tw"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "9.2",
+        "release_date": "2004-10-25",
+        "end_of_life": "NA",
+        "price": "90",
+        "image_size": "NA",
+        "download_link": "http://www.novell.com/products/linuxprofessional/downloads/ftp/int_mirrors.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "tw"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "9.1",
+        "release_date": "2004-04-23",
+        "end_of_life": "NA",
+        "price": "30 - 90",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "GOffice",
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "tw"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "9.0",
+        "release_date": "2003-10-15",
+        "end_of_life": "NA",
+        "price": "40 - 80",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "8.2",
+        "release_date": "2003-04-07",
+        "end_of_life": "NA",
+        "price": "40 - 80",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "8.1",
+        "release_date": "2002-09-30",
+        "end_of_life": "NA",
+        "price": "40 - 80",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i586"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "8.0",
+        "release_date": "2002-04-22",
+        "end_of_life": "NA",
+        "price": "40 - 80",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "OO.o",
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "7.3",
+        "release_date": "2001-10-13",
+        "end_of_life": "NA",
+        "price": "40 - 80",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "7.2",
+        "release_date": "2001-06-15",
+        "end_of_life": "NA",
+        "price": "30 - 70",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "7.1",
+        "release_date": "2001-01-24",
+        "end_of_life": "NA",
+        "price": "30 - 70",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "KOffice",
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ppc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "7.0",
+        "release_date": "2000-09-27",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.suse.com/us/private/download/index.html",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "6.4",
+        "release_date": "2000-03-09",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "6.3",
+        "release_date": "1999-11-05",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "StarOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "6.2",
+        "release_date": "1999-08-12",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "NA",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "NA"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "6.1",
+        "release_date": "1999-04-07",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "NA",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "NA"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "6.0",
+        "release_date": "1998-12-21",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "NA",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "NA"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "5.3",
+        "release_date": "1998-09-10",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "NA",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "NA"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "opensuse",
+        "version": "5.2",
+        "release_date": "1998-03-23",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "NA",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed, Rolling",
+        "office_suite": [
+            "NA"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "NA"
+    }
+]

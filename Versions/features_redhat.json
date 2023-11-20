@@ -1,1 +1,713 @@
-[{"distribution_name":"redhat","version":"RHEL-9.2","release_date":"2023-05-10","end_of_life":"NA","price":"Pricing","image_size":"800-9200","download_link":"https:\/\/www.redhat.com\/en\/technologies\/linux-platforms\/enterprise-linux\/try-it","installation_method":"Graphical","default_desktop":"GNOME","package_management":"Flatpak, RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"arm64, IBM Z, ppc64, x86_64","init_system":"systemd","file_system":"xfs","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"6729"},{"distribution_name":"redhat","version":"RHEL-8.7","release_date":"2022-11-09","end_of_life":"NA","price":"Pricing","image_size":"800-11000","download_link":"https:\/\/www.redhat.com\/en\/technologies\/linux-platforms\/enterprise-linux\/try-it","installation_method":"Graphical","default_desktop":"GNOME","package_management":"Flatpak, RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"arm64, IBM Z, ppc64, x86_64","init_system":"systemd","file_system":"xfs","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"8506"},{"distribution_name":"redhat","version":"RHEL-7.9","release_date":"2020-09-18","end_of_life":"2028-06","price":"Pricing","image_size":"600-4300","download_link":"https:\/\/access.redhat.com\/site\/downloads\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"s390x, ppc64, x86_64","init_system":"systemd","file_system":"xfs","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3961"},{"distribution_name":"redhat","version":"RHEL-6.9","release_date":"2017-03-21","end_of_life":"2020-11","price":"Pricing","image_size":"NA","download_link":"http:\/\/www.redhat.com\/wapps\/eval\/index.html?evaluation_id=1008","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, s390x, ppc64, x86_64","init_system":"Upstart","file_system":"ext4","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"3994"},{"distribution_name":"redhat","version":"RHEL-5.11","release_date":"2014-09-16","end_of_life":"2017-03","price":"80 - 2,500","image_size":"NA","download_link":"http:\/\/www.redhat.com\/rhel\/details\/eval\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ia64, ppc, x86_64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"NA"},{"distribution_name":"redhat","version":"RHEL-4.8","release_date":"2009-05-19","end_of_life":"NA","price":"180 - 2,500","image_size":"NA","download_link":"http:\/\/ftp.redhat.com\/pub\/redhat\/linux\/enterprise\/4\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ia64, ppc, s390, s390x, x86_64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"1584"},{"distribution_name":"redhat","version":"RHEL-3.9","release_date":"2007-05-30","end_of_life":"NA","price":"180 - 2,500","image_size":"NA","download_link":"ftp:\/\/ftp.redhat.com\/pub\/redhat\/linux\/enterprise\/3\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"OO.o","processor_architecture":"i386, ia64, ppc, s390, s390x, x86-64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1136"},{"distribution_name":"redhat","version":"RHEL-2.1","release_date":"2002-03-26","end_of_life":"NA","price":"1500","image_size":"NA","download_link":"ftp:\/\/ftp.redhat.com\/pub\/redhat\/linux\/enterprise\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"NA","number_of_packages":"951"},{"distribution_name":"redhat","version":"9-shrike","release_date":"2003-03-31","end_of_life":"NA","price":"40","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/9\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"KOffice, OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1402"},{"distribution_name":"redhat","version":"8.0-psyche","release_date":"2002-09-30","end_of_life":"NA","price":"40","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/8.0\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"KOffice, OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1472"},{"distribution_name":"redhat","version":"7.3-valhalla","release_date":"2002-05-06","end_of_life":"NA","price":"60","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/7.3\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"cn, jp, kr, tw","number_of_packages":"1438"},{"distribution_name":"redhat","version":"7.2-enigma","release_date":"2001-10-22","end_of_life":"NA","price":"60","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/7.2\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i386, IA64","init_system":"SysV","file_system":"ext3","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"1231"},{"distribution_name":"redhat","version":"7.1-seawolf","release_date":"2001-04-16","end_of_life":"NA","price":"40","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/7.1\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"1017"},{"distribution_name":"redhat","version":"7.0-guiness","release_date":"2000-08-30","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/7.0\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"866"},{"distribution_name":"redhat","version":"6.2-zoot","release_date":"2000-03-08","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/6.2\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"744"},{"distribution_name":"redhat","version":"6.1-cartman","release_date":"1999-09-27","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/6.1\/en\/iso\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"719"},{"distribution_name":"redhat","version":"6.0-hedwig","release_date":"1999-04-19","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/6.0\/en\/iso\/","installation_method":"Text Mode","default_desktop":"GNOME","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"Yes","asian_language_support":"jp","number_of_packages":"645"},{"distribution_name":"redhat","version":"5.2-apollo","release_date":"1998-10-14","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/5.2\/en\/iso\/","installation_method":"Text Mode","default_desktop":"NA","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"NA","asian_language_support":"NA","number_of_packages":"573"},{"distribution_name":"redhat","version":"5.1-manhattan","release_date":"1998-05-11","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/5.1\/en\/iso\/","installation_method":"Text Mode","default_desktop":"NA","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"NA","asian_language_support":"NA","number_of_packages":"523"},{"distribution_name":"redhat","version":"5.0-hurricane","release_date":"1997-11-10","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/5.0\/en\/iso\/","installation_method":"Text Mode","default_desktop":"NA","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"NA","asian_language_support":"NA","number_of_packages":"482"},{"distribution_name":"redhat","version":"4.2-biltmore","release_date":"1997-04-23","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"ftp:\/\/archive.download.redhat.com\/pub\/redhat\/linux\/4.2\/en\/iso\/","installation_method":"Text Mode","default_desktop":"NA","package_management":"RPM","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"--","multilingual":"NA","asian_language_support":"NA","number_of_packages":"458"}]
+[
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-9.2",
+        "release_date": "2023-05-10",
+        "end_of_life": "NA",
+        "price": "Pricing",
+        "image_size": "800-9200",
+        "download_link": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/try-it",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "Flatpak, RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "arm64",
+            "IBM Z",
+            "ppc64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "xfs"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "6729"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-8.7",
+        "release_date": "2022-11-09",
+        "end_of_life": "NA",
+        "price": "Pricing",
+        "image_size": "800-11000",
+        "download_link": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/try-it",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "Flatpak, RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "arm64",
+            "IBM Z",
+            "ppc64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "xfs"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "8506"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-7.9",
+        "release_date": "2020-09-18",
+        "end_of_life": "2028-06",
+        "price": "Pricing",
+        "image_size": "600-4300",
+        "download_link": "https://access.redhat.com/site/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "s390x",
+            "ppc64",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "xfs"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3961"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-6.9",
+        "release_date": "2017-03-21",
+        "end_of_life": "2020-11",
+        "price": "Pricing",
+        "image_size": "NA",
+        "download_link": "http://www.redhat.com/wapps/eval/index.html?evaluation_id=1008",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "s390x",
+            "ppc64",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext4"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "3994"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-5.11",
+        "release_date": "2014-09-16",
+        "end_of_life": "2017-03",
+        "price": "80 - 2,500",
+        "image_size": "NA",
+        "download_link": "http://www.redhat.com/rhel/details/eval/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ia64",
+            "ppc",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-4.8",
+        "release_date": "2009-05-19",
+        "end_of_life": "NA",
+        "price": "180 - 2,500",
+        "image_size": "NA",
+        "download_link": "http://ftp.redhat.com/pub/redhat/linux/enterprise/4/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ia64",
+            "ppc",
+            "s390",
+            "s390x",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "1584"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-3.9",
+        "release_date": "2007-05-30",
+        "end_of_life": "NA",
+        "price": "180 - 2,500",
+        "image_size": "NA",
+        "download_link": "ftp://ftp.redhat.com/pub/redhat/linux/enterprise/3/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386",
+            "ia64",
+            "ppc",
+            "s390",
+            "s390x",
+            "x86-64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1136"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "RHEL-2.1",
+        "release_date": "2002-03-26",
+        "end_of_life": "NA",
+        "price": "1500",
+        "image_size": "NA",
+        "download_link": "ftp://ftp.redhat.com/pub/redhat/linux/enterprise/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "951"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "9-shrike",
+        "release_date": "2003-03-31",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/9/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1402"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "8.0-psyche",
+        "release_date": "2002-09-30",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/8.0/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice",
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1472"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "7.3-valhalla",
+        "release_date": "2002-05-06",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/7.3/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "cn",
+            "jp",
+            "kr",
+            "tw"
+        ],
+        "number_of_packages": "1438"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "7.2-enigma",
+        "release_date": "2001-10-22",
+        "end_of_life": "NA",
+        "price": "60",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/7.2/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "IA64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "1231"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "7.1-seawolf",
+        "release_date": "2001-04-16",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/7.1/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "1017"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "7.0-guiness",
+        "release_date": "2000-08-30",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/7.0/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "866"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "6.2-zoot",
+        "release_date": "2000-03-08",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/6.2/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "744"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "6.1-cartman",
+        "release_date": "1999-09-27",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/6.1/en/iso/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "719"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "6.0-hedwig",
+        "release_date": "1999-04-19",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/6.0/en/iso/",
+        "installation_method": "Text Mode",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "jp"
+        ],
+        "number_of_packages": "645"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "5.2-apollo",
+        "release_date": "1998-10-14",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/5.2/en/iso/",
+        "installation_method": "Text Mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "573"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "5.1-manhattan",
+        "release_date": "1998-05-11",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/5.1/en/iso/",
+        "installation_method": "Text Mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "523"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "5.0-hurricane",
+        "release_date": "1997-11-10",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/5.0/en/iso/",
+        "installation_method": "Text Mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "482"
+    },
+    {
+        "distribution_name": "redhat",
+        "version": "4.2-biltmore",
+        "release_date": "1997-04-23",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "ftp://archive.download.redhat.com/pub/redhat/linux/4.2/en/iso/",
+        "installation_method": "Text Mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "RPM",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "--"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "458"
+    }
+]

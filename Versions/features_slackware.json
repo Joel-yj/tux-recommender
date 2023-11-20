@@ -1,1 +1,1144 @@
-[{"distribution_name":"slackware","version":"current","release_date":"2023-11-09","end_of_life":"NA","price":"--","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Rolling","office_suite":"Calligra","processor_architecture":"arm, i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1629"},{"distribution_name":"slackware","version":"15.0","release_date":"2022-02-03","end_of_life":"NA","price":"--","image_size":"3700-3800","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"Calligra","processor_architecture":"arm, i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1697"},{"distribution_name":"slackware","version":"14.2","release_date":"2016-07-01","end_of_life":"NA","price":"50","image_size":"30-2400","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"Calligra","processor_architecture":"arm, i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1332"},{"distribution_name":"slackware","version":"14.1","release_date":"2013-11-07","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"Calligra","processor_architecture":"arm, i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1249"},{"distribution_name":"slackware","version":"14.0","release_date":"2012-09-28","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"Calligra","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1151"},{"distribution_name":"slackware","version":"13.37","release_date":"2011-04-28","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1018"},{"distribution_name":"slackware","version":"13.1","release_date":"2010-05-24","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"1011"},{"distribution_name":"slackware","version":"13.0","release_date":"2009-08-28","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TXZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"985"},{"distribution_name":"slackware","version":"12.2","release_date":"2008-12-11","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"970"},{"distribution_name":"slackware","version":"12.1","release_date":"2008-05-02","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"938"},{"distribution_name":"slackware","version":"12.0","release_date":"2007-07-02","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"892"},{"distribution_name":"slackware","version":"11.0","release_date":"2006-10-02","end_of_life":"NA","price":"50","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"544"},{"distribution_name":"slackware","version":"10.2","release_date":"2005-09-14","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"473"},{"distribution_name":"slackware","version":"10.1","release_date":"2005-02-07","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"GNOME Office, KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"552"},{"distribution_name":"slackware","version":"10.0","release_date":"2004-06-23","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"GNOME Office, KOffice","processor_architecture":"i486, s390","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"552"},{"distribution_name":"slackware","version":"9.1","release_date":"2003-09-26","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"GNOME Office, KOffice","processor_architecture":"i486","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"522"},{"distribution_name":"slackware","version":"9.0","release_date":"2003-03-18","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"--","number_of_packages":"485"},{"distribution_name":"slackware","version":"8.1","release_date":"2002-06-18","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"alpha, i386, sparc","init_system":"SysV","file_system":"ext3, ReiserFS","multilingual":"--","asian_language_support":"--","number_of_packages":"451"},{"distribution_name":"slackware","version":"8.0","release_date":"2001-07-01","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"KDE","package_management":"TGZ","release_model":"Fixed","office_suite":"KOffice","processor_architecture":"alpha, i386, SPARC","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"506"},{"distribution_name":"slackware","version":"7.1","release_date":"2000-06-22","end_of_life":"NA","price":"40","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"425"},{"distribution_name":"slackware","version":"7.0","release_date":"1999-10-25","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"370"},{"distribution_name":"slackware","version":"4.0","release_date":"1999-05-17","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"387"},{"distribution_name":"slackware","version":"3.9","release_date":"1999-05-10","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"384"},{"distribution_name":"slackware","version":"3.6","release_date":"1998-10-28","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"337"},{"distribution_name":"slackware","version":"3.5","release_date":"1998-06-09","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"338"},{"distribution_name":"slackware","version":"3.4","release_date":"1997-10-14","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"313"},{"distribution_name":"slackware","version":"3.3","release_date":"1997-07-11","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"302"},{"distribution_name":"slackware","version":"3.2","release_date":"1997-04-20","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"297"},{"distribution_name":"slackware","version":"3.1","release_date":"1996-07-24","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"280"},{"distribution_name":"slackware","version":"3.0","release_date":"1995-08-24","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"NA"},{"distribution_name":"slackware","version":"2.3","release_date":"1995-05-24","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"262"},{"distribution_name":"slackware","version":"2.2.0","release_date":"1995-03-30","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"261"},{"distribution_name":"slackware","version":"2.0.1","release_date":"1994-09-24","end_of_life":"NA","price":"NA","image_size":"NA","download_link":"http:\/\/www.slackware.com\/getslack\/","installation_method":"Text mode","default_desktop":"NA","package_management":"TGZ","release_model":"Fixed","office_suite":"--","processor_architecture":"NA","init_system":"SysV","file_system":"NA","multilingual":"--","asian_language_support":"--","number_of_packages":"368"}]
+[
+    {
+        "distribution_name": "slackware",
+        "version": "current",
+        "release_date": "2023-11-09",
+        "end_of_life": "NA",
+        "price": "--",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Rolling",
+        "office_suite": [
+            "Calligra"
+        ],
+        "processor_architecture": [
+            "arm",
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1629"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "15.0",
+        "release_date": "2022-02-03",
+        "end_of_life": "NA",
+        "price": "--",
+        "image_size": "3700-3800",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra"
+        ],
+        "processor_architecture": [
+            "arm",
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1697"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "14.2",
+        "release_date": "2016-07-01",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "30-2400",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra"
+        ],
+        "processor_architecture": [
+            "arm",
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1332"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "14.1",
+        "release_date": "2013-11-07",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra"
+        ],
+        "processor_architecture": [
+            "arm",
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1249"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "14.0",
+        "release_date": "2012-09-28",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "Calligra"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1151"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "13.37",
+        "release_date": "2011-04-28",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1018"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "13.1",
+        "release_date": "2010-05-24",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "1011"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "13.0",
+        "release_date": "2009-08-28",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TXZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "985"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "12.2",
+        "release_date": "2008-12-11",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "970"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "12.1",
+        "release_date": "2008-05-02",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "938"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "12.0",
+        "release_date": "2007-07-02",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "892"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "11.0",
+        "release_date": "2006-10-02",
+        "end_of_life": "NA",
+        "price": "50",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "544"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "10.2",
+        "release_date": "2005-09-14",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "473"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "10.1",
+        "release_date": "2005-02-07",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GNOME Office",
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "552"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "10.0",
+        "release_date": "2004-06-23",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GNOME Office",
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486",
+            "s390"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "552"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "9.1",
+        "release_date": "2003-09-26",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GNOME Office",
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i486"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "522"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "9.0",
+        "release_date": "2003-03-18",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "485"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "8.1",
+        "release_date": "2002-06-18",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "alpha",
+            "i386",
+            "sparc"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ReiserFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "451"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "8.0",
+        "release_date": "2001-07-01",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "KOffice"
+        ],
+        "processor_architecture": [
+            "alpha",
+            "i386",
+            "SPARC"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "506"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "7.1",
+        "release_date": "2000-06-22",
+        "end_of_life": "NA",
+        "price": "40",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "425"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "7.0",
+        "release_date": "1999-10-25",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "370"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "4.0",
+        "release_date": "1999-05-17",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "387"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.9",
+        "release_date": "1999-05-10",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "384"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.6",
+        "release_date": "1998-10-28",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "337"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.5",
+        "release_date": "1998-06-09",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "338"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.4",
+        "release_date": "1997-10-14",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "313"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.3",
+        "release_date": "1997-07-11",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "302"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.2",
+        "release_date": "1997-04-20",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "297"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.1",
+        "release_date": "1996-07-24",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "280"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "3.0",
+        "release_date": "1995-08-24",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "2.3",
+        "release_date": "1995-05-24",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "262"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "2.2.0",
+        "release_date": "1995-03-30",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "261"
+    },
+    {
+        "distribution_name": "slackware",
+        "version": "2.0.1",
+        "release_date": "1994-09-24",
+        "end_of_life": "NA",
+        "price": "NA",
+        "image_size": "NA",
+        "download_link": "http://www.slackware.com/getslack/",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "NA"
+        ],
+        "package_management": "TGZ",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "NA"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "--"
+        ],
+        "number_of_packages": "368"
+    }
+]

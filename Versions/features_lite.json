@@ -1,1 +1,205 @@
-[{"distribution_name":"lite","version":"6.6","release_date":"2023-09-04","end_of_life":"NA","price":"Free","image_size":"2300-2400","download_link":"http:\/\/sourceforge.net\/projects\/linuxlite\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"2149"},{"distribution_name":"lite","version":"5.8","release_date":"2022-01-31","end_of_life":"NA","price":"Free","image_size":"1400-1500","download_link":"http:\/\/sourceforge.net\/projects\/linuxlite\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1959"},{"distribution_name":"lite","version":"4.8","release_date":"2020-01-13","end_of_life":"NA","price":"Free","image_size":"1300-1400","download_link":"http:\/\/sourceforge.net\/projects\/linuxlite\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"2061"},{"distribution_name":"lite","version":"3.8","release_date":"2018-01-30","end_of_life":"NA","price":"Free","image_size":"1000-1100","download_link":"http:\/\/sourceforge.net\/projects\/linuxlite\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i686, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1791"},{"distribution_name":"lite","version":"2.8","release_date":"2016-01-31","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/sourceforge.net\/projects\/linuxlite\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"NA","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1552"},{"distribution_name":"lite","version":"1.0.8","release_date":"2014-01-16","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"http:\/\/sourceforge.net\/projects\/linuxlite\/files\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"NA","multilingual":"NA","asian_language_support":"NA","number_of_packages":"1263"}]
+[
+    {
+        "distribution_name": "lite",
+        "version": "6.6",
+        "release_date": "2023-09-04",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2300-2400",
+        "download_link": "http://sourceforge.net/projects/linuxlite/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2149"
+    },
+    {
+        "distribution_name": "lite",
+        "version": "5.8",
+        "release_date": "2022-01-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1400-1500",
+        "download_link": "http://sourceforge.net/projects/linuxlite/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1959"
+    },
+    {
+        "distribution_name": "lite",
+        "version": "4.8",
+        "release_date": "2020-01-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1300-1400",
+        "download_link": "http://sourceforge.net/projects/linuxlite/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "2061"
+    },
+    {
+        "distribution_name": "lite",
+        "version": "3.8",
+        "release_date": "2018-01-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "1000-1100",
+        "download_link": "http://sourceforge.net/projects/linuxlite/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i686",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1791"
+    },
+    {
+        "distribution_name": "lite",
+        "version": "2.8",
+        "release_date": "2016-01-31",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/linuxlite/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1552"
+    },
+    {
+        "distribution_name": "lite",
+        "version": "1.0.8",
+        "release_date": "2014-01-16",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://sourceforge.net/projects/linuxlite/files/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "NA"
+        ],
+        "multilingual": [
+            "NA"
+        ],
+        "asian_language_support": [
+            "NA"
+        ],
+        "number_of_packages": "1263"
+    }
+]

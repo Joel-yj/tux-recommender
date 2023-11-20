@@ -1,1 +1,35 @@
-[{"distribution_name":"haiku","version":"R1-beta4","release_date":"2022-12-23","end_of_life":"--","price":"Free","image_size":"700-800","download_link":"http:\/\/haiku-os.org\/get-haiku","installation_method":"Graphical","default_desktop":"Haiku","package_management":"pkgman","release_model":"Fixed","office_suite":"--","processor_architecture":"i586, x86_64","init_system":"other","file_system":"BFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"145"}]
+[
+    {
+        "distribution_name": "haiku",
+        "version": "R1-beta4",
+        "release_date": "2022-12-23",
+        "end_of_life": "--",
+        "price": "Free",
+        "image_size": "700-800",
+        "download_link": "http://haiku-os.org/get-haiku",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Haiku"
+        ],
+        "package_management": "pkgman",
+        "release_model": "Fixed",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "other",
+        "file_system": [
+            "BFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "145"
+    }
+]

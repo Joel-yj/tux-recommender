@@ -1,1 +1,398 @@
-[{"distribution_name":"mageia","version":"cauldron","release_date":"2023-11-09","end_of_life":"--","price":"Free","image_size":"NA","download_link":"http:\/\/mirrors.mageia.org\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"RPM (urpmi, dnf)","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"aarch64, arm7, i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"33379"},{"distribution_name":"mageia","version":"9","release_date":"2023-08-24","end_of_life":"NA","price":"Free","image_size":"2800-4500","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"GNOME, KDE Plasma, Xfce","package_management":"RPM (urpmi, dnf)","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4307"},{"distribution_name":"mageia","version":"8","release_date":"2021-02-26","end_of_life":"NA","price":"Free","image_size":"2200-4300","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"GNOME, KDE, Xfce","package_management":"RPM (urpmi, dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4719"},{"distribution_name":"mageia","version":"7.1","release_date":"2019-07-16","end_of_life":"2021-06","price":"Free","image_size":"2200-4300","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"GNOME, KDE, Xfce","package_management":"RPM (urpmi, dnf)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4712"},{"distribution_name":"mageia","version":"6","release_date":"2017-07-16","end_of_life":"2019-11","price":"Free","image_size":"30-3600","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"GNOME, KDE, Xfce","package_management":"RPM (urpmi)","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4331"},{"distribution_name":"mageia","version":"5.1","release_date":"2016-12-02","end_of_life":"2017-12","price":"Free","image_size":"NA","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM (urpmi)","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4193"},{"distribution_name":"mageia","version":"4.1","release_date":"2014-06-20","end_of_life":"2015-09","price":"Free","image_size":"NA","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM (urpmi)","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4461"},{"distribution_name":"mageia","version":"3","release_date":"2013-05-19","end_of_life":"2014-11","price":"Free","image_size":"NA","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM (urpmi)","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4355"},{"distribution_name":"mageia","version":"2","release_date":"2012-05-22","end_of_life":"2013-11","price":"Free","image_size":"NA","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM (urpmi)","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4431"},{"distribution_name":"mageia","version":"1","release_date":"2011-06-01","end_of_life":"2012-12","price":"Free","image_size":"NA","download_link":"http:\/\/mageia.org\/en\/downloads\/","installation_method":"Graphical","default_desktop":"KDE","package_management":"RPM (urpmi)","release_model":"Fixed","office_suite":"GOffice, LibreOffice","processor_architecture":"i586, x86_64","init_system":"SysV","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"Yes","asian_language_support":"Yes","number_of_packages":"4704"}]
+[
+    {
+        "distribution_name": "mageia",
+        "version": "cauldron",
+        "release_date": "2023-11-09",
+        "end_of_life": "--",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://mirrors.mageia.org/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "RPM (urpmi, dnf)",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "aarch64",
+            "arm7",
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "33379"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "9",
+        "release_date": "2023-08-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2800-4500",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE Plasma",
+            "Xfce"
+        ],
+        "package_management": "RPM (urpmi, dnf)",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4307"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "8",
+        "release_date": "2021-02-26",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2200-4300",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE",
+            "Xfce"
+        ],
+        "package_management": "RPM (urpmi, dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4719"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "7.1",
+        "release_date": "2019-07-16",
+        "end_of_life": "2021-06",
+        "price": "Free",
+        "image_size": "2200-4300",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE",
+            "Xfce"
+        ],
+        "package_management": "RPM (urpmi, dnf)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4712"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "6",
+        "release_date": "2017-07-16",
+        "end_of_life": "2019-11",
+        "price": "Free",
+        "image_size": "30-3600",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME",
+            "KDE",
+            "Xfce"
+        ],
+        "package_management": "RPM (urpmi)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4331"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "5.1",
+        "release_date": "2016-12-02",
+        "end_of_life": "2017-12",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (urpmi)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4193"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "4.1",
+        "release_date": "2014-06-20",
+        "end_of_life": "2015-09",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (urpmi)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4461"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "3",
+        "release_date": "2013-05-19",
+        "end_of_life": "2014-11",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (urpmi)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4355"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "2",
+        "release_date": "2012-05-22",
+        "end_of_life": "2013-11",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (urpmi)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4431"
+    },
+    {
+        "distribution_name": "mageia",
+        "version": "1",
+        "release_date": "2011-06-01",
+        "end_of_life": "2012-12",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "http://mageia.org/en/downloads/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "KDE"
+        ],
+        "package_management": "RPM (urpmi)",
+        "release_model": "Fixed",
+        "office_suite": [
+            "GOffice",
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i586",
+            "x86_64"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "Yes"
+        ],
+        "asian_language_support": [
+            "Yes"
+        ],
+        "number_of_packages": "4704"
+    }
+]

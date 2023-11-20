@@ -1,1 +1,747 @@
-[{"distribution_name":"deepin","version":"23-beta2","release_date":"2023-09-23","end_of_life":"NA","price":"Free","image_size":"4200-4300","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"NA","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"bg, cz, de, en, es, fi, fr, hr, it, pt, ru, sv, tr, uk","asian_language_support":"ja, hi, ko, ml, zh_CN, zh_TW","number_of_packages":"1651"},{"distribution_name":"deepin","version":"20.9","release_date":"2023-04-17","end_of_life":"NA","price":"Free","image_size":"3300-3400","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"DEB","release_model":"Fixed","office_suite":"LibreOffice","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"bg, cz, de, en, es, fi, fr, hr, it, pt, ru, sv, tr, uk","asian_language_support":"ja, hi, ko, ml, zh_CN, zh_TW","number_of_packages":"1785"},{"distribution_name":"deepin","version":"15.11","release_date":"2019-07-19","end_of_life":"NA","price":"Free","image_size":"2300-2400","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"DEB","release_model":"Fixed","office_suite":"WPS Office","processor_architecture":"x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"bg, cz, de, en, es, fi, fr, hr, it, pt, ru, sv, tr, uk","asian_language_support":"ja, hi, ko, ml, zh_CN, zh_TW","number_of_packages":"1479"},{"distribution_name":"deepin","version":"15.3","release_date":"2016-09-13","end_of_life":"NA","price":"Free","image_size":"2200-2300","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"DEB","release_model":"Rolling","office_suite":"WPS Office","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"bg, cz, en, es, fi, fr, hr, it, pt, ru, sv, tr, uk","asian_language_support":"ja, hi, ko, ml, zh_CN, zh_TW","number_of_packages":"1435"},{"distribution_name":"deepin","version":"2014.3","release_date":"2015-04-28","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"cz, en, es, fr, it, pt, ru, tr","asian_language_support":"zh_CN, zh_TW","number_of_packages":"1609"},{"distribution_name":"deepin","version":"2013","release_date":"2013-11-28","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN, zh_TW","number_of_packages":"1355"},{"distribution_name":"deepin","version":"12.12","release_date":"2013-06-19","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Deepin DE","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN, zh_TW","number_of_packages":"1311"},{"distribution_name":"deepin","version":"12.06","release_date":"2012-07-17","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN, zh_TW","number_of_packages":"1288"},{"distribution_name":"deepin","version":"11.12.1","release_date":"2012-03-03","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i386, x86_64","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN, zh_TW","number_of_packages":"1230"},{"distribution_name":"deepin","version":"11.06.1","release_date":"2011-08-10","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Rolling","office_suite":"LibreOffice","processor_architecture":"i386","init_system":"systemd","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN, zh_TW","number_of_packages":"1320"},{"distribution_name":"deepin","version":"10.12.1","release_date":"2011-03-28","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"GNOME","package_management":"DEB","release_model":"Rolling","office_suite":"Yozo","processor_architecture":"i386","init_system":"Upstart","file_system":"Btrfs, ext3, ext4, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"zh_CN","number_of_packages":"1308"},{"distribution_name":"deepin","version":"10.06","release_date":"2010-07-20","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"OO.o","processor_architecture":"i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN","number_of_packages":"1087"},{"distribution_name":"deepin","version":"9.12","release_date":"2009-12-30","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"https:\/\/www.deepin.org\/en\/download\/","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"OO.o","processor_architecture":"i386","init_system":"Upstart","file_system":"ext3, ext4, JFS, ReiserFS, XFS","multilingual":"en","asian_language_support":"zh_CN","number_of_packages":"1100"},{"distribution_name":"deepin","version":"2.0","release_date":"2008-11-17","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"LXDE","package_management":"DEB","release_model":"Rolling","office_suite":"--","processor_architecture":"i386","init_system":"Upstart","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"zh_CN","number_of_packages":"NA"},{"distribution_name":"deepin","version":"1.0","release_date":"2006-09-25","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Graphical","default_desktop":"Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"OO.o","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"zh_CN, zh_TW","number_of_packages":"NA"},{"distribution_name":"deepin","version":"0.6","release_date":"2005-02-24","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Text mode","default_desktop":"Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"zh_CN","number_of_packages":"NA"},{"distribution_name":"deepin","version":"0.55","release_date":"2004-09-25","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Text mode","default_desktop":"Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"zh_CN","number_of_packages":"NA"},{"distribution_name":"deepin","version":"0.3","release_date":"2004-07-22","end_of_life":"NA","price":"Free","image_size":"NA","download_link":"NA","installation_method":"Text mode","default_desktop":"Xfce","package_management":"DEB","release_model":"Rolling","office_suite":"--","processor_architecture":"i386","init_system":"SysV","file_system":"ext3, JFS, ReiserFS, XFS","multilingual":"--","asian_language_support":"zh_CN","number_of_packages":"NA"}]
+[
+    {
+        "distribution_name": "deepin",
+        "version": "23-beta2",
+        "release_date": "2023-09-23",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "4200-4300",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "NA",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "bg",
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fi",
+            "fr",
+            "hr",
+            "it",
+            "pt",
+            "ru",
+            "sv",
+            "tr",
+            "uk"
+        ],
+        "asian_language_support": [
+            "ja",
+            "hi",
+            "ko",
+            "ml",
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1651"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "20.9",
+        "release_date": "2023-04-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "3300-3400",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "bg",
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fi",
+            "fr",
+            "hr",
+            "it",
+            "pt",
+            "ru",
+            "sv",
+            "tr",
+            "uk"
+        ],
+        "asian_language_support": [
+            "ja",
+            "hi",
+            "ko",
+            "ml",
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1785"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "15.11",
+        "release_date": "2019-07-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2300-2400",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Fixed",
+        "office_suite": [
+            "WPS Office"
+        ],
+        "processor_architecture": [
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "bg",
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fi",
+            "fr",
+            "hr",
+            "it",
+            "pt",
+            "ru",
+            "sv",
+            "tr",
+            "uk"
+        ],
+        "asian_language_support": [
+            "ja",
+            "hi",
+            "ko",
+            "ml",
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1479"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "15.3",
+        "release_date": "2016-09-13",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "2200-2300",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "WPS Office"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "bg",
+            "cz",
+            "en",
+            "es",
+            "fi",
+            "fr",
+            "hr",
+            "it",
+            "pt",
+            "ru",
+            "sv",
+            "tr",
+            "uk"
+        ],
+        "asian_language_support": [
+            "ja",
+            "hi",
+            "ko",
+            "ml",
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1435"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "2014.3",
+        "release_date": "2015-04-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "cz",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt",
+            "ru",
+            "tr"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1609"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "2013",
+        "release_date": "2013-11-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1355"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "12.12",
+        "release_date": "2013-06-19",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Deepin DE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1311"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "12.06",
+        "release_date": "2012-07-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1288"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "11.12.1",
+        "release_date": "2012-03-03",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386",
+            "x86_64"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1230"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "11.06.1",
+        "release_date": "2011-08-10",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "LibreOffice"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "systemd",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "1320"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "10.12.1",
+        "release_date": "2011-03-28",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "GNOME"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "Yozo"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "Btrfs",
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "1308"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "10.06",
+        "release_date": "2010-07-20",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "1087"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "9.12",
+        "release_date": "2009-12-30",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "https://www.deepin.org/en/download/",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "ext4",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "en"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "1100"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "2.0",
+        "release_date": "2008-11-17",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "LXDE"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "Upstart",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "1.0",
+        "release_date": "2006-09-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Graphical",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "OO.o"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "zh_CN",
+            "zh_TW"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "0.6",
+        "release_date": "2005-02-24",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "0.55",
+        "release_date": "2004-09-25",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "NA"
+    },
+    {
+        "distribution_name": "deepin",
+        "version": "0.3",
+        "release_date": "2004-07-22",
+        "end_of_life": "NA",
+        "price": "Free",
+        "image_size": "NA",
+        "download_link": "NA",
+        "installation_method": "Text mode",
+        "default_desktop": [
+            "Xfce"
+        ],
+        "package_management": "DEB",
+        "release_model": "Rolling",
+        "office_suite": [
+            "--"
+        ],
+        "processor_architecture": [
+            "i386"
+        ],
+        "init_system": "SysV",
+        "file_system": [
+            "ext3",
+            "JFS",
+            "ReiserFS",
+            "XFS"
+        ],
+        "multilingual": [
+            "--"
+        ],
+        "asian_language_support": [
+            "zh_CN"
+        ],
+        "number_of_packages": "NA"
+    }
+]
