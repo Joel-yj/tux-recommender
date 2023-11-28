@@ -92,7 +92,7 @@ for i,row in data.iterrows():
     "rating": data['Ratings'][i]}
     data_objs.append(obj)
 
-# client.batch.configure(batch_size=100)
+client.batch.configure(batch_size=10)
 
 with client.batch as batch:
     for data_obj in data_objs:
