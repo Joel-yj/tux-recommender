@@ -12,49 +12,75 @@ st.title("🔍 DistroFinder ")
 st.markdown("##")
 
 # Load data
-df = pd.read_csv("Homepage.csv")
-df = df.drop(columns=["Unnamed: 0"])
+df1 = pd.read_csv("Homepage.csv")
+df1 = df1.drop(columns=["Unnamed: 0"])
 feature_names = pd.read_json("Versions/features_absolute.json")
 feature_names = feature_names.columns.tolist()
+df2 = pd.read_csv("final_cluster9.csv")
+
 
 
 # Sidebars
 st.sidebar.image("assets/tux.png",caption="Find your right LINUX system")
 
 # Main page
-st.subheader("Find your Linux System")
-
-
+st.subheader("Find your Linux System") 
 
 # Search Bar for distribution
-results = st_searchbox(
+distribution_names = st_searchbox(
     placeholder="Search for your distribution:", 
     key="searchbox", 
     search_function=search_distro,
-    default_options=df["Name"].values.tolist(),
-
+    default_options=df1["Name"].values.tolist(),
     )
+if distribution_names != None:
+    distribution_id = df1[df1["Name"].str.contains(distribution_names, case=False)]["ID"].values[0]
 
+    # getting the distributions from the search
+    cal_distr = calista_search(distribution_id)
+    chae_distr = chae_search(distribution_id)
+    st.write(cal_distr)
+    st.write(chae_distr)
+    # Perform intersection of distribution names in cal_distr and chae_distr
+
+    distro_dict = {item1['distro']: item1 for item1 in cal_distr}
+    matching_distributions = []
+    for item2 in chae_distr:
+        distro_id = item2["ids"]
+        if distro_id in distro_dict:
+            matching_distributions.append(item2)
+    
+
+
+top10_distros = st.button("Recommend")
+if top10_distros:
+    st.write("Top 10 distros")
+    st.write(matching_distributions)
 # Filter by features
 #TODO Enable user to filter according to package/version from distribution found
 #TODO Enable user to input text to filter the attributes and return the distribution
 
-st.subheader("Filter by Features")
-features = st.multiselect("Features", options=feature_names, default=feature_names[0])
-col1,col2 = st.columns(2)
-for feature in features:
-    with col1:
-        st.write(feature)
-    with col2:
-        st.text_input(f"Search for {feature}:",value=None)
 
-search = st.text_input("Search for feature:",value=None)
 
-if search == None:
-    st.write("No results found")
-else:
-    response = feature_filter(search, features)
-    st.write(response)
+
+
+
+# st.subheader("Filter by Features")
+# features = st.multiselect("Features", options=feature_names, default=feature_names[0])
+# col1,col2 = st.columns(2)
+# for feature in features:
+#     with col1:
+#         st.write(feature)
+#     with col2:
+#         st.text_input(f"Search for {feature}:",value=None)
+
+# search = st.text_input("Search for feature:",value=None)
+
+# if search == None:
+#     st.write("No results found")
+# else:
+#     response = feature_filter(search, features)
+#     st.write(response)
 
 
 
@@ -78,7 +104,7 @@ else:
 #     st.write("**Bases**: "+filtered_df["Bases"].values[0].strip("[]").strip("'"))
     
 
-st.button("recommend")
+
 
 
 
