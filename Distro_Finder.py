@@ -40,7 +40,7 @@ if distribution_names != None:
 
     # getting the distributions from the search
     cal_distr = calista_search(distribution_id)
-    chae_distr = chae_search(distribution_id)
+    chae_distr = chae_search(distribution_names)
     # st.write(cal_distr)
     # st.write(chae_distr)
     # Perform intersection of distribution names in cal_distr and chae_distr
