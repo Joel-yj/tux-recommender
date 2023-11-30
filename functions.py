@@ -8,7 +8,7 @@ client = weaviate.Client('http://localhost:8080')
 def search_distro(searchterm:str):
     df = pd.read_csv("Homepage.csv")
     df = df[df['Name'].str.contains(searchterm,case=False)]
-
+    return df["Name"].values.tolist()
     
 def weaviate_test():
     response = (
@@ -67,13 +67,13 @@ def calista_search(distro_key:str):
             response =  (client.query
                 .get("Cluster", ["distro", "rating", "cluster_label"])
                 .with_where(where_filter)
-                .with_limit(10)
+                .with_limit(30)
                 .with_sort({
                     'path': ['rating'],
                     'order': 'desc',
                 })
                 .do())
-            return response['data']['Get']['Cluster'][:10]
+            return response['data']['Get']['Cluster'][:50]
         except:
             return "No results found"
         
@@ -88,11 +88,11 @@ def chae_search(distr_name):
     response = (
         client.query.get('Distributions', ['name', 'description', 'ids', 'homepage', 'popularity', 'rating'])
         .with_near_vector(data_object)  # performs vector-wise semantic search (weaviate does this)
-        .with_limit(10)
+        .with_limit(30)
         .with_additional(['distance', 'id'])
         .do()
     )
-    return response['data']['Get']['Distributions'][:10]
+    return response['data']['Get']['Distributions'][:50]
 
 def get_object_id(input):
     response = (

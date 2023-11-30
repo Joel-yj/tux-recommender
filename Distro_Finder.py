@@ -4,6 +4,9 @@ from streamlit_searchbox import st_searchbox
 import pandas as pd
 from PIL import Image
 from functions import *
+from streamlit_card import card
+import base64
+from streamlit_extras.switch_page_button import switch_page 
 
 
 # App title and logo
@@ -19,7 +22,6 @@ feature_names = feature_names.columns.tolist()
 df2 = pd.read_csv("final_cluster9.csv")
 
 
-
 # Sidebars
 st.sidebar.image("assets/tux.png",caption="Find your right LINUX system")
 
@@ -28,7 +30,7 @@ st.subheader("Find your Linux System")
 
 # Search Bar for distribution
 distribution_names = st_searchbox(
-    placeholder="Search for your distribution:", 
+    placeholder="Search for your distribution", 
     key="searchbox", 
     search_function=search_distro,
     default_options=df1["Name"].values.tolist(),
@@ -39,8 +41,8 @@ if distribution_names != None:
     # getting the distributions from the search
     cal_distr = calista_search(distribution_id)
     chae_distr = chae_search(distribution_id)
-    st.write(cal_distr)
-    st.write(chae_distr)
+    # st.write(cal_distr)
+    # st.write(chae_distr)
     # Perform intersection of distribution names in cal_distr and chae_distr
 
     distro_dict = {item1['distro']: item1 for item1 in cal_distr}
@@ -52,13 +54,32 @@ if distribution_names != None:
     
 
 
-top10_distros = st.button("Recommend")
+top10_distros = st.button("Recommend",key="recommend",)
 if top10_distros:
-    st.write("Top 10 distros")
-    st.write(matching_distributions)
-# Filter by features
-#TODO Enable user to filter according to package/version from distribution found
-#TODO Enable user to input text to filter the attributes and return the distribution
+    st.write("Top Distros")
+    for item in matching_distributions:
+        name = item["name"]
+        rating = item['rating'].strip("['']")
+        popularity = item['popularity'].strip("['']").split(" ")[0]
+        sim_score = 1 / (1+ item['_additional']['distance'])
+
+        image_path = "assets/logos/" + item["ids"] + ".png"
+        with open(image_path, "rb") as f:
+            data = f.read()
+            encoded = base64.b64encode(data)
+        data = "data:image/png;base64," + encoded.decode("utf-8")
+
+        hasClicked = card(
+            title=name,
+            text=[f"Ratings: {rating}",f"Popularity: {popularity}" ,f"Similarity Score: {sim_score:.2f}"],
+            image=data,
+            key = name,
+            url="http://localhost:8501/Distro_Stats"
+        )
+        
+        
+    # st.write(matching_distributions)
+
 
 
 
