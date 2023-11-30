@@ -11,10 +11,14 @@ from collections import defaultdict
 st.set_page_config(page_title="Distro Stats", layout="wide")
 st.sidebar.image("assets/tux.png",caption="Find your right LINUX system")
 
-st.title("📊Distro Stats - Mint")
-st.image("assets/logos/mint.png", width=100)
+st.title("📊Distro Stats - openSUSE")
+st.image("assets/logos/opensuse.png", width=100)
+geodf = pd.read_csv("Homepage.csv")
+geodf['Origins'] = geodf['Origins'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
+geodf['Bases'] = geodf['Bases'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
 
 
+############################# POPULARITY GRAPH ########################################
 # Load the data from the provided files
 file_paths = {
     "1 Week Ago": 'distro_timeline/top_distros_1_week_ago.json',
@@ -82,9 +86,9 @@ fig = px.line(plotly_df, x=plotly_df.index, y=plotly_df.columns,
 
 # Adding hover data
 fig.update_traces(mode='lines+markers', hoverinfo='all')
-fig.update_traces(line=dict(width=4, color='blue'), selector=dict(name='Mint'))
-for column in plotly_df.columns[1:]:
-    if column != 'Mint':
+fig.update_traces(line=dict(width=4, color='lightgreen'), selector=dict(name='openSUSE'))
+for column in plotly_df.columns[0:]:
+    if column != 'openSUSE':
         fig.update_traces(opacity=0.4, selector=dict(name=column))
 
 # Updating layout for better readability
@@ -93,8 +97,9 @@ fig.update_layout(xaxis_title='Time Period',
                   legend_title='Distribution',
                   xaxis_tickangle=-45)
 
-geodf = pd.read_csv("Homepage.csv")
-geodf['Origins'] = geodf['Origins'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
+st.plotly_chart(fig,use_container_width=True)
+
+############################# GEOMAP ########################################
 
 # Flatten the list of origins and count the number of distributions per origin
 origin_counts = pd.Series([origin for sublist in geodf['Origins'].dropna() for origin in sublist]).value_counts()
@@ -113,7 +118,7 @@ geo_data = pd.DataFrame([{'Country': country, 'Count': origin_counts[country],
                           'Longitude': country_coords.loc[country].x} 
                          for country in origin_counts.index if country in country_coords.index])
 
-geo_data['Color'] = geo_data['Country'].apply(lambda x: 'red' if x == 'Ireland' else 'blue')
+geo_data['Color'] = geo_data['Country'].apply(lambda x: 'green' if x == 'Germany' else 'blue')
 
 geofig = px.scatter_geo(geo_data,
                      lat='Latitude',
@@ -123,31 +128,16 @@ geofig = px.scatter_geo(geo_data,
                      color='Color',     
                      projection='natural earth',
                      title='Geospatial Distribution of Linux Distributions',
-                     color_discrete_map={'red': 'red', 'blue': 'blue'})
+                     color_discrete_map={'green': 'green', 'blue': 'blue'})
                      
 
 geofig.update_coloraxes(colorbar_title='Color')
 st.plotly_chart(geofig,use_container_width=True)
 
-st.plotly_chart(fig,use_container_width=True)
+
 
 ############################# NODE GRAPH ########################################
-# Function to safely parse strings into lists
-def safe_parse_list(s):
-    try:
-        return ast.literal_eval(s)
-    except:
-        return []
 
-# Parse the 'Bases' column
-geodf['Bases'] = geodf['Bases'].apply(safe_parse_list)
-
-def add_nodes(graph, parent, children):
-    for child in children:
-        graph.add_node(child)
-        if parent is not None:
-            graph.add_edge(parent, child)
-        add_nodes(graph, child, tree[child])
 
 # Create a dictionary to hold the tree structure
 tree = defaultdict(list)
@@ -162,6 +152,14 @@ for index, row in geodf.iterrows():
         for base in bases:
             tree[base].append(child)
 
+def add_nodes(graph, parent, children):
+    for child in children:
+        graph.add_node(child)
+        if parent is not None:
+            graph.add_edge(parent, child)
+        add_nodes(graph, child, tree[child])
+
+# Create a networkx graph from the tree
 G = nx.DiGraph()
 add_nodes(G, None, tree[None])
 
@@ -172,25 +170,18 @@ pos = nx.spring_layout(G, seed=42)
 edge_x = []
 edge_y = []
 annotations = []
-arrow_offset = 0.05
 for edge in G.edges():
     x0, y0 = pos[edge[0]]
     x1, y1 = pos[edge[1]]
     edge_x.extend([x0, x1, None])
     edge_y.extend([y0, y1, None])
 
-    dx = x1 - x0
-    dy = y1 - y0
-    length = (dx ** 2 + dy ** 2) ** 0.5
-    ax = x0 + dx * arrow_offset / length
-    ay = y0 + dy * arrow_offset / length
-
     # Create an annotation with an arrow
     annotations.append(dict(
         ax=x0, ay=y0, axref='x', ayref='y',
         x=x1, y=y1, xref='x', yref='y',
         showarrow=True,
-        arrowhead=3, arrowsize=2, arrowwidth=1, arrowcolor='black'))
+        arrowhead=3, arrowsize=2, arrowwidth=1, arrowcolor='grey'))
 
 # Create Nodes
 node_x = []
@@ -202,6 +193,12 @@ for node in G.nodes():
 
 # Create figure
 gofig = go.Figure()
+
+node_of_interest = 'openSUSE'  # Replace with the node you're interested in
+
+# Find the adjacent nodes to the node of interest
+adjacent_nodes = list(G.neighbors(node_of_interest))
+node_colors = ['green' if node == 'openSUSE' else 'yellow' if node in adjacent_nodes else 'blue' for node in G.nodes()]
 
 # Add edges as scatter trace
 gofig.add_trace(go.Scatter(
@@ -219,7 +216,7 @@ gofig.add_trace(go.Scatter(
     hovertext=[node for node in G.nodes()],  # Node names as hover text
     marker=dict(
         showscale=False,
-        color=[len(list(G.neighbors(node))) for node in G.nodes()],
+        color=node_colors,
         size=20,
         colorbar=dict(
             thickness=15,
@@ -241,3 +238,38 @@ gofig.update_layout(
     yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
 
 st.plotly_chart(gofig,use_container_width=True)
+
+
+
+############################# BAR GRAPH ########################################
+if geodf['Ratings'].dtype == object:
+    geodf['Ratings'] = geodf['Ratings'].str.replace('[\[\]\']', '', regex=True).astype(float)
+elif geodf['Ratings'].dtype in [float, int]:
+    # Ratings are already in numeric format
+    pass
+else:
+    raise ValueError("The 'Ratings' column is not in a recognized format.")
+
+
+# Calculate average ratings for Linux Mint and other distributions
+openSUSE_rating_avg = geodf[geodf['Name'] == 'openSUSE']['Ratings'].mean()
+other_ratings_avg = geodf[geodf['Name'] != 'openSUSE']['Ratings'].mean()
+
+# Data for plotting
+ratings_data = {
+    'Distribution': ['openSUSE', 'Other Distributions'],
+    'Average Rating': [openSUSE_rating_avg, other_ratings_avg]
+}
+
+# Create the bar plot
+barfig = px.bar(
+    ratings_data, 
+    x='Distribution', 
+    y='Average Rating', 
+    color='Distribution',
+    color_discrete_map={'openSUSE': 'green', 'Other Distributions': 'red'},
+    title='Average Ratings: openSUSE vs Other Distributions'
+)
+
+# Display the plot
+st.plotly_chart(barfig,use_container_width=True)

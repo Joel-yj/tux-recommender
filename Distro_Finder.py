@@ -52,8 +52,6 @@ if distribution_names != None:
         if distro_id in distro_dict:
             matching_distributions.append(item2)
     
-# st.write(matching_distributions)
-
 top10_distros = st.button("Recommend",key="recommend",)
 if top10_distros:
     st.write("Top Distros")
@@ -64,7 +62,6 @@ if top10_distros:
         sim_score = 1 / (1+ item['_additional']['distance'])
 
         image_path = "assets/logos/" + item["ids"] + ".png"
-        # st.write(image_path)
         with open(image_path, "rb") as f:
             data = f.read()
             encoded = base64.b64encode(data)
@@ -124,13 +121,6 @@ if top10_distros:
 #     st.write("**OS Types**: "+filtered_df["Os Types"].values[0].strip("[]").strip("'"))
 #     st.write("**Bases**: "+filtered_df["Bases"].values[0].strip("[]").strip("'"))
     
-
-
-
-
-
-
-
 
 
 # testing the weaviate connection
