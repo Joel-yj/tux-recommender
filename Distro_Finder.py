@@ -17,8 +17,8 @@ st.markdown("##")
 # Load data
 df1 = pd.read_csv("Homepage.csv")
 df1 = df1.drop(columns=["Unnamed: 0"])
-feature_names = pd.read_json("Versions/features_absolute.json")
-feature_names = feature_names.columns.tolist()
+feature_df = pd.read_json("Versions/features_absolute.json")
+feature_names = feature_df.columns.tolist()
 df2 = pd.read_csv("final_cluster9.csv")
 
 
@@ -36,6 +36,13 @@ distribution_names = st_searchbox(
     default_options=df1["Name"].values.tolist(),
     )
 if distribution_names != None:
+
+    st.subheader("Filter by Features")
+    features = st.multiselect("Features", options=feature_names,)
+    for feature in features:
+        with st.container():
+                st.text_input(f"Search for {feature}:",value=feature_df[feature].values[0])
+
     distribution_id = df1[df1["Name"].str.contains(distribution_names, case=False)]["ID"].values[0]
 
     # getting the distributions from the search
@@ -83,14 +90,7 @@ if top10_distros:
 
 
 
-# st.subheader("Filter by Features")
-# features = st.multiselect("Features", options=feature_names, default=feature_names[0])
-# col1,col2 = st.columns(2)
-# for feature in features:
-#     with col1:
-#         st.write(feature)
-#     with col2:
-#         st.text_input(f"Search for {feature}:",value=None)
+
 
 # search = st.text_input("Search for feature:",value=None)
 

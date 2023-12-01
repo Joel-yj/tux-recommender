@@ -273,3 +273,19 @@ barfig = px.bar(
 
 # Display the plot
 st.plotly_chart(barfig,use_container_width=True)
+
+
+
+# Load your JSON data (already done in your case)
+data = pd.read_json("Versions/features_opensuse.json")
+
+
+# Convert the data to a DataFrame
+df = pd.DataFrame(data)
+
+# Select the columns to display
+columns_to_display = ['version', 'release_date', 'price','processor_architecture','package_management', 'download_link']
+df_display = df[columns_to_display]
+
+# Display the table
+st.dataframe(df_display)
